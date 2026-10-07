@@ -27,6 +27,24 @@ Público: gente de 16-30 años que quiere empezar a revender (Vinted, Wallapop, 
 - No repetir un tema publicado en los últimos 7 días (mirar historial.json).
 - Una diapositiva = una idea. Máximo ~30 palabras por diapositiva.
 
+## Anti-bot: que cada carrusel parezca hecho a mano (OBLIGATORIO)
+Antes de escribir, lee los últimos 10 carruseles de historial.json y NO repitas:
+- el mismo gancho ni la misma primera palabra del gancho que los 3 anteriores;
+- la misma frase de CTA ni el mismo caption que el anterior;
+- el mismo número de diapositivas dos veces seguidas (alterna entre 4, 5, 6 y 7);
+- los mismos hashtags en el mismo orden (cambia 2-3 cada vez y el orden).
+Varía también:
+- **Formato de portada**: pregunta ("¿Sabes por qué no vendes en Vinted?"), lista ("3 errores que…"), historia ("Cuando empecé a revender…"), polémica ("Nadie te dice esto de los proveedores"), reto ("Si tienes 50€, haz esto").
+- **Línea pequeña de la portada**: "quédate hasta el final", "el último es el más importante", "guárdalo para luego", "lee hasta el final", "el 3 te va a sorprender"… o ninguna.
+- **Marca VINTED**: solo en 1 de cada 2 portadas, y a veces "WALLAPOP" o nada si el tema no es de Vinted.
+- **CTA** (rota, siempre con la palabra “proveedores”):
+  "Comenta “proveedores” y te paso el link" · "Escribe “proveedores” y te los mando" · "¿Los quieres? Comenta “proveedores”" · "Comenta “proveedores” y te digo cuáles uso" · "Te dejo mis proveedores: comenta “proveedores”"
+  + a veces "Link en la bio !!", a veces "Están en mi bio", a veces nada más.
+- **Colores**: no uses siempre amarillo; reparte entre amarillo, azul, verde, rojo y rosa.
+- **Caption**: cambia la estructura (a veces pregunta, a veces frase corta, a veces 2 líneas), los emojis y la longitud.
+- **Hora**: la publicación se programa con un retraso aleatorio de 5 a 50 minutos, nunca a la misma hora exacta.
+- **Escritura natural**: algún "bro", "de verdad", "ojo", "literal", minúsculas al empezar alguna línea, como escribe Aritz. Sin pasarse.
+
 ## Temas (rotar y crear nuevos parecidos)
 - Cómo empezar a revender con 50€ paso a paso
 - 3 errores al empezar a revender

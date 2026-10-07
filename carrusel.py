@@ -114,11 +114,27 @@ def fondo_generado(semilla):
     return Image.blend(img, ruido, 0.06)
 
 
-def fondo_foto(ruta):
+def fondo_foto(ruta, rnd=None):
+    """Foto de fondo. Con rnd, cada uso sale distinto (zoom, encuadre, espejo, giro, tono)
+    para que una foto repetida nunca sea idéntica a la anterior."""
+    rnd = rnd or random.Random()
     img = ImageOps.exif_transpose(Image.open(ruta)).convert("RGB")
-    img = ImageOps.fit(img, (W, H), Image.LANCZOS)
+    if rnd.random() < 0.5:
+        img = ImageOps.mirror(img)
+    ang = rnd.uniform(-2.5, 2.5)
+    img = img.rotate(ang, resample=Image.BICUBIC, expand=False)
+    zoom = rnd.uniform(1.08, 1.4)
+    cx, cy = rnd.uniform(0.3, 0.7), rnd.uniform(0.3, 0.7)
+    img = ImageOps.fit(img, (int(W * zoom), int(H * zoom)), Image.LANCZOS, centering=(cx, cy))
+    ox = rnd.randint(0, img.width - W); oy = rnd.randint(0, img.height - H)
+    img = img.crop((ox, oy, ox + W, oy + H))
+    from PIL import ImageEnhance
+    img = ImageEnhance.Color(img).enhance(rnd.uniform(0.75, 1.25))
+    img = ImageEnhance.Contrast(img).enhance(rnd.uniform(0.9, 1.15))
+    tinte = rnd.choice([(255, 170, 90), (90, 150, 255), (255, 255, 255), (120, 255, 200), (255, 120, 200)])
+    img = Image.blend(img, Image.new("RGB", (W, H), tinte), rnd.uniform(0.0, 0.08))
     oscuro = Image.new("RGB", (W, H), (0, 0, 0))
-    img = Image.blend(img, oscuro, 0.38)
+    img = Image.blend(img, oscuro, rnd.uniform(0.32, 0.45))
     viñeta = Image.new("L", (W, H), 0)
     ImageDraw.Draw(viñeta).ellipse((-300, -200, W + 300, H + 200), fill=255)
     viñeta = viñeta.filter(ImageFilter.GaussianBlur(250))
@@ -132,18 +148,39 @@ def fotos_disponibles():
     return sorted(f for f in os.listdir(d) if f.lower().endswith((".jpg", ".jpeg", ".png", ".webp")))
 
 
+USO = os.path.join(AQUI, "fondos_uso.json")
+
+
+def elegir_fotos(n, rnd):
+    """Elige n fotos empezando por las menos usadas (registro en fondos_uso.json)."""
+    fotos = fotos_disponibles()
+    if not fotos:
+        return []
+    try:
+        uso = json.load(open(USO, encoding="utf-8"))
+    except Exception:
+        uso = {}
+    rnd.shuffle(fotos)
+    fotos.sort(key=lambda f: uso.get(f, 0))
+    elegidas = [fotos[i % len(fotos)] for i in range(n)]
+    for f in elegidas:
+        uso[f] = uso.get(f, 0) + 1
+    json.dump(uso, open(USO, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    return elegidas
+
+
 def render(guion, carpeta):
     os.makedirs(carpeta, exist_ok=True)
-    fotos = fotos_disponibles()
-    rnd = random.Random(carpeta)
-    rnd.shuffle(fotos)
+    rnd = random.Random()
+    fotos = elegir_fotos(len(guion["slides"]), rnd)
+    centro = rnd.uniform(0.36, 0.46)
     rutas = []
     for i, s in enumerate(guion["slides"]):
         f = s.get("fondo", "auto")
         if f != "auto" and os.path.exists(os.path.join(AQUI, "fondos", f)):
-            bg = fondo_foto(os.path.join(AQUI, "fondos", f))
+            bg = fondo_foto(os.path.join(AQUI, "fondos", f), rnd)
         elif fotos:
-            bg = fondo_foto(os.path.join(AQUI, "fondos", fotos[i % len(fotos)]))
+            bg = fondo_foto(os.path.join(AQUI, "fondos", fotos[i]), rnd)
         else:
             bg = fondo_generado(carpeta)
         base = bg.convert("RGBA")
@@ -159,7 +196,7 @@ def render(guion, carpeta):
         marca = s.get("marca")
         fm = ImageFont.truetype(F_BOLD, 190) if marca else None
         alto_total = alto + (260 if marca else 0)
-        y = int(H * 0.40 - alto_total / 2)
+        y = int(H * centro - alto_total / 2)
         y = max(y, 260)
         esp_cache = {}
         for font, filas, lh, gap in bloques:
