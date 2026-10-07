@@ -1,0 +1,18 @@
+SUPERAGENTE DE CARRUSELES 927
+==============================
+
+1. Abre la app de Claude en este ordenador.
+2. Empieza una tarea nueva y conecta esta carpeta ("Superagente 927", en Documentos).
+3. Escribe: carrusel
+   -> Claude escribe el carrusel con tu estilo, lo dibuja y lo publica en TikTok con Metricool.
+
+Cosas que puedes decirle:
+- "carrusel sobre proveedores de perfumes"
+- "hazme 3 carruseles"
+- "busca inspiración en TikTok y hazme un carrusel"
+- "esto no lo diría yo: ..." -> lo apunta en estilo.md y aprende.
+
+Carpetas:
+- fondos/   -> mete aquí tus fotos para usarlas de fondo
+- salida/   -> aquí se guardan los carruseles generados
+- estilo.md -> tu estilo (lo puedes editar tú también)
