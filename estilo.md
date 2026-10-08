@@ -27,11 +27,34 @@ Público: gente de 16-30 años que quiere empezar a revender (Vinted, Wallapop, 
 - No repetir un tema publicado en los últimos 7 días (mirar historial.json).
 - Una diapositiva = una idea. Máximo ~30 palabras por diapositiva.
 
-## Mejoras v2 (8 oct): para más visitas y MÁS COMENTARIOS
-- **Portada**: tamaño "xxl", máximo 7 palabras, una palabra en color. Debe entenderse en 1 segundo.
-- **Fondo que pega con cada diapositiva**: pon "tema_fondo" en cada slide (coche, portatil, cajas, paquetes, zapatillas, ropa, almacen, perfume). Ej.: hablas de fotos de zapatillas → "zapatillas"; de envíos → "paquetes"; de proveedores → "cajas" o "almacen".
-- **CTA que provoca comentarios**: antes del "Comenta “proveedores”" haz una pregunta fácil de contestar con un número o una palabra ("¿Tu fallo es el 1, 2, 3 o 4?", "¿Ropa o zapatillas?", "¿Cuánto llevas revendiendo?"). Los comentarios suben el alcance.
-- Texto de explicación corto: máximo 20 palabras por diapositiva.
+## Reglas del algoritmo (v3, 8 oct 2026) — OBLIGATORIAS
+Lo que miden TikTok, Instagram y YouTube: que pasen de la 1ª a la 2ª foto (objetivo 70 %), cuántas fotos ven, tiempo mirando, guardados, comentarios y compartidos. En Shorts: el 70 % de los que se van lo hacen en los 2 primeros segundos.
+
+**Portada (diapositiva 1) = el 80 % del éxito**
+- Máximo 40 caracteres. Se entiende en 1 segundo.
+- Deja una PREGUNTA ABIERTA, nunca anuncies el tema. Mal: "5 consejos para Vinted". Bien: "Por esto pierdes dinero en Vinted", "El error que comete el 90 % al revender", "Nadie te dice esto de los proveedores", "Dejé de comprar en AliExpress por esto".
+- Formatos que funcionan: error→solución, lista con promesa ("3 cosas que nadie te cuenta"), confesión ("Cuando empecé, hacía esto mal"), polémica suave, número concreto.
+- Usa la etiqueta de color (estilo texto nativo de TikTok) en la parte clave: {"t": "dinero en Vinted", "tam": "xxl", "caja": "amarillo"}. Colores de caja: amarillo, blanco, rojo, verde, azul, rosa.
+- El generador añade solo el botón "desliza >>" en la portada.
+
+**Diapositiva 2 = segundo gancho** (Instagram la vuelve a enseñar a quien no deslizó)
+- Tiene que funcionar sola: giro o promesa ("No es tu ropa. Es a quién se la compras." + "te lo explico en 4 pasos").
+
+**Diapositivas intermedias**
+- Una idea por foto. Título corto + máximo 15 palabras. Se lee en 3 segundos.
+- Cada una debe dar ganas de ver la siguiente (orden lógico, la mejor al final de la lista).
+- El contador "1/5" lo pone el generador.
+- Una dato o ejemplo concreto vale más que una frase general ("pagas 8€ por lo que vale 3€").
+
+**Última diapositiva = guardado + comentario**
+- Resuelve lo que prometía la portada.
+- Pregunta fácil de contestar en etiqueta blanca ("¿Tú a quién le compras?", "¿El 1, 2 o 3?") + CTA "Comenta “proveedores”…".
+- A veces añade "guárdalo para…" en la penúltima.
+
+**Número de fotos**: 6-8 (TikTok), el mismo guion sirve para Instagram.
+**Formatos**: el generador saca a la vez TikTok 9:16 (salida/X/) e Instagram 4:5 (salida/X/ig/). El vídeo de Shorts/Reels sale con video.py (zoom de golpe al empezar, texto desde el fotograma 1, barra de progreso, 1,5-3 s por foto).
+**Caption**: 1ª línea = gancho con palabras que la gente busca ("proveedores Vinted", "revender ropa") + pregunta + CTA. 3-5 hashtags.
+**Música**: en TikTok siempre autoAddMusic true.
 
 ## Anti-bot: que cada carrusel parezca hecho a mano (OBLIGATORIO)
 Antes de escribir, lee los últimos 10 carruseles de historial.json y NO repitas:

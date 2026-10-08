@@ -21,16 +21,16 @@ W, H = C.W, C.H
 
 def duracion(s):
     palabras = sum(len(re.sub(r"\{\w+:|\}", "", l["t"]).split()) for l in s["lineas"])
-    return min(max(1.2 + 0.20 * palabras, 1.8), 3.6)
+    return min(max(0.9 + 0.17 * palabras, 1.5), 3.0)
 
 
 def ease(t):
     return 1 - (1 - t) ** 3
 
 
-def frame_fondo(bg, t, sentido):
-    """Zoom lento 1.00 -> 1.08 con un pequeño paneo."""
-    z = 1.0 + 0.08 * t
+def frame_fondo(bg, t, sentido, golpe=0.0):
+    """Zoom lento 1.00 -> 1.08 con un pequeño paneo (+ 'golpe' de zoom extra al empezar)."""
+    z = 1.0 + 0.08 * t + golpe
     w, h = W / z, H / z
     dx = (W - w) * (0.5 + 0.35 * sentido * (t - 0.5))
     dy = (H - h) * 0.5
@@ -78,6 +78,8 @@ def musica(ruta, segundos, bpm=96, sr=44100, semilla=0):
 
 def render_video(guion, salida, con_musica=True):
     os.makedirs(os.path.dirname(os.path.abspath(salida)), exist_ok=True)
+    C.set_formato("tiktok")
+    guion = {**guion, "slides": [{**s, "desliza": False} for s in guion["slides"]]}
     capas = C.fondos_y_textos(guion, os.path.dirname(salida))
     durs = [duracion(s) for s in guion["slides"]]
     durs[-1] += 1.0  # el CTA se queda un poco más
@@ -92,21 +94,34 @@ def render_video(guion, salida, con_musica=True):
     cmd += ["-c:v", "libx264", "-preset", "medium", "-crf", "20", "-pix_fmt", "yuv420p",
             "-movflags", "+faststart", salida]
     p = subprocess.Popen(cmd, stdin=subprocess.PIPE)
+    from PIL import ImageDraw
+    hecho = 0.0
     for i, ((bg, capa), d) in enumerate(zip(capas, durs)):
         nf = int(d * FPS)
         sentido = 1 if i % 2 == 0 else -1
         bgr = bg.convert("RGB")
         for f in range(nf):
             t = f / nf
-            fr = frame_fondo(bgr, t, sentido).convert("RGBA")
             ts = f / FPS
-            k = 1.0 if i == 0 else ease(min(1, max(0, (ts - 0.08) / 0.3)))
-            if k > 0:
-                c = capa if k >= 1 else Image.fromarray((np.asarray(capa).astype(np.float32) * [1, 1, 1, k]).astype(np.uint8))
-                fr.alpha_composite(c, (0, int(60 * (1 - k))))
+            # portada: golpe de zoom en los primeros 0,35 s para que haya movimiento desde el fotograma 1
+            golpe = 0.18 * (1 - ease(min(1, ts / 0.35))) if i == 0 else 0.0
+            fr = frame_fondo(bgr, t, sentido, golpe).convert("RGBA")
+            if i == 0:
+                esc = 1 + 0.10 * (1 - ease(min(1, ts / 0.3)))
+                c = capa.resize((int(W * esc), int(H * esc)), Image.BILINEAR)
+                fr.alpha_composite(c, (int((W - c.width) / 2), int((H - c.height) * 0.4)))
+            else:
+                k = ease(min(1, max(0, (ts - 0.06) / 0.25)))
+                if k > 0:
+                    c = capa if k >= 1 else Image.fromarray((np.asarray(capa).astype(np.float32) * [1, 1, 1, k]).astype(np.uint8))
+                    fr.alpha_composite(c, (0, int(60 * (1 - k))))
+            # barra de progreso arriba (retiene: la gente ve cuánto falta)
+            prog = (hecho + ts) / total
+            ImageDraw.Draw(fr).rectangle((0, 0, int(W * prog), 10), fill=(255, 196, 46, 255))
             if i > 0 and ts < 0.12:  # flash suave al cambiar
                 fr = Image.blend(fr, Image.new("RGBA", (W, H), (255, 255, 255, 255)), 0.35 * (1 - ts / 0.12))
             p.stdin.write(fr.convert("RGB").tobytes())
+        hecho += nf / FPS
     p.stdin.close(); p.wait()
     return salida, total
 
@@ -117,6 +132,4 @@ if __name__ == "__main__":
     out, seg = render_video(g, sys.argv[2], "--sin-musica" not in sys.argv)
     print(out, f"{seg:.1f}s")
     # tiempos de cada diapositiva (para revisar fotogramas)
-    acc = 0
-    for s_ in g["slides"]:
-        d = duracion(s_); print(f"  {acc + d / 2:.1f}s"); acc += d
+

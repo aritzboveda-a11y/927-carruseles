@@ -33,8 +33,22 @@ COLORES = {
     "rojo": (255, 45, 60), "verde": (60, 220, 110), "rosa": (255, 60, 190),
     "turquesa": (0, 170, 175),
 }
-TAMS = {"xxl": 118, "xl": 96, "l": 80, "m": 62, "s": 52}
+TAMS_BASE = {"xxl": 118, "xl": 96, "l": 80, "m": 62, "s": 52}
+TAMS = dict(TAMS_BASE)
 MAX_ANCHO = 930
+# Zonas seguras: en TikTok abajo (texto del post) y a la derecha (botones) no debe haber texto.
+FORMATOS = {
+    "tiktok": {"W": 1080, "H": 1920, "centro": (0.36, 0.44), "ancho": 900, "escala": 1.0, "ymin": 240, "ymax": 0.70},
+    "instagram": {"W": 1080, "H": 1350, "centro": (0.47, 0.50), "ancho": 880, "escala": 0.86, "ymin": 150, "ymax": 0.85},
+}
+FORMATO = FORMATOS["tiktok"]
+
+
+def set_formato(nombre):
+    global W, H, MAX_ANCHO, TAMS, FORMATO
+    FORMATO = FORMATOS[nombre]
+    W, H, MAX_ANCHO = FORMATO["W"], FORMATO["H"], FORMATO["ancho"]
+    TAMS = {k: int(v * FORMATO["escala"]) for k, v in TAMS_BASE.items()}
 
 
 def tokens(texto, color_base):
@@ -189,30 +203,61 @@ def elegir_fotos(slides, rnd):
     return elegidas
 
 
-def capa_texto(s, centro):
-    """Devuelve (capa RGBA con el texto, caja (y0, y1) que ocupa)."""
+def _contraste(rgb):
+    return (0, 0, 0) if (0.299 * rgb[0] + 0.587 * rgb[1] + 0.114 * rgb[2]) > 150 else (255, 255, 255)
+
+
+def chip(capa, texto, xy, tam=40, fondo=(255, 255, 255), alpha=235, anclaje="la"):
+    """Etiqueta redondeada pequeña (contador 2/6, 'desliza ->')."""
+    d = ImageDraw.Draw(capa)
+    f = ImageFont.truetype(F_BOLD, tam)
+    x0, y0, x1, y1 = d.textbbox((0, 0), texto, font=f)
+    w, h = x1 - x0 + 44, y1 - y0 + 26
+    x, y = xy
+    if anclaje == "ra":
+        x -= w
+    elif anclaje == "ma":
+        x -= w / 2
+    d.rounded_rectangle((x, y, x + w, y + h), radius=h // 2, fill=fondo + (alpha,))
+    d.text((x + 22 - x0, y + 13 - y0), texto, font=f, fill=_contraste(fondo) + (255,))
+
+
+def capa_texto(s, centro, idx=0, total=1):
+    """Devuelve (capa RGBA con el texto, caja (y0, y1) que ocupa).
+    Opciones por línea: "caja": "<color>" dibuja una etiqueta de color detrás (estilo texto nativo de TikTok)."""
     capa = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     draw = ImageDraw.Draw(capa)
     bloques = []
     for ln in s["lineas"]:
-        tam = TAMS.get(ln.get("tam", "m"), 62)
+        tam = TAMS.get(ln.get("tam", "m"), TAMS["m"])
         font = ImageFont.truetype(F_BOLD, tam)
         col = COLORES.get(ln.get("color", "blanco"), COLORES["blanco"])
+        caja = COLORES.get(ln.get("caja")) if ln.get("caja") else None
+        if caja:
+            col = _contraste(caja)
         filas = envolver(tokens(ln["t"], col), font, draw)
-        bloques.append((font, filas, int(tam * 1.2), int(tam * 0.5)))
-    alto = sum(len(f) * lh + gap for _, f, lh, gap in bloques)
+        lh = int(tam * (1.38 if caja else 1.2))
+        bloques.append((font, filas, lh, int(tam * 0.5), caja))
+    alto = sum(len(f) * lh + gap for _, f, lh, gap, _ in bloques)
     marca = s.get("marca")
-    fm = ImageFont.truetype(F_BOLD, 190) if marca else None
-    alto_total = alto + (260 if marca else 0)
-    y = max(int(H * centro - alto_total / 2), 260)
+    fm = ImageFont.truetype(F_BOLD, int(190 * FORMATO["escala"])) if marca else None
+    alto_total = alto + (int(260 * FORMATO["escala"]) if marca else 0)
+    y = max(int(H * centro - alto_total / 2), FORMATO["ymin"])
     y0 = y
-    for font, filas, lh, gap in bloques:
+    for font, filas, lh, gap, caja in bloques:
         esp = draw.textlength(" ", font=font)
         for grupos, ancho in filas:
             x = (W - ancho) / 2
+            if caja:
+                pad = font.size * 0.28
+                draw.rounded_rectangle((x - pad, y - pad * 0.35, x + ancho + pad, y + font.size * 1.18),
+                                       radius=int(font.size * 0.22), fill=caja + (255,))
             for grupo in grupos:
                 for w, c in grupo:
-                    texto_con_sombra(capa, (x, y), w, font, c)
+                    if caja:
+                        draw.text((x, y), w, font=font, fill=c + (255,))
+                    else:
+                        texto_con_sombra(capa, (x, y), w, font, c)
                     x += draw.textlength(w, font=font)
                 x += esp
             y += lh
@@ -220,7 +265,12 @@ def capa_texto(s, centro):
     if marca:
         mw = draw.textlength(marca, font=fm)
         texto_con_sombra(capa, ((W - mw) / 2, y + 20), marca, fm, COLORES["turquesa"])
-        y += 260
+        y += int(260 * FORMATO["escala"])
+    # señales para que deslicen: contador en las intermedias y "desliza" en la portada
+    if total > 1 and 0 < idx < total - 1:
+        chip(capa, f"{idx}/{total - 2}", (W / 2, FORMATO["ymin"] - 110), tam=34, anclaje="ma", fondo=(20, 20, 20), alpha=170)
+    if total > 1 and idx == 0 and s.get("desliza", True):
+        chip(capa, s.get("texto_desliza", "desliza  >>"), (W / 2, min(y + 40, H * FORMATO["ymax"])), tam=38, anclaje="ma")
     return capa, (y0, y)
 
 
@@ -237,17 +287,19 @@ def fondos_y_textos(guion, carpeta):
     """Para cada diapositiva: (fondo RGB sin texto, capa de texto RGBA)."""
     rnd = random.Random()
     fotos = elegir_fotos(guion["slides"], rnd)
-    centro = rnd.uniform(0.36, 0.46)
+    centro = rnd.uniform(*FORMATO["centro"])
     out = []
+    n = len(guion["slides"])
     for i, s in enumerate(guion["slides"]):
         f = fotos[i]
         bg = fondo_foto(os.path.join(AQUI, "fondos", f), rnd) if f else fondo_generado(carpeta)
-        capa, caja = capa_texto(s, centro)
+        capa, caja = capa_texto(s, centro, i, n)
         out.append((banda_oscura(bg, caja), capa))
     return out
 
 
-def render(guion, carpeta):
+def render(guion, carpeta, formato="tiktok"):
+    set_formato(formato)
     os.makedirs(carpeta, exist_ok=True)
     rutas = []
     for i, (bg, capa) in enumerate(fondos_y_textos(guion, carpeta)):
@@ -260,6 +312,11 @@ def render(guion, carpeta):
 
 
 if __name__ == "__main__":
+    # python3 carrusel.py guion.json salida/X            -> salida/X/01.jpg ... (TikTok 9:16)
+    #                                                     + salida/X/ig/01.jpg ... (Instagram 4:5)
     guion = json.load(open(sys.argv[1], encoding="utf-8"))
-    for r in render(guion, sys.argv[2]):
+    for r in render(guion, sys.argv[2], "tiktok"):
         print(r)
+    if "--sin-ig" not in sys.argv:
+        for r in render(guion, os.path.join(sys.argv[2], "ig"), "instagram"):
+            print(r)
