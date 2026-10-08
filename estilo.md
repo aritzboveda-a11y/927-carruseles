@@ -52,7 +52,7 @@ Lo que miden TikTok, Instagram y YouTube: que pasen de la 1ª a la 2ª foto (obj
 - A veces añade "guárdalo para…" en la penúltima.
 
 **Número de fotos**: 6-8 (TikTok), el mismo guion sirve para Instagram.
-**Formatos**: el generador saca a la vez TikTok 9:16 (salida/X/) e Instagram 4:5 (salida/X/ig/). El vídeo de Shorts/Reels sale con video.py (zoom de golpe al empezar, texto desde el fotograma 1, barra de progreso, 1,5-3 s por foto).
+**Formatos**: el generador saca a la vez TikTok 9:16 (salida/X/) e Instagram 4:5 (salida/X/ig/). Aritz quiere SOLO CARRUSELES (no vídeos): no uses video.py salvo que él lo pida.
 **Caption**: 1ª línea = gancho con palabras que la gente busca ("proveedores Vinted", "revender ropa") + pregunta + CTA. 3-5 hashtags.
 **Música**: en TikTok siempre autoAddMusic true.
 
