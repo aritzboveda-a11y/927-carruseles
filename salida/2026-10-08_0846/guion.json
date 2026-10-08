@@ -1,0 +1,112 @@
+{
+ "slides": [
+  {
+   "lineas": [
+    {
+     "t": "Si tus {rosa:fotos} no venden, haz esto",
+     "tam": "xl"
+    },
+    {
+     "t": "guárdalo para luego",
+     "tam": "s",
+     "color": "azul"
+    }
+   ],
+   "marca": "VINTED",
+   "fondo": "auto"
+  },
+  {
+   "lineas": [
+    {
+     "t": "1. Fondo {verde:neutro}",
+     "tam": "l"
+    },
+    {
+     "t": "pared blanca o una sábana lisa. Que solo se vea la prenda, nada de la cama deshecha.",
+     "tam": "m"
+    }
+   ],
+   "fondo": "auto"
+  },
+  {
+   "lineas": [
+    {
+     "t": "2. Luz {amarillo:natural}",
+     "tam": "l"
+    },
+    {
+     "t": "Al lado de una ventana y de día. Literal, cambia todo.",
+     "tam": "m"
+    },
+    {
+     "t": "nunca con flash",
+     "tam": "s",
+     "color": "rojo"
+    }
+   ],
+   "fondo": "auto"
+  },
+  {
+   "lineas": [
+    {
+     "t": "3. Prenda {azul:planchada}",
+     "tam": "l"
+    },
+    {
+     "t": "Una arruga hace que parezca vieja. Dos minutos de plancha y vale más.",
+     "tam": "m"
+    }
+   ],
+   "fondo": "auto"
+  },
+  {
+   "lineas": [
+    {
+     "t": "4. Usa {rosa:Photoroom}",
+     "tam": "l"
+    },
+    {
+     "t": "Quita el fondo en segundos y la foto queda de tienda. Es gratis para empezar.",
+     "tam": "m"
+    }
+   ],
+   "fondo": "auto"
+  },
+  {
+   "lineas": [
+    {
+     "t": "5. Fotos de {verde:detalles}",
+     "tam": "l"
+    },
+    {
+     "t": "etiqueta, costuras y cualquier defecto. Así confían más en ti.",
+     "tam": "m"
+    },
+    {
+     "t": "ojo, no escondas los fallos",
+     "tam": "s",
+     "color": "rojo"
+    }
+   ],
+   "fondo": "auto"
+  },
+  {
+   "lineas": [
+    {
+     "t": "Te dejo mis proveedores:",
+     "tam": "m"
+    },
+    {
+     "t": "comenta “{verde:proveedores}”",
+     "tam": "xl"
+    },
+    {
+     "t": "Están en mi bio",
+     "tam": "s",
+     "color": "rojo"
+    }
+   ],
+   "fondo": "auto"
+  }
+ ]
+}
