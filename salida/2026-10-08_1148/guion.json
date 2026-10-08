@@ -1,0 +1,23 @@
+{"slides": [
+ {"lineas": [
+   {"t": "Cuando empecé, aceptaba {amarillo:todas} las ofertas de Vinted", "tam": "xl"},
+   {"t": "y perdía dinero sin saberlo", "tam": "m"},
+   {"t": "el último es el más importante", "tam": "s", "color": "azul"}], "fondo": "auto"},
+ {"lineas": [
+   {"t": "1. Ten un {verde:precio mínimo}", "tam": "l"},
+   {"t": "antes de publicar, apunta por cuánto no lo vendes. Así no decides en caliente.", "tam": "m"}], "fondo": "auto"},
+ {"lineas": [
+   {"t": "2. Publica {azul:más caro}", "tam": "l"},
+   {"t": "Así hay sitio para regatear. Por ejemplo: si quieres sacar 15€, publícalo a 18€.", "tam": "m"}], "fondo": "auto"},
+ {"lineas": [
+   {"t": "3. Contraoferta, no {rojo:aceptes} sin más", "tam": "l"},
+   {"t": "Si te ofrecen 10€, contesta con 13€. Muchas veces os quedáis en medio.", "tam": "m"},
+   {"t": "ojo: a las ofertas ridículas, ni caso", "tam": "s", "color": "rojo"}], "fondo": "auto"},
+ {"lineas": [
+   {"t": "4. Ofrece {rosa:lotes}", "tam": "l"},
+   {"t": "Si te piden descuento, propón 2 prendas juntas con rebaja. Vendes más y haces un solo envío.", "tam": "m"}], "fondo": "auto"},
+ {"lineas": [
+   {"t": "Comenta “{amarillo:proveedores}”", "tam": "xl"},
+   {"t": "y te paso el link", "tam": "m"},
+   {"t": "Link en la bio !!", "tam": "s", "color": "rojo"}], "fondo": "auto"}
+]}
