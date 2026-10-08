@@ -56,6 +56,19 @@ Lo que miden TikTok, Instagram y YouTube: que pasen de la 1ª a la 2ª foto (obj
 **Caption**: 1ª línea = gancho con palabras que la gente busca ("proveedores Vinted", "revender ropa") + pregunta + CTA. 3-5 hashtags.
 **Música**: en TikTok siempre autoAddMusic true.
 
+## CTA que convierte (v4, 8 oct) — OBLIGATORIO
+- **Última diapositiva = enseñar el producto.** Pon "guia": "<categoría>" y el generador pega la portada REAL de la guía. Categorías: ropa, calzado, relojes, joyas, perfumes, belleza, accesorios, tecnologia, vaporizadores, bonus, pack. Elige la guía que encaja con el tema; si el tema es general (proveedores, Vinted, margen), usa "pack".
+- Texto de la última: lo que se llevan, concreto ("Te paso mis proveedores de relojes", "Los 10 proveedores que uso, en una guía") en caja blanca + "Comenta “{verde:proveedores}”". Pon "tema_fondo": "objetivo" en esa diapositiva.
+- **CTA suave a mitad** (penúltima o antepenúltima): una línea pequeña "los míos están en la guía de mi bio" o "el proveedor de esto está en mi bio".
+- La pregunta para comentar puede ir en la diapositiva 2 o en la penúltima, para que la última se centre en la guía.
+- Caption: termina con "👉 Guías en el link de mi bio" además de "Comenta “proveedores”".
+
+## Fotos de estilo de vida ("objetivo") — reglas
+- Fondos "objetivo", "reloj", "viaje", "escritorio", "coche_lujo", "ciudad": solo en la portada, en la diapositiva 2 o en la última.
+- Siempre presentados como META ("tu objetivo", "que tu negocio pague esto"), NUNCA como "esto lo gané yo" ni como prueba de ganancias.
+- Prohibido: fajos de billetes, capturas de ingresos, "hazte rico", "dinero fácil", "gana X€ al mes sin hacer nada". TikTok saca del Para ti el contenido de "hazte rico rápido".
+- Los precios de ejemplo se presentan como "ejemplo", nunca como "real" ni como ventas de Aritz (salvo que Aritz pase capturas suyas).
+
 ## Anti-bot: que cada carrusel parezca hecho a mano (OBLIGATORIO)
 Antes de escribir, lee los últimos 10 carruseles de historial.json y NO repitas:
 - el mismo gancho ni la misma primera palabra del gancho que los 3 anteriores;

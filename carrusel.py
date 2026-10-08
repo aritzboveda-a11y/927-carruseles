@@ -203,6 +203,10 @@ def elegir_fotos(slides, rnd):
     return elegidas
 
 
+OSCUROS = {(255, 196, 46): (190, 120, 0), (60, 220, 110): (15, 140, 55), (40, 150, 255): (0, 90, 200),
+           (255, 60, 190): (190, 20, 130), (0, 170, 175): (0, 120, 125)}
+
+
 def _contraste(rgb):
     return (0, 0, 0) if (0.299 * rgb[0] + 0.587 * rgb[1] + 0.114 * rgb[2]) > 150 else (255, 255, 255)
 
@@ -255,6 +259,8 @@ def capa_texto(s, centro, idx=0, total=1):
             for grupo in grupos:
                 for w, c in grupo:
                     if caja:
+                        if c != _contraste(caja) and _contraste(caja) == (0, 0, 0):
+                            c = OSCUROS.get(c, c)  # color legible sobre etiqueta clara
                         draw.text((x, y), w, font=font, fill=c + (255,))
                     else:
                         texto_con_sombra(capa, (x, y), w, font, c)
@@ -283,6 +289,30 @@ def banda_oscura(base, caja):
     return Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), base, m)
 
 
+GUIAS = os.path.join(AQUI, "guias")
+
+
+def tarjeta_guia(capa, nombre, y_top):
+    """Pega la portada real de la guía (guias/guia927_<nombre>.png) como tarjeta inclinada con sombra."""
+    ruta = os.path.join(GUIAS, f"guia927_{nombre}.png")
+    if not os.path.exists(ruta):
+        return
+    lado = 560 if FORMATO["H"] > 1500 else 400
+    limite = H * (0.84 if FORMATO["H"] > 1500 else 0.97)
+    if y_top + lado + 80 > limite:  # que no se salga ni tape el texto: se encoge
+        lado = max(300, int(limite - y_top - 80))
+    img = Image.open(ruta).convert("RGBA").resize((lado, lado), Image.LANCZOS)
+    m = Image.new("L", (lado, lado), 0)
+    ImageDraw.Draw(m).rounded_rectangle((0, 0, lado, lado), radius=28, fill=255)
+    img.putalpha(m)
+    sombra = Image.new("RGBA", (lado + 80, lado + 80), (0, 0, 0, 0))
+    ImageDraw.Draw(sombra).rounded_rectangle((40, 52, lado + 40, lado + 52), radius=28, fill=(0, 0, 0, 170))
+    sombra = sombra.filter(ImageFilter.GaussianBlur(18))
+    sombra.alpha_composite(img, (40, 40))
+    t = sombra.rotate(-4, resample=Image.BICUBIC, expand=True)
+    capa.alpha_composite(t, (int((W - t.width) / 2), int(y_top)))
+
+
 def fondos_y_textos(guion, carpeta):
     """Para cada diapositiva: (fondo RGB sin texto, capa de texto RGBA)."""
     rnd = random.Random()
@@ -293,7 +323,11 @@ def fondos_y_textos(guion, carpeta):
     for i, s in enumerate(guion["slides"]):
         f = fotos[i]
         bg = fondo_foto(os.path.join(AQUI, "fondos", f), rnd) if f else fondo_generado(carpeta)
-        capa, caja = capa_texto(s, centro, i, n)
+        if s.get("guia"):
+            capa, caja = capa_texto(s, 0.24 if H > 1500 else 0.25, i, n)
+            tarjeta_guia(capa, s["guia"], caja[1] + 30)
+        else:
+            capa, caja = capa_texto(s, centro, i, n)
         out.append((banda_oscura(bg, caja), capa))
     return out
 
