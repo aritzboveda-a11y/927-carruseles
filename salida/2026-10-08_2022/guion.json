@@ -1,0 +1,34 @@
+{
+ "slides": [
+  {"lineas": [
+    {"t": "Lo que nadie mira", "tam": "xl"},
+    {"t": "al comprar por kilo", "tam": "xxl", "caja": "verde"},
+    {"t": "guárdalo para luego", "tam": "s", "color": "azul"}
+   ], "marca": "VINTED", "tema_fondo": "ropa", "fondo": "auto"},
+  {"lineas": [
+    {"t": "No ganas al comprar el lote.", "tam": "l"},
+    {"t": "Ganas al {amarillo:clasificarlo}.", "tam": "l"},
+    {"t": "3 pasos, el último es la clave", "tam": "s", "color": "rosa"}
+   ], "tema_fondo": "objetivo", "fondo": "auto"},
+  {"lineas": [
+    {"t": "1. Pregunta {azul:qué trae}", "tam": "l"},
+    {"t": "Mezcla, temporada o “crema”. La crema cuesta más el kilo, pero vende casi todo.", "tam": "m"},
+    {"t": "ojo: pide fotos del lote abierto", "tam": "s", "color": "rojo"}
+   ], "tema_fondo": "almacen", "fondo": "auto"},
+  {"lineas": [
+    {"t": "2. Haz {amarillo:3 montones}", "tam": "l"},
+    {"t": "A: marcas y vintage. B: básicos que salen. C: lo que no vende.", "tam": "m"},
+    {"t": "literal, en el suelo de tu cuarto", "tam": "s", "color": "verde"}
+   ], "tema_fondo": "ropa", "fondo": "auto"},
+  {"lineas": [
+    {"t": "3. Echa {verde:cuentas}", "tam": "l"},
+    {"t": "Ejemplo: 10 kg a 12€ = 120€. Con 15 prendas del montón A a 15€ ya lo cubres.", "tam": "m"},
+    {"t": "¿Tú compras por kilo?", "tam": "m", "caja": "blanco"},
+    {"t": "los míos están en la guía de mi bio", "tam": "s", "color": "amarillo"}
+   ], "tema_fondo": "cajas", "fondo": "auto"},
+  {"lineas": [
+    {"t": "Te paso mis proveedores de ropa por kilo", "tam": "l", "caja": "blanco"},
+    {"t": "¿Los quieres? Comenta “{verde:proveedores}”", "tam": "m"}
+   ], "guia": "ropa", "tema_fondo": "objetivo", "fondo": "auto"}
+ ]
+}
