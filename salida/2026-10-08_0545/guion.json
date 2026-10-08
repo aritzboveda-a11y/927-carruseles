@@ -1,0 +1,80 @@
+{
+ "slides": [
+  {
+   "lineas": [
+    {
+     "t": "3 cosas que tienes que {verde:vender} en Vinted este {amarillo:otoño}",
+     "tam": "xl"
+    },
+    {
+     "t": "el 3 te va a sorprender",
+     "tam": "s",
+     "color": "azul"
+    }
+   ],
+   "fondo": "fondo927_30021734.jpg"
+  },
+  {
+   "lineas": [
+    {
+     "t": "1. Ropa {amarillo:vintage} por kilo",
+     "tam": "l"
+    },
+    {
+     "t": "Sudaderas, chaquetas y forros polares. Con el frío es lo que más se busca.",
+     "tam": "m"
+    },
+    {
+     "t": "clasifica bien, no todo vale",
+     "tam": "s",
+     "color": "rojo"
+    }
+   ],
+   "fondo": "fondo927_31769271.jpg"
+  },
+  {
+   "lineas": [
+    {
+     "t": "2. {azul:Camisetas} de fútbol",
+     "tam": "l"
+    },
+    {
+     "t": "La temporada acaba de empezar y la gente quiere la de su equipo. Se venden muy rápido, de verdad.",
+     "tam": "m"
+    }
+   ],
+   "fondo": "fondo927_23319107.jpg"
+  },
+  {
+   "lineas": [
+    {
+     "t": "3. {verde:Perfumes}",
+     "tam": "l"
+    },
+    {
+     "t": "ocupan poco, se envían fácil y en Navidad se disparan. Ejemplo: compras a 8€ y vendes a 20€.",
+     "tam": "m"
+    },
+    {
+     "t": "ojo, solo de proveedor fiable",
+     "tam": "s",
+     "color": "rojo"
+    }
+   ],
+   "fondo": "fondo927_264819.jpg"
+  },
+  {
+   "lineas": [
+    {
+     "t": "Yo los saco de mis {amarillo:proveedores}",
+     "tam": "l"
+    },
+    {
+     "t": "Comenta “{azul:proveedores}” y te digo cuáles uso",
+     "tam": "xl"
+    }
+   ],
+   "fondo": "fondo927_10897663.jpg"
+  }
+ ]
+}
