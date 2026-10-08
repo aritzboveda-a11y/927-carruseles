@@ -1,0 +1,68 @@
+{
+ "slides": [
+  {
+   "lineas": [
+    {
+     "t": "¿Tus paquetes parecen {rosa:baratos}?",
+     "tam": "xl"
+    },
+    {
+     "t": "arréglalo por menos de lo que piensas",
+     "tam": "m"
+    },
+    {
+     "t": "guárdalo para luego",
+     "tam": "s",
+     "color": "azul"
+    }
+   ],
+   "marca": "WALLAPOP",
+   "fondo": "auto"
+  },
+  {
+   "lineas": [
+    {
+     "t": "1. Seda y {verde:pegatina}",
+     "tam": "l"
+    },
+    {
+     "t": "Envuelve la prenda y ciérrala con una pegatina con tu nombre. Literal cuesta céntimos.",
+     "tam": "m"
+    }
+   ],
+   "fondo": "auto"
+  },
+  {
+   "lineas": [
+    {
+     "t": "2. Una nota {azul:a mano}",
+     "tam": "l"
+    },
+    {
+     "t": "Un “gracias por tu compra” de dos líneas. Se nota el detalle y la gente repite.",
+     "tam": "m"
+    },
+    {
+     "t": "ojo: las reseñas te dan más ventas",
+     "tam": "s",
+     "color": "rojo"
+    }
+   ],
+   "fondo": "auto"
+  },
+  {
+   "lineas": [
+    {
+     "t": "Te dejo mis proveedores: comenta “{verde:proveedores}”",
+     "tam": "xl"
+    },
+    {
+     "t": "Están en mi bio",
+     "tam": "s",
+     "color": "amarillo"
+    }
+   ],
+   "fondo": "auto"
+  }
+ ]
+}
