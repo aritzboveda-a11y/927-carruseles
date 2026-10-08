@@ -1,0 +1,38 @@
+{
+ "slides": [
+  {"lineas": [
+    {"t": "¿Proveedor chino", "tam": "xl"},
+    {"t": "o europeo?", "tam": "xxl", "caja": "azul"},
+    {"t": "el último te va a sorprender", "tam": "s", "color": "amarillo"}
+   ], "tema_fondo": "almacen", "fondo": "auto"},
+  {"lineas": [
+    {"t": "No va de cuál es {verde:más barato}.", "tam": "l"},
+    {"t": "Va de cuál te deja más margen al final.", "tam": "m"},
+    {"t": "te lo explico en 4 fotos", "tam": "s", "color": "azul"}
+   ], "tema_fondo": "objetivo", "fondo": "auto"},
+  {"lineas": [
+    {"t": "1. China: {amarillo:el precio}", "tam": "l"},
+    {"t": "Ejemplo: una sudadera a 4€. En precio no hay quien le gane.", "tam": "m"},
+    {"t": "ojo: tarda de 2 a 4 semanas", "tam": "s", "color": "rojo"}
+   ], "tema_fondo": "cajas", "fondo": "auto"},
+  {"lineas": [
+    {"t": "2. China: {rojo:el riesgo}", "tam": "l"},
+    {"t": "Aduanas, tallas que no cuadran y lotes distintos a las fotos.", "tam": "m"}
+   ], "tema_fondo": "paquetes", "fondo": "auto"},
+  {"lineas": [
+    {"t": "3. Europa: {azul:la velocidad}", "tam": "l"},
+    {"t": "Ejemplo: la misma sudadera a 7€, pero en 3-5 días y sin aduanas.", "tam": "m"},
+    {"t": "vendes antes y repites antes", "tam": "s", "color": "verde"}
+   ], "tema_fondo": "ropa", "fondo": "auto"},
+  {"lineas": [
+    {"t": "4. La {rosa:jugada} buena", "tam": "l"},
+    {"t": "Empieza con Europa para vender rápido. Cuando sepas qué rota, pide a China.", "tam": "m"},
+    {"t": "¿Tú de cuál eres?", "tam": "m", "caja": "blanco"},
+    {"t": "los míos están en la guía de mi bio", "tam": "s", "color": "amarillo"}
+   ], "tema_fondo": "portatil", "fondo": "auto"},
+  {"lineas": [
+    {"t": "Te paso mis proveedores de Europa y China", "tam": "l", "caja": "blanco"},
+    {"t": "Escribe “{verde:proveedores}” y te los mando", "tam": "m"}
+   ], "guia": "pack", "tema_fondo": "objetivo", "fondo": "auto"}
+ ]
+}
