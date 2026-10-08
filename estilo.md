@@ -27,6 +27,12 @@ Público: gente de 16-30 años que quiere empezar a revender (Vinted, Wallapop, 
 - No repetir un tema publicado en los últimos 7 días (mirar historial.json).
 - Una diapositiva = una idea. Máximo ~30 palabras por diapositiva.
 
+## Mejoras v2 (8 oct): para más visitas y MÁS COMENTARIOS
+- **Portada**: tamaño "xxl", máximo 7 palabras, una palabra en color. Debe entenderse en 1 segundo.
+- **Fondo que pega con cada diapositiva**: pon "tema_fondo" en cada slide (coche, portatil, cajas, paquetes, zapatillas, ropa, almacen, perfume). Ej.: hablas de fotos de zapatillas → "zapatillas"; de envíos → "paquetes"; de proveedores → "cajas" o "almacen".
+- **CTA que provoca comentarios**: antes del "Comenta “proveedores”" haz una pregunta fácil de contestar con un número o una palabra ("¿Tu fallo es el 1, 2, 3 o 4?", "¿Ropa o zapatillas?", "¿Cuánto llevas revendiendo?"). Los comentarios suben el alcance.
+- Texto de explicación corto: máximo 20 palabras por diapositiva.
+
 ## Anti-bot: que cada carrusel parezca hecho a mano (OBLIGATORIO)
 Antes de escribir, lee los últimos 10 carruseles de historial.json y NO repitas:
 - el mismo gancho ni la misma primera palabra del gancho que los 3 anteriores;

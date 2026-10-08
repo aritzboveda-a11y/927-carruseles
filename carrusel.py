@@ -18,7 +18,8 @@ guion.json:
   ]
 }
 Resaltar palabras: {amarillo:texto} {azul:texto} {rojo:texto} {verde:texto} {rosa:texto} {turquesa:texto}
-Tamaños: xl (portada), l (título de paso), m (texto normal), s (texto pequeño / aviso)
+Tamaños: xxl (portada impactante, pocas palabras), xl (portada), l (título de paso), m (texto normal), s (texto pequeño / aviso)
+Fondo por tema: "tema_fondo": coche | portatil | cajas | paquetes | zapatillas | ropa | almacen | perfume (ver fondos/etiquetas.json)
 """
 import json, os, random, re, sys
 from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
@@ -32,7 +33,7 @@ COLORES = {
     "rojo": (255, 45, 60), "verde": (60, 220, 110), "rosa": (255, 60, 190),
     "turquesa": (0, 170, 175),
 }
-TAMS = {"xl": 84, "l": 76, "m": 64, "s": 50}
+TAMS = {"xxl": 118, "xl": 96, "l": 80, "m": 62, "s": 52}
 MAX_ANCHO = 930
 
 
@@ -78,6 +79,15 @@ def envolver(toks, font, draw):
         ancho += gw
     if actual:
         lineas.append((actual, ancho))
+    # evitar una palabra sola en la última línea: bajar una palabra de la línea anterior
+    if len(lineas) > 1 and len(lineas[-1][0]) == 1 and len(lineas[-2][0]) >= 3:
+        def ancho_de(gs):
+            return sum(sum(draw.textlength(w, font=font) for w, _ in g) for g in gs) + esp * (len(gs) - 1)
+        prev, ult = lineas[-2][0], lineas[-1][0]
+        nuevo_ult = [prev[-1]] + ult
+        if ancho_de(nuevo_ult) <= MAX_ANCHO:
+            lineas[-2] = (prev[:-1], ancho_de(prev[:-1]))
+            lineas[-1] = (nuevo_ult, ancho_de(nuevo_ult))
     return lineas
 
 
@@ -119,8 +129,6 @@ def fondo_foto(ruta, rnd=None):
     para que una foto repetida nunca sea idéntica a la anterior."""
     rnd = rnd or random.Random()
     img = ImageOps.exif_transpose(Image.open(ruta)).convert("RGB")
-    if rnd.random() < 0.5:
-        img = ImageOps.mirror(img)
     ang = rnd.uniform(-2.5, 2.5)
     img = img.rotate(ang, resample=Image.BICUBIC, expand=False)
     zoom = rnd.uniform(1.08, 1.4)
@@ -134,7 +142,7 @@ def fondo_foto(ruta, rnd=None):
     tinte = rnd.choice([(255, 170, 90), (90, 150, 255), (255, 255, 255), (120, 255, 200), (255, 120, 200)])
     img = Image.blend(img, Image.new("RGB", (W, H), tinte), rnd.uniform(0.0, 0.08))
     oscuro = Image.new("RGB", (W, H), (0, 0, 0))
-    img = Image.blend(img, oscuro, rnd.uniform(0.32, 0.45))
+    img = Image.blend(img, oscuro, rnd.uniform(0.18, 0.30))
     viñeta = Image.new("L", (W, H), 0)
     ImageDraw.Draw(viñeta).ellipse((-300, -200, W + 300, H + 200), fill=255)
     viñeta = viñeta.filter(ImageFilter.GaussianBlur(250))
@@ -149,70 +157,102 @@ def fotos_disponibles():
 
 
 USO = os.path.join(AQUI, "fondos_uso.json")
+ETIQ = os.path.join(AQUI, "fondos", "etiquetas.json")
 
 
-def elegir_fotos(n, rnd):
-    """Elige n fotos empezando por las menos usadas (registro en fondos_uso.json)."""
-    fotos = fotos_disponibles()
-    if not fotos:
-        return []
+def _cargar(ruta, defecto):
     try:
-        uso = json.load(open(USO, encoding="utf-8"))
+        return json.load(open(ruta, encoding="utf-8"))
     except Exception:
-        uso = {}
-    rnd.shuffle(fotos)
-    fotos.sort(key=lambda f: uso.get(f, 0))
-    elegidas = [fotos[i % len(fotos)] for i in range(n)]
-    for f in elegidas:
+        return defecto
+
+
+def elegir_fotos(slides, rnd):
+    """Una foto por diapositiva: del tema pedido (tema_fondo) si hay, y siempre las menos usadas primero."""
+    todas = fotos_disponibles()
+    if not todas:
+        return [None] * len(slides)
+    uso = _cargar(USO, {})
+    etiq = _cargar(ETIQ, {})
+    elegidas, usadas_aqui = [], set()
+    for s in slides:
+        if s.get("fondo", "auto") != "auto":
+            elegidas.append(s["fondo"]); continue
+        pool = [f for f in etiq.get(s.get("tema_fondo", ""), []) if f in todas] or todas
+        cand = [f for f in pool if f not in usadas_aqui] or pool
+        rnd.shuffle(cand)
+        cand.sort(key=lambda f: uso.get(f, 0))
+        f = cand[0]
+        elegidas.append(f); usadas_aqui.add(f)
         uso[f] = uso.get(f, 0) + 1
     json.dump(uso, open(USO, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     return elegidas
 
 
+def capa_texto(s, centro):
+    """Devuelve (capa RGBA con el texto, caja (y0, y1) que ocupa)."""
+    capa = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    draw = ImageDraw.Draw(capa)
+    bloques = []
+    for ln in s["lineas"]:
+        tam = TAMS.get(ln.get("tam", "m"), 62)
+        font = ImageFont.truetype(F_BOLD, tam)
+        col = COLORES.get(ln.get("color", "blanco"), COLORES["blanco"])
+        filas = envolver(tokens(ln["t"], col), font, draw)
+        bloques.append((font, filas, int(tam * 1.2), int(tam * 0.5)))
+    alto = sum(len(f) * lh + gap for _, f, lh, gap in bloques)
+    marca = s.get("marca")
+    fm = ImageFont.truetype(F_BOLD, 190) if marca else None
+    alto_total = alto + (260 if marca else 0)
+    y = max(int(H * centro - alto_total / 2), 260)
+    y0 = y
+    for font, filas, lh, gap in bloques:
+        esp = draw.textlength(" ", font=font)
+        for grupos, ancho in filas:
+            x = (W - ancho) / 2
+            for grupo in grupos:
+                for w, c in grupo:
+                    texto_con_sombra(capa, (x, y), w, font, c)
+                    x += draw.textlength(w, font=font)
+                x += esp
+            y += lh
+        y += gap
+    if marca:
+        mw = draw.textlength(marca, font=fm)
+        texto_con_sombra(capa, ((W - mw) / 2, y + 20), marca, fm, COLORES["turquesa"])
+        y += 260
+    return capa, (y0, y)
+
+
+def banda_oscura(base, caja):
+    """Oscurece suavemente la zona del texto para que se lea sobre cualquier foto."""
+    y0, y1 = caja
+    m = Image.new("L", (W, H), 0)
+    ImageDraw.Draw(m).rectangle((0, y0 - 120, W, y1 + 120), fill=150)
+    m = m.filter(ImageFilter.GaussianBlur(110))
+    return Image.composite(Image.new("RGB", (W, H), (0, 0, 0)), base, m)
+
+
+def fondos_y_textos(guion, carpeta):
+    """Para cada diapositiva: (fondo RGB sin texto, capa de texto RGBA)."""
+    rnd = random.Random()
+    fotos = elegir_fotos(guion["slides"], rnd)
+    centro = rnd.uniform(0.36, 0.46)
+    out = []
+    for i, s in enumerate(guion["slides"]):
+        f = fotos[i]
+        bg = fondo_foto(os.path.join(AQUI, "fondos", f), rnd) if f else fondo_generado(carpeta)
+        capa, caja = capa_texto(s, centro)
+        out.append((banda_oscura(bg, caja), capa))
+    return out
+
+
 def render(guion, carpeta):
     os.makedirs(carpeta, exist_ok=True)
-    rnd = random.Random()
-    fotos = elegir_fotos(len(guion["slides"]), rnd)
-    centro = rnd.uniform(0.36, 0.46)
     rutas = []
-    for i, s in enumerate(guion["slides"]):
-        f = s.get("fondo", "auto")
-        if f != "auto" and os.path.exists(os.path.join(AQUI, "fondos", f)):
-            bg = fondo_foto(os.path.join(AQUI, "fondos", f), rnd)
-        elif fotos:
-            bg = fondo_foto(os.path.join(AQUI, "fondos", fotos[i]), rnd)
-        else:
-            bg = fondo_generado(carpeta)
+    for i, (bg, capa) in enumerate(fondos_y_textos(guion, carpeta)):
         base = bg.convert("RGBA")
-        draw = ImageDraw.Draw(base)
-        bloques = []
-        for ln in s["lineas"]:
-            tam = TAMS.get(ln.get("tam", "m"), 64)
-            font = ImageFont.truetype(F_BOLD if tam >= 60 else F_BOLD, tam)
-            col = COLORES.get(ln.get("color", "blanco"), COLORES["blanco"])
-            filas = envolver(tokens(ln["t"], col), font, draw)
-            bloques.append((font, filas, int(tam * 1.22), int(tam * 0.55)))
-        alto = sum(len(f) * lh + gap for _, f, lh, gap in bloques)
-        marca = s.get("marca")
-        fm = ImageFont.truetype(F_BOLD, 190) if marca else None
-        alto_total = alto + (260 if marca else 0)
-        y = int(H * centro - alto_total / 2)
-        y = max(y, 260)
-        esp_cache = {}
-        for font, filas, lh, gap in bloques:
-            esp = esp_cache.setdefault(font.size, draw.textlength(" ", font=font))
-            for grupos, ancho in filas:
-                x = (W - ancho) / 2
-                for grupo in grupos:
-                    for w, c in grupo:
-                        texto_con_sombra(base, (x, y), w, font, c)
-                        x += draw.textlength(w, font=font)
-                    x += esp
-                y += lh
-            y += gap
-        if marca:
-            mw = draw.textlength(marca, font=fm)
-            texto_con_sombra(base, ((W - mw) / 2, y + 20), marca, fm, COLORES["turquesa"])
+        base.alpha_composite(capa)
         ruta = os.path.join(carpeta, f"{i + 1:02d}.jpg")
         base.convert("RGB").save(ruta, quality=88)
         rutas.append(ruta)
