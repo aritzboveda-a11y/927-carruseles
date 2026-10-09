@@ -1,0 +1,35 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿cometes estos errores al revender? 😬",
+   "sub": "el último es el más importante",
+   "vinted": true
+  },
+  {
+   "titulo": "1. calcula el margen antes de comprar",
+   "abajo": "precio + envío + comisión",
+   "tema_foto": "paquetes"
+  },
+  {
+   "titulo": "2. no lo metas todo en un solo producto",
+   "abajo": "prueba poco de varias cosas",
+   "tema_foto": "stock"
+  },
+  {
+   "titulo": "3. haz fotos con luz natural 📸",
+   "abajo": "fondo limpio, nada detrás",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "4. no compres al primer proveedor que ves",
+   "guia": "pack",
+   "abajo": "link en mi bio ⚡"
+  },
+  {
+   "titulo": "escribe “proveedores” y te digo cuáles uso",
+   "sub": "¿cuál cometías tú: 1, 2, 3 o 4?",
+   "tema_foto": "objetivo"
+  }
+ ]
+}
