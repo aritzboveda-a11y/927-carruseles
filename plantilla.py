@@ -41,7 +41,7 @@ def fondo_bn(ruta):
     g = ImageOps.grayscale(img)
     g = ImageOps.autocontrast(g, cutoff=1)
     g = ImageEnhance.Contrast(g).enhance(1.15)
-    img = ImageOps.colorize(g, (18, 16, 14), (236, 230, 220))
+    img = ImageOps.colorize(g, (16, 16, 16), (232, 230, 226))
     ruido = Image.effect_noise((W, H), 40).convert("RGB")
     return Image.blend(img, ruido, 0.07)
 
@@ -184,7 +184,7 @@ def fondos_y_textos(guion, carpeta, rnd):
     slides = guion["slides"]
     todas = C.fotos_disponibles()
     # 1 foto de fondo para todo el carrusel
-    pedido = [{"fondo": guion.get("fondo", "auto"), "tema_fondo": guion.get("tema_fondo", "coche_lujo")}]
+    pedido = [{"fondo": guion.get("fondo", "auto"), "tema_fondo": guion.get("tema_fondo", "fondo_gris")}]
     fondo = C.elegir_fotos(pedido, rnd)[0]
     bg = fondo_bn(os.path.join(C.AQUI, "fondos", fondo)) if fondo else C.fondo_generado(carpeta)
     # 1 foto distinta por paso (sin repetir el fondo)
