@@ -1,0 +1,3 @@
+Mete aquí tus fotos (stock, paquetes, ropa, el portátil, el coche cargado...).
+El agente las usará de fondo en los carruseles. Cuantas más, más variados salen.
+Formatos: .jpg, .jpeg, .png, .webp

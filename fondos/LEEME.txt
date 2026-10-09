@@ -1,3 +1,2 @@
-Mete aquí tus fotos (stock, paquetes, ropa, el portátil, el coche cargado...).
-El agente las usará de fondo en los carruseles. Cuantas más, más variados salen.
-Formatos: .jpg, .jpeg, .png, .webp
+Fotos de fondo de Aritz (oct 2026). Las antiguas están en fondos_antiguos/.
+Mete aquí tus fotos (.jpg .jpeg .png .webp) y etiquétalas en etiquetas.json.

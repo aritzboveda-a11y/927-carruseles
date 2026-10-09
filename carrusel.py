@@ -19,7 +19,7 @@ guion.json:
 }
 Resaltar palabras: {amarillo:texto} {azul:texto} {rojo:texto} {verde:texto} {rosa:texto} {turquesa:texto}
 Tamaños: xxl (portada impactante, pocas palabras), xl (portada), l (título de paso), m (texto normal), s (texto pequeño / aviso)
-Fondo por tema: "tema_fondo": coche | portatil | cajas | paquetes | zapatillas | ropa | almacen | perfume (ver fondos/etiquetas.json)
+Fondo por tema: "tema_fondo": paquetes | cajas | zapatillas | ropa | almacen | coche | coche_lujo | viaje | dinero | movil | ventas | lujo | objetivo (ver fondos/etiquetas.json)
 """
 import json, os, random, re, sys
 from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
