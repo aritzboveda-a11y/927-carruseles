@@ -121,7 +121,7 @@ def etiqueta(capa, texto, y, tam, fondo=CELESTE, tinta=TINTA, max_ancho=None):
     """Texto centrado con una etiqueta por línea (estilo texto de Instagram/TikTok). Devuelve la y final."""
     W = C.W
     font = ImageFont.truetype(C.F_BOLD, tam)
-    max_ancho = max_ancho or int(W * 0.86)
+    max_ancho = max_ancho or int(W * 0.72)
     lineas = _lineas(texto, font, max_ancho)
     lh = int(tam * 1.13)
     pad_x, pad_y = int(tam * 0.32), int(tam * 0.16)
@@ -201,26 +201,34 @@ def fondos_y_textos(guion, carpeta, rnd):
     for i, s in enumerate(slides):
         capa = Image.new("RGBA", (W, H), (0, 0, 0, 0))
         portada = i == 0 and (s.get("vinted") or s.get("sub"))
-        y = int((420 if portada else 360) * alto_fmt) if H > 1500 else int(140)
-        y = etiqueta(capa, s["titulo"], y, int((84 if portada else 92) * e))
+        # zona segura de TikTok: arriba las pestañas, abajo el texto del post, a la derecha los botones
+        tiktok = H > 1500
+        limite = H * (0.72 if tiktok else 0.92)
+        y = int((330 if portada else 290) * alto_fmt) if tiktok else int(110)
+        y = etiqueta(capa, s["titulo"], y, int((80 if portada else 84) * e))
         if s.get("sub"):
-            y = etiqueta(capa, s["sub"], y + int(30 * e), int(46 * e), fondo=TEAL, tinta=(235, 250, 255))
-        abajo_y = H * (0.86 if H > 1500 else 0.90)
+            y = etiqueta(capa, s["sub"], y + int(28 * e), int(44 * e), fondo=TEAL, tinta=(235, 250, 255))
+        fin = limite
+        if s.get("abajo"):
+            ta = int(64 * e)
+            n = len(_lineas(s["abajo"], ImageFont.truetype(C.F_BOLD, ta), int(W * 0.72)))
+            ya = int(limite - n * ta * 1.13 - ta * 0.16)
+            etiqueta(capa, s["abajo"], ya, ta)
+            fin = ya - int(40 * e)
         if portada:
             if s.get("vinted", True):
-                placa_vinted(capa, int(max(y + 260 * alto_fmt, H * 0.56)), int(560 * e))
+                ancho = int(500 * e)
+                alto_placa = int(ancho * 0.66)
+                yv = min(max(y + int(120 * e), int(H * 0.42)), int(fin - alto_placa))
+                placa_vinted(capa, yv, ancho)
         else:
-            fin = abajo_y - (int(110 * e) if s.get("abajo") else 0) - 40
-            caja = (W * 0.19, y + int(50 * e), W * 0.81, fin)
+            caja = (W * 0.2, y + int(40 * e), W * 0.8, fin)
             img = None
             if s.get("guia") and os.path.exists(os.path.join(C.GUIAS, f"guia927_{s['guia']}.png")):
                 img = Image.open(os.path.join(C.GUIAS, f"guia927_{s['guia']}.png"))
-                caja = (W * 0.18, caja[1], W * 0.82, fin)
             elif fotos[i]:
                 img = Image.open(os.path.join(C.AQUI, "fondos", fotos[i]))
             if img is not None:
                 insertar(capa, img, caja)
-        if s.get("abajo"):
-            etiqueta(capa, s["abajo"], int(abajo_y - 90 * e), int(80 * e))
         out.append((bg, capa))
     return out

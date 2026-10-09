@@ -318,6 +318,7 @@ def fondos_y_textos(guion, carpeta):
     rnd = random.Random()
     if guion.get("plantilla") == "aritz":
         import plantilla
+        plantilla.C = sys.modules[__name__]  # mismo formato (TikTok/Instagram) que el generador
         return plantilla.fondos_y_textos(guion, carpeta, rnd)
     fotos = elegir_fotos(guion["slides"], rnd)
     centro = rnd.uniform(*FORMATO["centro"])
