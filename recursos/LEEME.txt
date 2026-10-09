@@ -1,0 +1,1 @@
+Pon aquí vinted.png (la placa/logo de Vinted que usas en la portada). Si no está, se dibuja una placa con el nombre.

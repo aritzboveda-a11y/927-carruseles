@@ -20,7 +20,10 @@ W, H = C.W, C.H
 
 
 def duracion(s):
-    palabras = sum(len(re.sub(r"\{\w+:|\}", "", l["t"]).split()) for l in s["lineas"])
+    textos = [l["t"] for l in s.get("lineas", [])] + [s.get(k, "") for k in ("titulo", "sub", "abajo")]
+    palabras = sum(len(re.sub(r"\{\w+:|\}", "", t).split()) for t in textos)
+    if "lineas" not in s:  # plantilla con foto: un poco más para verla
+        palabras += 3
     return min(max(0.9 + 0.17 * palabras, 1.5), 3.0)
 
 

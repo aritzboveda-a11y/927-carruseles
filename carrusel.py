@@ -316,6 +316,9 @@ def tarjeta_guia(capa, nombre, y_top):
 def fondos_y_textos(guion, carpeta):
     """Para cada diapositiva: (fondo RGB sin texto, capa de texto RGBA)."""
     rnd = random.Random()
+    if guion.get("plantilla") == "aritz":
+        import plantilla
+        return plantilla.fondos_y_textos(guion, carpeta, rnd)
     fotos = elegir_fotos(guion["slides"], rnd)
     centro = rnd.uniform(*FORMATO["centro"])
     out = []
