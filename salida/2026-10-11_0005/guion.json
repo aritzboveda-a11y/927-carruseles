@@ -1,0 +1,12 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {"titulo": "nadie te cuenta esto al revender", "sub": "lee hasta el final"},
+  {"titulo": "no es suerte. es lo que haces cada día", "abajo": "te lo explico en 4 cosas", "tema_foto": "escritorio"},
+  {"titulo": "1. la primera semana casi no vas a vender", "abajo": "es normal: tu cuenta aún es nueva", "tema_foto": "ropa"},
+  {"titulo": "2. 5 prendas subidas no son un negocio", "abajo": "ojo: cuantas más subes, más te ven", "foto": "aritz927_29.jpg"},
+  {"titulo": "3. reinvierte las primeras ventas", "abajo": "ejemplo: vendes a 15€ y recompras 3 a 5€", "tema_foto": "cajas"},
+  {"titulo": "4. el proveedor lo cambia todo", "abajo": "los míos están en la guía de mi bio", "tema_foto": "zapatillas"},
+  {"titulo": "escribe “proveedores” y te los mando", "sub": "¿tú vendes ropa o zapatillas?", "guia": "pack", "tema_foto": "objetivo"}
+ ]
+}
