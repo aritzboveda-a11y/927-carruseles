@@ -1,0 +1,30 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "así es un día revendiendo en Vinted",
+   "sub": "guárdalo para luego",
+   "vinted": true
+  },
+  {
+   "titulo": "1. por la mañana subo 3-5 prendas 📸",
+   "abajo": "ojo: con luz natural, se nota",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "2. contesto rápido 💬",
+   "abajo": "contestar tarde = venta perdida",
+   "tema_foto": "paquetes"
+  },
+  {
+   "titulo": "3. envío y repongo stock 📦",
+   "guia": "pack",
+   "abajo": "link en mi bio 🚀"
+  },
+  {
+   "titulo": "¿quieres mis proveedores? comenta “proveedores” y te los mando",
+   "sub": "¿tú cuándo subes: mañana o noche?",
+   "tema_foto": "objetivo"
+  }
+ ]
+}
