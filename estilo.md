@@ -115,31 +115,38 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 9 oct 2026** (Metricool, últimos 7 días, solo carruseles PHOTO del agente con más de 12 h).
-⚠️ **Pocos datos**: solo hay 5 carruseles del agente medibles (7-8 oct). Los 4 publicados el 8 oct a partir de las 12:25 (ofertas, packaging, chino vs europeo, ropa por kilo) están publicados pero Metricool aún no da sus cifras. Todo lo de abajo es provisional.
+**Actualizado: 10 oct 2026** (Metricool, 3-10 oct, solo carruseles PHOTO del agente con más de 12 h). 10 carruseles medibles (7-9 oct).
+⚠️ Metricool aún no da cifras de "con 50€ yo empezaría así" (publicado 9 oct 12:31) ni de "¿tu proveedor te va a estafar?" (17:34), aunque salen como publicados. "¿cometes estos errores…?" (21:04) tiene menos de 12 h. El post "#fyp #reventa" del 9 oct 07:08 (224 visitas) no es del agente.
 
 | Carrusel (gancho) | Formato | Diap. | Hora (Madrid) | Visitas | Coment. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|---|
-| 3 cosas que tienes que vender en Vinted este otoño | lista con número + temporada | 5 | 8 oct 06:26 | 741 | 0 | 0 | 12,1 |
-| ¿Sabes cuánto ganas de verdad con cada venta? | pregunta (dinero) | 5 | 8 oct 00:31 | 731 | 0 | 0 | 10,9 |
-| Nadie te dice esto cuando abres una cuenta nueva | polémica/secreto | 6 | 8 oct 03:19 | 571 | 0 | 0 | 7,0 |
-| Cómo saber si un proveedor es fiable antes de pagarle | aviso/cómo | ? | 7 oct 21:52 | 266 | 1 | 3,8 | 30,1 |
-| Si tus fotos no venden, haz esto | error→solución | 7 | 8 oct 09:20 | 174 | 0 | 0 | 5,7 |
+| Nadie te dice esto cuando abres una cuenta nueva | polémica/secreto | 6 | 8 oct 03:19 | 970 | 0 | 0 | 13,4 |
+| 3 cosas que tienes que vender en Vinted este otoño | lista + temporada | 5 | 8 oct 06:26 | 868 | 1 | 1,2 | 18,4 |
+| ¿Sabes cuánto ganas de verdad con cada venta? | pregunta (dinero) | 5 | 8 oct 00:31 | 751 | 0 | 0 | 12,0 |
+| Si tus fotos no venden, haz esto | error→solución | 7 | 8 oct 09:20 | 423 | 0 | 0 | 21,3 |
+| Cuando empecé, aceptaba todas las ofertas de Vinted | confesión | 6 | 8 oct 12:25 | 318 | 1 | 3,1 | 15,7 |
+| Cómo saber si un proveedor es fiable antes de pagarle | cómo/aviso | ? | 7 oct 21:52 | 273 | 1 | 3,7 | 33,0 |
+| 3 cosas que se agotan en Black Friday | lista + temporada | 7 | 9 oct 10:02 | 213 | 0 | 0 | 18,8 |
+| ¿Proveedor chino o europeo? | pregunta | 7 | 8 oct 18:08 | 78 | 0 | 0 | 38,5 |
+| ¿Tus paquetes parecen baratos? | pregunta | 4 | 8 oct 14:57 | 51 | 0 | 0 | 78,4 |
+| Lo que nadie mira al comprar por kilo | polémica/secreto | 6 | 8 oct 21:03 | 43 | 0 | 0 | 46,5 |
 
-- **Mejores 3**: "3 cosas… este otoño" (741 visitas, 0 com.), "¿Sabes cuánto ganas…?" (731, 0), "Nadie te dice esto… cuenta nueva" (571, 0).
-- **Peores 3**: "Si tus fotos no venden, haz esto" (174, 0), "Cómo saber si un proveedor es fiable" (266, 1 — aun así el que más engancha: 30 MG/1000), "Nadie te dice esto… cuenta nueva" (571, 0). (Con 5 carruseles, el del medio sale en las dos listas.)
-- Referencia: los carruseles manuales de Aritz del 4-5 oct rondan 750-830 visitas con 14-18 me gusta y hasta 3 comentarios; los del agente llevan la mitad de me gusta por visita (~10/1000 frente a ~20/1000) y casi cero comentarios (1 en 2.483 visitas).
+- **Mejores 3**: "Nadie te dice esto cuando abres una cuenta nueva" (970 visitas, 0 com., 4 compartidos), "3 cosas que tienes que vender en Vinted este otoño" (868, 1), "¿Sabes cuánto ganas de verdad con cada venta?" (751, 0).
+- **Peores 3**: "Lo que nadie mira al comprar por kilo" (43, 0), "¿Tus paquetes parecen baratos?" (51, 0), "¿Proveedor chino o europeo?" (78, 0).
+- **Patrón más claro (hora / volumen)**: los 3 publicados entre las 00:30 y las 06:30 hicieron 750-970 visitas; los de 09:00-12:30, 210-420; los de 14:30-22:00, 40-270. El 8 oct se publicaron 7 carruseles y las visitas cayeron con cada uno (970 → 868 → 423 → 318 → 51 → 78 → 43). No se puede separar si es la hora o el exceso de posts del mismo día (los vídeos manuales de Aritz del 6 oct por la tarde sí pasaron de 700), pero lo probable es que publicar tanto seguido reparta menos alcance a cada post.
+- **Comentarios siguen casi a cero**: 3 comentarios en 3.988 visitas (0,75 por 1.000). Los posts manuales de Aritz del 4 oct sacaban 3 comentarios cada uno con ~790 visitas. La pregunta "¿el 1, el 2 o el 3?" del 9 oct no ha generado ninguno.
+- Los pocos que ven los peores dan muchos me gusta por visita (38-78/1000): el contenido gusta, el problema es el alcance, no el texto.
 
-**Reglas (provisionales, revisar cuando haya más datos)**
-1. **Repite más** portadas con **número concreto + momento** ("3 cosas que… este otoño") o **pregunta de dinero** ("¿Sabes cuánto ganas…?"): son las 2 únicas que pasaron de 700 visitas.
-2. **Evita** de momento portadas "Si tu X no…, haz esto" y "Cómo saber si…": anuncian el tema en vez de dejar curiosidad y fueron las 2 peores (174 y 266).
-3. **Prefiere 5 diapositivas**: las de 5 fueron las mejores, la de 7 la peor (muestra pequeña; sigue alternando para no parecer bot, pero 5 más a menudo).
-4. **Comentarios = el problema nº 1** (1 en 2.483 visitas). En la última diapositiva pon una pregunta de respuesta de 1 palabra ligada al tema ("¿Ropa o zapatillas?", "¿Cuál vendes tú: 1, 2 o 3?") ANTES del CTA, y en el caption mete 2-4 puntos de valor con ✅/❌ como el post manual de Aritz del 4 oct (790 visitas, 18 MG, 3 comentarios).
-5. Hora: las de madrugada/primera hora (00:30-06:30) fueron mejor que las de 09:20 y 21:50, pero con 5 posts no es concluyente: mantén el retraso aleatorio.
+**Reglas (basadas en 10 carruseles; revisar mañana)**
+1. **Prioriza temas amplios de Vinted** (cuenta, qué vender, cuánto ganas): fueron el top 3. **Evita** de momento temas de logística o nicho (packaging, ropa por kilo, chino vs europeo): los 3 peores.
+2. **Repite más** el gancho tipo "Nadie te dice esto cuando…" sobre un momento concreto de Vinted (cuenta nueva, primera venta, primer bloqueo): el mejor en visitas y el más compartido (4).
+3. **5-6 diapositivas** más a menudo: las de 5 promedian 810 visitas, las de 6 unas 440, las de 7 unas 240 (puede estar mezclado con la hora; sigue alternando para no parecer bot, pero evita 7 dos días seguidos).
+4. **Menos posts, mejor hora**: si el agente decide la hora, el mejor hueco medido es 00:30-07:00 (Madrid). Más de 3-4 carruseles al día parece hundir a los siguientes.
+5. **Comentarios**: la pregunta final debe pedir UNA palabra concreta ligada al tema ("¿ropa o zapatillas?", "¿cuánto te cobró Vinted?"), no un número; y mantén siempre la palabra “proveedores” (no alternar con “proveedor”) para que Aritz pueda responder igual a todos.
 
-**Temas/ganchos a priorizar los próximos días**
-1. Temporadas: "3 cosas que vas a vender en Vinted en Black Friday" (sigue al ganador de otoño).
-2. Nichos: "3 nichos que casi nadie vende en Vinted (y se agotan)".
-3. Proveedor estafa con número: "4 señales de que tu proveedor te va a estafar".
-4. Reto con cifra: "Si tienes 50€, haz esto para empezar a revender" (el de 50€ de Aritz hizo 730).
-5. Dinero oculto: "¿Cuánto te come Vinted de cada venta?" (variación del margen; no antes del 14 oct para no repetir tema).
+**Temas/ganchos a priorizar los próximos días** (todos los temas de la lista se usaron en los últimos 7 días; estos son nuevos parecidos a los ganadores)
+1. "Nadie te dice esto cuando haces tu primera venta" (envío, valoraciones, qué hacer después).
+2. "Por esto Vinted no enseña tus prendas" (visibilidad: horas de subida, renovar, títulos con marca).
+3. "¿Sabes cuánto se queda Vinted de cada venta?" (comisiones y envíos; tema dinero, como el de 751).
+4. "Así es un día revendiendo en Vinted" (rutina diaria: publicar, responder, enviar — tema de la lista aún sin usar).
+5. "3 cosas que vas a vender en Navidad" (temporada, como el de otoño de 868; a partir del 16 oct para no pegarlo al de Black Friday).
