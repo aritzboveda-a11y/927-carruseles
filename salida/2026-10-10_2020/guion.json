@@ -1,0 +1,11 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {"titulo": "¿pones bien el precio en Vinted? 🤔", "sub": "el último es el más importante", "vinted": true},
+  {"titulo": "1. mira a cuánto se venden prendas iguales 🔎", "abajo": "no inventes el precio, bro", "tema_foto": "ropa"},
+  {"titulo": "2. súbelo un poco para dejar hueco a ofertas 💬", "abajo": "ejemplo: quieres 15€, pon 18€", "tema_foto": "zapatillas"},
+  {"titulo": "3. si en 1 semana no se mueve, bájalo 📉", "tema_foto": "stock"},
+  {"titulo": "4. el margen se gana al comprar barato 📦", "guia": "pack", "abajo": "link en mi bio ✨"},
+  {"titulo": "comenta “proveedores” y te digo a quién le compro", "sub": "¿tú regateas o vendes a precio fijo?", "tema_foto": "objetivo"}
+ ]
+}
