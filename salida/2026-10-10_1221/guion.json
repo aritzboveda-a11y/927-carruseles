@@ -1,0 +1,35 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "por esto Vinted no enseña tu ropa",
+   "sub": "lee hasta el final",
+   "vinted": true
+  },
+  {
+   "titulo": "1. sube cuando la gente mira 🕗",
+   "abajo": "ejemplo: de 19 a 22 h",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "2. pon la marca en el título",
+   "abajo": "“sudadera Nike” > “sudadera bonita”",
+   "tema_foto": "zapatillas"
+  },
+  {
+   "titulo": "3. renueva lo que no se mueve 🔄",
+   "abajo": "ojo: sin pasarte, cada pocos días",
+   "tema_foto": "stock"
+  },
+  {
+   "titulo": "4. sube lo que la gente busca",
+   "guia": "pack",
+   "abajo": "link en mi bio ⚡"
+  },
+  {
+   "titulo": "te paso los míos: escribe “proveedores”",
+   "sub": "¿tú qué subes más: ropa o perfumes?",
+   "tema_foto": "lujo"
+  }
+ ]
+}
