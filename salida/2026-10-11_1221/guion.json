@@ -1,0 +1,10 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {"titulo": "3 cosas que se venden solas en invierno ❄️", "sub": "guárdalo para luego", "vinted": true},
+  {"titulo": "1. abrigos y plumíferos 🧥", "abajo": "súbelos antes de que haga frío de verdad", "tema_foto": "ropa"},
+  {"titulo": "2. botas y zapas de invierno 🥾", "abajo": "en noviembre vuelan 👀", "tema_foto": "zapatillas"},
+  {"titulo": "3. sudaderas y chándal 🔥", "guia": "ropa", "abajo": "proveedor en mi bio ❄️"},
+  {"titulo": "te digo a quién le compro: escribe “proveedores”", "sub": "¿abrigos, botas o sudaderas?", "tema_foto": "objetivo"}
+ ]
+}
