@@ -1,0 +1,11 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {"titulo": "¿tu ropa lleva semanas sin venderse? 😩", "sub": "el último es el más importante", "vinted": true},
+  {"titulo": "1. haz fotos nuevas con luz natural 📸", "abajo": "la primera foto lo es todo", "tema_foto": "ropa"},
+  {"titulo": "2. pon la marca y la talla en el título", "abajo": "ojo, así te encuentran en el buscador", "tema_foto": "portatil"},
+  {"titulo": "3. bájala un poco o hazla lote 📦", "abajo": "ejemplo: 2 sudaderas por 25€", "tema_foto": "paquetes"},
+  {"titulo": "4. sube cosas que se vendan solas", "guia": "pack", "abajo": "link en mi bio 💯"},
+  {"titulo": "comenta “proveedores” y te paso los que uso", "sub": "¿cuántos días lleva la tuya?", "foto": "aritz927_24.jpg"}
+ ]
+}
