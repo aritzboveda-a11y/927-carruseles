@@ -1,0 +1,11 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {"titulo": "¿cuánto tardaste en tu primera venta?", "sub": "lee hasta el final", "vinted": false},
+  {"titulo": "si llevas días sin vender, no es mala suerte", "sub": "¿1 día, 1 semana o 1 mes?", "tema_foto": "cajas"},
+  {"titulo": "1. con 3 prendas casi nadie te encuentra", "abajo": "ejemplo: sube 20 y ve rotando", "tema_foto": "ropa"},
+  {"titulo": "2. contesta cada mensaje rápido", "abajo": "ojo: el que tarda pierde la venta", "tema_foto": "paquetes"},
+  {"titulo": "3. vende lo que la gente ya busca", "abajo": "los míos están en la guía de mi bio", "tema_foto": "zapatillas"},
+  {"titulo": "te paso los proveedores que uso, en una guía", "abajo": "comenta “proveedores” y te la mando", "guia": "pack", "tema_foto": "objetivo"}
+ ]
+}
