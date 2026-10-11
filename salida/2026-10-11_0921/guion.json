@@ -1,0 +1,11 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {"titulo": "¿cuánto se queda Vinted de tu venta? 🤔", "sub": "el último es el más importante", "vinted": true},
+  {"titulo": "1. a ti no te cobra comisión 👀", "abajo": "la protección la paga el comprador", "tema_foto": "paquetes"},
+  {"titulo": "2. tampoco pagas el envío 📦", "abajo": "tú solo lo empaquetas y lo llevas", "tema_foto": "envios"},
+  {"titulo": "3. lo que sí te come el margen: a quién compras", "guia": "pack", "abajo": "link en mi bio ⚡"},
+  {"titulo": "4. haz la cuenta antes de comprar ✅", "abajo": "ejemplo: compras a 5€, vendes a 18€", "tema_foto": "ropa"},
+  {"titulo": "¿los quieres? comenta “proveedores” y te los paso", "sub": "¿con cuánto empezaste tú?", "foto": "aritz927_24.jpg"}
+ ]
+}
