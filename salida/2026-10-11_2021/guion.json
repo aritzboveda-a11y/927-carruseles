@@ -1,0 +1,31 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "nadie te dice esto si Vinted te bloquea 🚫",
+   "sub": "guárdalo para luego",
+   "vinted": true
+  },
+  {
+   "titulo": "1. no subas 40 prendas el primer día",
+   "abajo": "ojo: mejor 5-10 al día",
+   "foto": "aritz927_28.jpg"
+  },
+  {
+   "titulo": "2. nunca pases tu número ni links por chat 📵",
+   "abajo": "todo dentro de Vinted, literal",
+   "foto": "aritz927_11.jpg"
+  },
+  {
+   "titulo": "3. vende producto real con fotos tuyas",
+   "guia": "pack",
+   "abajo": "mis proveedores, link en mi bio ⚡"
+  },
+  {
+   "titulo": "escribe “proveedores” y te digo cuáles uso",
+   "sub": "¿te han bloqueado alguna vez?",
+   "foto": "aritz927_04.jpg"
+  }
+ ],
+ "fondo": "aritz927_36.jpg"
+}
