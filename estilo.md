@@ -89,7 +89,7 @@ Antes de escribir, lee los últimos 10 carruseles de historial.json y NO repitas
 Varía también:
 - **Formato de portada**: pregunta ("¿Sabes por qué no vendes en Vinted?"), lista ("3 errores que…"), historia ("Cuando empecé a revender…"), polémica ("Nadie te dice esto de los proveedores"), reto ("Si tienes 50€, haz esto").
 - **Línea pequeña de la portada**: "quédate hasta el final", "el último es el más importante", "guárdalo para luego", "lee hasta el final", "el 3 te va a sorprender"… o ninguna.
-- **Marca VINTED**: solo en 1 de cada 2 portadas, y a veces "WALLAPOP" o nada si el tema no es de Vinted.
+- **Sello de Vinted en la portada: SIEMPRE** ("vinted": true en la plantilla aritz, "marca": "VINTED" en la normal). Aritz lo pidió el 12 oct.
 - **CTA** (rota, siempre con la palabra “proveedores”):
   "Comenta “proveedores” y te paso el link" · "Escribe “proveedores” y te los mando" · "¿Los quieres? Comenta “proveedores”" · "Comenta “proveedores” y te digo cuáles uso" · "Te dejo mis proveedores: comenta “proveedores”"
   + a veces "Link en la bio !!", a veces "Están en mi bio", a veces nada más.
