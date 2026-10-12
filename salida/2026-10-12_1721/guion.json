@@ -1,0 +1,11 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {"titulo": "10 ventas en Vinted: ¿cuánto te queda? 🤔", "sub": "guárdalo para luego", "vinted": true},
+  {"titulo": "1. apunta lo que pagas 📦", "abajo": "ejemplo: 10 prendas a 6€ son 60€", "tema_foto": "cajas"},
+  {"titulo": "2. suma el envío y el embalaje", "abajo": "ejemplo: 15€ entre envío del proveedor y bolsas", "tema_foto": "paquetes"},
+  {"titulo": "3. réstalo a lo que vendes 📈", "abajo": "ejemplo: vendes 10 a 18€ y te quedan 105€", "tema_foto": "ropa"},
+  {"titulo": "4. ojo: el margen sale del proveedor", "guia": "pack", "abajo": "link en mi bio 👀"},
+  {"titulo": "escribe “proveedor” y te paso los míos 📩", "sub": "¿y a ti cuánto te queda por venta?", "tema_foto": "objetivo"}
+ ]
+}

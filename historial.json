@@ -257,5 +257,17 @@
   ],
   "carpeta": "salida/2026-10-12_0921",
   "estado": "ERROR Metricool: account limit (no publicado)"
+ },
+ {
+  "fecha": "2026-10-12 17:21",
+  "tema": "Cuánto te queda de verdad de 10 ventas en Vinted (apuntar lo que pagas, sumar envío y embalaje, restarlo a lo que vendes, el margen sale del proveedor; cifras de ejemplo)",
+  "gancho": "10 ventas en Vinted: ¿cuánto te queda? 🤔",
+  "cta": "escribe “proveedor” y te paso los míos",
+  "guia": "pack",
+  "n_diapositivas": 6,
+  "redes": [
+   "tiktok"
+  ],
+  "carpeta": "salida/2026-10-12_1721"
  }
 ]
