@@ -1,0 +1,35 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿cuánto vale tu armario en Vinted? 💸",
+   "sub": "el último es el más importante",
+   "vinted": true
+  },
+  {
+   "titulo": "1. saca lo que no te pones hace 6 meses",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "2. busca cada prenda en Vinted ya vendida",
+   "tema_foto": "movil"
+  },
+  {
+   "titulo": "3. suma: te vas a sorprender",
+   "tema_foto": "ventas"
+  },
+  {
+   "titulo": "4. con eso puedes empezar a revender",
+   "tema_foto": "cajas",
+   "guia": "pack",
+   "abajo": "link en mi bio 💥"
+  },
+  {
+   "titulo": "comenta “proveedor” y te mando el acceso",
+   "sub": "¿cuánto te ha salido? dime la cifra",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "¿sabes cuánto dinero tienes en tu armario? 👀\nhaz la cuenta y dime la cifra\n\ncomenta “proveedor” y te mando el acceso 📦\n👉 Guías en el link de mi bio\n\n#vinted #armario #revenderropa #proveedores #fyp",
+ "slot": "19_vie16_1230"
+}

@@ -1,0 +1,31 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "Vinted o Wallapop: ¿dónde vendes más? 🤔",
+   "sub": "guárdalo para luego",
+   "vinted": true
+  },
+  {
+   "titulo": "1. ropa: Vinted, sin duda",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "2. electrónica y cosas grandes: Wallapop",
+   "tema_foto": "electronica"
+  },
+  {
+   "titulo": "3. sube en las dos y compara",
+   "tema_foto": "movil",
+   "guia": "pack",
+   "abajo": "mis proveedores, link en mi bio ⚡"
+  },
+  {
+   "titulo": "comenta “proveedor” y te mando el acceso",
+   "sub": "¿tú cuál usas más?",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "¿Vinted o Wallapop para revender? 🤔\n¿tú cuál usas más? te leo\n\ncomenta “proveedor” y te mando el acceso 📦\n👉 Guías en el link de mi bio\n\n#vinted #wallapop #reventa #proveedores #fyp",
+ "slot": "25_sab17_1730"
+}

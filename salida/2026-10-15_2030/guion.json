@@ -1,0 +1,36 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿cuánto ganas revendiendo zapas? 👟",
+   "sub": "haz la cuenta",
+   "vinted": true
+  },
+  {
+   "titulo": "1. ejemplo: compras unas a 25€",
+   "tema_foto": "zapatillas",
+   "guia": "calzado",
+   "abajo": "proveedor de zapas en mi bio 🔥"
+  },
+  {
+   "titulo": "2. en Vinted se venden a 45-55€",
+   "tema_foto": "ventas"
+  },
+  {
+   "titulo": "3. te quedan unos 20-30€",
+   "tema_foto": "paquetes",
+   "abajo": "ojo: es un ejemplo"
+  },
+  {
+   "titulo": "4. 2 pares a la semana ya se notan",
+   "tema_foto": "objetivo"
+  },
+  {
+   "titulo": "escribe “proveedor” y te mando el acceso",
+   "sub": "¿qué zapas venderías tú?",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "¿cuánto te queda revendiendo zapas en Vinted? 👟 (ejemplo)\n¿qué modelo venderías tú?\n\nescribe “proveedor” y te mando el acceso 📩\n👉 Guías en el link de mi bio\n\n#vinted #zapatillas #reventa #proveedores #fyp",
+ "slot": "16_jue15_2030"
+}

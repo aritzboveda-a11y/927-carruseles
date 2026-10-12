@@ -1,0 +1,35 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿cuánto vale un abrigo usado en Vinted? 🧥",
+   "sub": "el 3 sorprende",
+   "vinted": true
+  },
+  {
+   "titulo": "1. de marca y en buen estado: se vende rápido",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "2. busca el mismo modelo ya vendido",
+   "tema_foto": "movil"
+  },
+  {
+   "titulo": "3. ponlo un poco por debajo",
+   "tema_foto": "ventas"
+  },
+  {
+   "titulo": "4. en invierno se mueven el doble",
+   "tema_foto": "stock",
+   "guia": "ropa",
+   "abajo": "proveedores de ropa en mi bio 🔥"
+  },
+  {
+   "titulo": "comenta “proveedores” y te los paso",
+   "sub": "¿a cuánto lo venderías tú?",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "precio de abrigos en Vinted este invierno ❄️\n¿a cuánto lo venderías tú?\n\ncomenta “proveedores” y te los paso 📦\n👉 Guías en el link de mi bio\n\n#vinted #invierno #abrigos #proveedores #reventa",
+ "slot": "11_mie14_2030"
+}

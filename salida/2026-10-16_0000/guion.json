@@ -1,0 +1,35 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "nadie empieza sabiendo, bro",
+   "sub": "lee hasta el final",
+   "vinted": true
+  },
+  {
+   "titulo": "1. tu primera foto va a ser mala",
+   "tema_foto": "movil"
+  },
+  {
+   "titulo": "2. tu primer precio va a estar mal",
+   "tema_foto": "ventas"
+  },
+  {
+   "titulo": "3. y aun así vas a vender",
+   "tema_foto": "paquetes"
+  },
+  {
+   "titulo": "4. lo importante es empezar",
+   "tema_foto": "objetivo",
+   "guia": "pack",
+   "abajo": "mis proveedores, link en mi bio ⚡"
+  },
+  {
+   "titulo": "comenta “proveedores” y te los paso",
+   "sub": "¿qué te frena a empezar?",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "si estás pensando en empezar a revender, lee esto 🌙\n¿qué te frena a empezar?\n\ncomenta “proveedores” y te los paso 📦\n👉 Guías en el link de mi bio\n\n#vinted #reventa #motivacion #proveedores #emprender",
+ "slot": "17_vie16_0000"
+}

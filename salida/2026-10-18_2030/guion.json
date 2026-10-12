@@ -1,0 +1,35 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿cuánto vale tu ropa de esquí en Vinted? ⛷️",
+   "sub": "se vende ya",
+   "vinted": true
+  },
+  {
+   "titulo": "1. chaquetas de nieve de marca",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "2. pantalones y guantes",
+   "tema_foto": "stock"
+  },
+  {
+   "titulo": "3. ahora es cuando se buscan",
+   "tema_foto": "ventas"
+  },
+  {
+   "titulo": "4. si no tienes, se puede comprar barato",
+   "tema_foto": "cajas",
+   "guia": "ropa",
+   "abajo": "proveedores de ropa en mi bio 🔥"
+  },
+  {
+   "titulo": "comenta “proveedores” y te los paso",
+   "sub": "¿tú esquías? dime sí o no",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "la ropa de nieve se empieza a vender ya en Vinted ⛷️\n¿tú esquías? sí o no\n\ncomenta “proveedores” y te los paso 📦\n👉 Guías en el link de mi bio\n\n#vinted #esqui #invierno #proveedores #reventa",
+ "slot": "31_dom18_2030"
+}

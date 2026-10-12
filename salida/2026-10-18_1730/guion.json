@@ -1,0 +1,29 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "3 fallos por los que no te compran",
+   "sub": "el último es el más importante",
+   "vinted": true
+  },
+  {
+   "titulo": "1. fotos oscuras",
+   "tema_foto": "movil"
+  },
+  {
+   "titulo": "2. descripción vacía",
+   "tema_foto": "escritorio"
+  },
+  {
+   "titulo": "3. tardar horas en contestar",
+   "tema_foto": "ventas"
+  },
+  {
+   "titulo": "escribe “proveedor” y te paso los míos",
+   "sub": "¿cuál te pasa a ti? 1, 2 o 3",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "si no te compran en Vinted, mira esto 👀\n¿cuál te pasa a ti? 1, 2 o 3\n\nescribe “proveedor” y te paso los míos 📩\n👉 Guías en el link de mi bio\n\n#vinted #trucosvinted #revenderropa #proveedores #fyp",
+ "slot": "30_dom18_1730"
+}

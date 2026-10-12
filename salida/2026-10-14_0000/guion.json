@@ -1,0 +1,35 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "si empezara hoy en Vinted, haría esto",
+   "sub": "lee hasta el final",
+   "vinted": true
+  },
+  {
+   "titulo": "1. vender primero lo que ya tengo en casa",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "2. con eso, comprar poco y a buen precio",
+   "tema_foto": "cajas",
+   "guia": "pack",
+   "abajo": "mis proveedores, link en mi bio ⚡"
+  },
+  {
+   "titulo": "3. subir algo cada día, aunque sea poco",
+   "tema_foto": "movil"
+  },
+  {
+   "titulo": "4. no rendirme la primera semana",
+   "tema_foto": "objetivo"
+  },
+  {
+   "titulo": "escribe “proveedores” y te digo cuáles uso",
+   "sub": "¿en qué paso estás tú?",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "si tuviera que empezar de cero en Vinted, haría esto 🌙\n¿en qué paso estás tú? 1, 2, 3 o 4\n\nescribe “proveedores” y te digo cuáles uso 📦\n👉 Guías en el link de mi bio\n\n#vinted #reventa #emprender #proveedores #revenderropa",
+ "slot": "07_mie14_0000"
+}

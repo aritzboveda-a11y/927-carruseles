@@ -1,0 +1,36 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿cuánto puedes ganar con tus primeros 100€? 💸",
+   "sub": "ejemplo real de cuentas",
+   "vinted": true
+  },
+  {
+   "titulo": "1. ejemplo: 20 prendas a 5€",
+   "tema_foto": "cajas",
+   "guia": "pack",
+   "abajo": "link en mi bio 🔥"
+  },
+  {
+   "titulo": "2. las vendes a 12-15€",
+   "tema_foto": "ventas"
+  },
+  {
+   "titulo": "3. te quedan entre 140 y 200€",
+   "tema_foto": "paquetes",
+   "abajo": "es un ejemplo, no una promesa"
+  },
+  {
+   "titulo": "4. reinviertes y repites",
+   "tema_foto": "objetivo"
+  },
+  {
+   "titulo": "comenta “proveedor” y te paso los míos",
+   "sub": "¿con cuánto empezaste tú?",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "qué harías con 100€ para empezar en Vinted 🤔 (ejemplo de cuentas)\n¿con cuánto empezaste tú?\n\ncomenta “proveedor” y te paso los míos 📦\n👉 Guías en el link de mi bio\n\n#vinted #revender #emprendimiento #proveedores #dinero",
+ "slot": "14_jue15_1230"
+}

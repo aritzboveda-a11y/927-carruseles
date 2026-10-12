@@ -1,0 +1,36 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿cuánto te queda de verdad de cada venta? 🧮",
+   "sub": "el 3 se olvida siempre",
+   "vinted": true
+  },
+  {
+   "titulo": "1. lo que te pagan",
+   "tema_foto": "ventas"
+  },
+  {
+   "titulo": "2. menos lo que te costó",
+   "tema_foto": "cajas"
+  },
+  {
+   "titulo": "3. menos el embalaje",
+   "tema_foto": "paquetes",
+   "abajo": "ojo con esto"
+  },
+  {
+   "titulo": "4. con buen proveedor el margen sube",
+   "tema_foto": "stock",
+   "guia": "pack",
+   "abajo": "link en mi bio 🔥"
+  },
+  {
+   "titulo": "escribe “proveedores” y te digo cuáles uso",
+   "sub": "¿cuánto te queda a ti? dime un número",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "¿sabes cuánto te queda de cada venta en Vinted? 🧮\ndime un número abajo\n\nescribe “proveedores” y te digo cuáles uso 📦\n👉 Guías en el link de mi bio\n\n#vinted #margen #revender #proveedores #fyp",
+ "slot": "28_dom18_0930"
+}

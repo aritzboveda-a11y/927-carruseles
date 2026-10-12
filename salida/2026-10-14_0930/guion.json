@@ -1,0 +1,36 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿cuánto ganas vendiendo 1 prenda al día? 🤔",
+   "sub": "haz la cuenta conmigo",
+   "vinted": true
+  },
+  {
+   "titulo": "1. ejemplo: la compras a 4€",
+   "tema_foto": "cajas"
+  },
+  {
+   "titulo": "2. la vendes a 12€ en Vinted",
+   "tema_foto": "ventas"
+  },
+  {
+   "titulo": "3. te quedan 8€ por prenda",
+   "tema_foto": "paquetes",
+   "abajo": "ojo: es un ejemplo"
+  },
+  {
+   "titulo": "4. 1 al día = unos 240€ al mes",
+   "tema_foto": "objetivo",
+   "guia": "pack",
+   "abajo": "proveedores baratos, link en mi bio 🔥"
+  },
+  {
+   "titulo": "comenta “proveedor” y te paso los míos",
+   "sub": "¿cuántas vendes tú al día?",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "¿cuánto te queda vendiendo una prenda al día en Vinted? 🧮 (ejemplo)\n¿cuántas vendes tú? dímelo\n\ncomenta “proveedor” y te paso los míos 📦\n👉 Guías en el link de mi bio\n\n#vinted #revender #dinero #proveedores #fyp",
+ "slot": "08_mie14_0930"
+}

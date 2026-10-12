@@ -1,0 +1,35 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿tu precio asusta a los compradores? 💸",
+   "sub": "el 2 es clave",
+   "vinted": true
+  },
+  {
+   "titulo": "1. 19€ vende más que 20€",
+   "tema_foto": "ventas"
+  },
+  {
+   "titulo": "2. deja margen para que te oferten",
+   "tema_foto": "movil"
+  },
+  {
+   "titulo": "3. mira lo que ya se ha vendido",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "4. compra barato para poder bajar",
+   "tema_foto": "cajas",
+   "guia": "pack",
+   "abajo": "link en mi bio 💥"
+  },
+  {
+   "titulo": "escribe “proveedores” y te digo cuáles uso",
+   "sub": "¿tú redondeas o pones 19?",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "el precio que hace que te compren en Vinted 💸\n¿tú pones 20 o 19?\n\nescribe “proveedores” y te digo cuáles uso 📦\n👉 Guías en el link de mi bio\n\n#vinted #precios #revenderropa #proveedores #reventa",
+ "slot": "24_sab17_1230"
+}

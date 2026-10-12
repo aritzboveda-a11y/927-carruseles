@@ -1,0 +1,31 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "3 regalos de Navidad que se venden en Vinted 🎁",
+   "sub": "guárdalo para luego",
+   "vinted": true
+  },
+  {
+   "titulo": "1. relojes",
+   "tema_foto": "lujo",
+   "guia": "relojes",
+   "abajo": "proveedor de relojes en mi bio 🔥"
+  },
+  {
+   "titulo": "2. perfumes",
+   "tema_foto": "perfume"
+  },
+  {
+   "titulo": "3. sudaderas de marca",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "comenta “proveedor” y te mando el acceso",
+   "sub": "¿cuál regalarías tú?",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "lo que la gente compra en Vinted para regalar 🎁\n¿cuál regalarías tú?\n\ncomenta “proveedor” y te mando el acceso 📦\n👉 Guías en el link de mi bio\n\n#vinted #navidad #regalos #proveedores #reventa",
+ "slot": "29_dom18_1230"
+}
