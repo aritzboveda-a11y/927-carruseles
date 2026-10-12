@@ -115,48 +115,53 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 11 oct 2026** (Metricool, 4-11 oct, solo carruseles PHOTO del agente con más de 12 h; horas en Madrid). 16 carruseles medibles (7-10 oct): 7.039 visitas, 126 me gusta, 7 comentarios, 11 compartidos.
-⚠️ Fuera del análisis por tener menos de 12 h: "¿pones bien el precio en Vinted?" (10 oct 21:11) ya lleva **804 visitas y 1 comentario en 11 h**, y "nadie te cuenta esto al revender" (11 oct 00:11) lleva 270. El post "#fyp #reventa" del 9 oct 07:08 (229) no es del agente.
-⚠️ Corrección a lo de ayer: los carruseles siguen creciendo después de 12 h. "3 cosas que se agotan en Black Friday" pasó de 213 a 756 y "¿cometes estos errores…?" (21:04) llegó a 755. La ventaja de las 00:00-07:00 era en parte que llevaban más horas publicados.
+**Actualizado: 12 oct 2026** (Metricool, 5-12 oct, solo carruseles PHOTO del agente con más de 12 h; horas en Madrid). 20 carruseles medibles (7-11 oct): 10.531 visitas, 165 me gusta, 10 comentarios, 13 compartidos.
+🚨 **Los 3 últimos carruseles NO se publicaron**: "¿tu ropa lleva semanas sin venderse?" (11 oct 17:20), "nadie te dice esto si Vinted te bloquea" (20:21) y "¿cuánto tardaste en tu primera venta?" (23:44) dieron ERROR en Metricool: "You have reached your Metricool account limit". Hasta que Aritz amplíe el plan o se renueve el límite, los carruseles nuevos fallarán. **Después de programar, revisa con getScheduledPosts que el estado no sea ERROR y, si lo es, avisa a Aritz.** Esos 3 temas siguen sin publicarse: se pueden reutilizar.
+ℹ️ Hay un post de fotos sin texto del 12 oct 00:49 (199 visitas en 8 h) que no es del agente (¿subido a mano?). No entra en el análisis.
+ℹ️ Los carruseles siguen creciendo días después: "por esto Vinted no enseña tu ropa" pasó de 541 a 770 y "así es un día…" de 360 a 456.
 
 | Carrusel (gancho) | Formato | Diap. | Hora | Visitas | Com. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|---|
-| Nadie te dice esto cuando abres una cuenta nueva | polémica/secreto | 6 | 8 oct 03:19 | 974 | 0 | 0 | 14,4 |
-| 3 cosas que tienes que vender en Vinted este otoño | lista + temporada | 5 | 8 oct 06:26 | 872 | 1 | 1,1 | 18,3 |
-| 3 cosas que se agotan en Black Friday | lista + temporada | 7 | 9 oct 10:04 | 756 | 1 | 1,3 | 10,6 |
-| ¿cometes estos errores al revender? | pregunta/errores | 6 | 9 oct 21:04 | 755 | 1 | 1,3 | 6,6 |
-| ¿Sabes cuánto ganas de verdad con cada venta? | pregunta (dinero) | 5 | 8 oct 00:31 | 751 | 0 | 0 | 12,0 |
-| por esto Vinted no enseña tu ropa | error→solución | 6 | 10 oct 12:59 | 541 | 0 | 0 | 16,6 |
-| Si tus fotos no venden, haz esto | error→solución | 7 | 8 oct 09:20 | 433 | 0 | 0 | 20,8 |
-| así es un día revendiendo en Vinted | historia | 5 | 10 oct 17:34 | 360 | 0 | 0 | 19,4 |
-| Cuando empecé, aceptaba todas las ofertas | confesión | 6 | 8 oct 12:25 | 320 | 1 | 3,1 | 15,6 |
-| con 50€ yo empezaría así | historia/reto | 6 | 9 oct 12:31 | 296 | 1 | 3,4 | 43,9 |
-| Cómo saber si un proveedor es fiable | cómo/aviso | ? | 7 oct 21:52 | 278 | 1 | 3,6 | 32,4 |
-| nadie te dice esto de tu primera venta | polémica/secreto | 5 | 10 oct 09:34 | 254 | 1 | 3,9 | 27,6 |
-| ¿tu proveedor te va a estafar? | pregunta | 5 | 9 oct 17:35 | 231 | 0 | 0 | 17,3 |
-| ¿Proveedor chino o europeo? | pregunta | 7 | 8 oct 18:08 | 98 | 0 | 0 | 40,8 |
-| Lo que nadie mira al comprar por kilo | polémica/secreto | 6 | 8 oct 21:03 | 63 | 0 | 0 | 47,6 |
-| ¿Tus paquetes parecen baratos? | pregunta | 4 | 8 oct 14:57 | 57 | 0 | 0 | 70,2 |
+| ¿cuánto se queda Vinted de tu venta? | pregunta dinero | 6 | 11 oct 10:06 | 1.052 | 0 | 0 | 6,7 |
+| Nadie te dice esto cuando abres una cuenta nueva | polémica | 6 | 8 oct 03:19 | 985 | 0 | 0 | 14,2 |
+| 3 cosas que se venden solas en invierno | lista + temporada | 5 | 11 oct 12:54 | 907 | 0 | 0 | 8,8 |
+| 3 cosas que tienes que vender en Vinted este otoño | lista + temporada | 5 | 8 oct 06:26 | 876 | 1 | 1,1 | 19,4 |
+| ¿pones bien el precio en Vinted? | pregunta dinero | 6 | 10 oct 21:11 | 830 | 1 | 1,2 | 12,0 |
+| por esto Vinted no enseña tu ropa | error→solución | 6 | 10 oct 12:59 | 770 | 0 | 0 | 16,9 |
+| ¿cometes estos errores al revender? | pregunta errores | 6 | 9 oct 21:04 | 762 | 1 | 1,3 | 7,9 |
+| 3 cosas que se agotan en Black Friday | lista + temporada | 7 | 9 oct 10:04 | 761 | 1 | 1,3 | 10,5 |
+| ¿Sabes cuánto ganas de verdad con cada venta? | pregunta dinero | 5 | 8 oct 00:31 | 752 | 0 | 0 | 12,0 |
+| así es un día revendiendo en Vinted | historia | 5 | 10 oct 17:34 | 456 | 0 | 0 | 15,4 |
+| Si tus fotos no venden, haz esto | error→solución | 7 | 8 oct 09:20 | 438 | 0 | 0 | 22,8 |
+| Cuando empecé, aceptaba todas las ofertas | confesión | 6 | 8 oct 12:25 | 323 | 1 | 3,1 | 15,5 |
+| con 50€ yo empezaría así | historia/reto | 6 | 9 oct 12:31 | 310 | 1 | 3,2 | 41,9 |
+| nadie te cuenta esto al revender | polémica/reflexión | 7 | 11 oct 00:11 | 309 | 2 | 6,5 | 19,4 |
+| Cómo saber si un proveedor es fiable | cómo/aviso | 6 | 7 oct 21:52 | 279 | 1 | 3,6 | 32,3 |
+| nadie te dice esto de tu primera venta | polémica | 5 | 10 oct 09:34 | 261 | 1 | 3,8 | 30,7 |
+| ¿tu proveedor te va a estafar? | pregunta nicho | 5 | 9 oct 17:35 | 232 | 0 | 0 | 17,2 |
+| ¿Proveedor chino o europeo? | pregunta nicho | 7 | 8 oct 18:08 | 104 | 0 | 0 | 38,5 |
+| Lo que nadie mira al comprar por kilo | polémica | 6 | 8 oct 21:03 | 66 | 0 | 0 | 45,5 |
+| ¿Tus paquetes parecen baratos? | pregunta nicho | 4 | 8 oct 14:57 | 58 | 0 | 0 | 69,0 |
 
-- **Mejores 3**: "Nadie te dice esto cuando abres una cuenta nueva" (974 visitas, 0 com., 5 compartidos), "3 cosas que tienes que vender en Vinted este otoño" (872, 1), "3 cosas que se agotan en Black Friday" (756, 1).
-- **Peores 3**: "¿Tus paquetes parecen baratos?" (57, 0), "Lo que nadie mira al comprar por kilo" (63, 0), "¿Proveedor chino o europeo?" (98, 0).
-- **Patrón 1 (tema, el más claro)**: los que pasan de ~750 son temas amplios de Vinted/dinero que le sirven a cualquiera que empieza: qué vender esta temporada, cuenta nueva, cuánto ganas, errores, precio. Los temas de proveedores puros (fiable, estafa, chino/europeo), logística (packaging) o nicho (kilo) se quedan en 57-278.
-- **Patrón 2 (formato)**: "lista + temporada" 2 de 2 por encima de 750 (media 814). Pregunta sobre dinero/errores también (751, 755, y precio 804 en 11 h). "Nadie te dice…" no funciona por sí solo: 974 con cuenta nueva, pero 254 y 63 con otros temas. Confesión/historia: media 325.
-- **Diapositivas**: 5 y 6 dan lo mismo (≈490 de media); 7 algo menos (429); el único de 4, el peor. Ya no hay razón para preferir 5.
-- **Hora**: 00:00-07:00 media 866 (3 posts), 07:00-12:00 481, 12:00-17:00 304, 17:00-24:00 298 — pero los de noche (21:04 errores, 21:11 precio) también llegan a 750-800 con un buen tema. Pesa más el tema que la hora.
-- **Comentarios siguen casi a cero**: 7 en 7.039 visitas (≈1 por 1.000). Ninguno de los de más de 700 visitas pasa de 1 comentario. Los que más comentan por visita son los de 250-320 visitas con tono personal ("con 50€ yo empezaría así", "primera venta", "ofertas"). El de "comenta “proveedor”" (singular) sacó 0.
-- Los peores en visitas tienen los mejores me gusta por visita (40-70/1000): el problema es que TikTok no los empuja (tema de nicho), no el diseño.
+- **Mejores 3**: "¿cuánto se queda Vinted de tu venta?" (1.052 visitas, 0 com.), "Nadie te dice esto cuando abres una cuenta nueva" (985, 0, 5 compartidos), "3 cosas que se venden solas en invierno" (907, 0).
+- **Peores 3**: "¿Tus paquetes parecen baratos?" (58, 0), "Lo que nadie mira al comprar por kilo" (66, 0), "¿Proveedor chino o europeo?" (104, 0).
+- **Formato (media de visitas)**: pregunta de dinero 878 (3 de 3 por encima de 750), lista + temporada 848 (3 de 3 por encima de 750), errores 762, error→solución 604, polémica "nadie te dice…" 437 (985 con tema amplio, 261 y 66 con otros), historia/confesión/reflexión ≈310-456, pregunta de nicho 131.
+- **Tema**: se confirma lo de ayer con 4 carruseles nuevos: los dos temas sugeridos ayer (comisiones de Vinted, invierno) fueron 1.º y 3.º de la semana. Lo amplio de Vinted + dinero/temporada funciona; proveedores, packaging, kilo y chino/europeo no.
+- **Diapositivas**: 6 → 597 de media (9), 5 → 581 (6), 7 → 403 (4), 4 → 58 (1). 5-6 es lo bueno.
+- **Hora**: 00:00-07:00 730 (4), 07:00-12:00 628 (4), 12:00-17:00 474 (5), 17:00-24:00 390 (7). Pero 17:00-24:00 incluye casi todos los temas de nicho; con tema amplio las 21:00 también llegan a 760-830.
+- **Guía del CTA**: no marca diferencia ("pack" 532 de media, "ropa" 486, sin guía 530). Los comentarios no dependen de la guía.
+- **Comentarios, el problema**: 10 en 10.531 visitas (≈1 por 1.000). Los de más visitas tienen 0-1. Los que más comentan por visita son los de tono personal/reflexión ("nadie te cuenta esto al revender" 6,5/1000, "primera venta", "con 50€", "ofertas"), aunque tengan pocas visitas. Los me gusta por visita también son más altos en los de pocas visitas: TikTok no los empuja por el tema, no por el diseño.
 
-**Reglas (basadas en 16 carruseles; revisar mañana)**
-1. **Repite más** temas amplios de Vinted ligados a dinero o a "qué vender": temporada, precio, cuánto ganas, errores, cuenta nueva. **Evita** de momento temas solo de proveedores, logística o nicho (packaging, ropa por kilo, chino vs europeo, estafas): los proveedores van en el CTA, no en el tema.
-2. **Repite más** la portada "lista + temporada" ("3 cosas que…" + otoño/Navidad/invierno) y la pregunta de dinero ("¿pones bien el precio…?", "¿sabes cuánto…?"). "Nadie te dice esto…" solo si el tema es amplio.
-3. **Para comentarios**: mete en la diapositiva 2 o la penúltima una pregunta personal de una palabra ("¿con cuánto empezaste?", "¿ropa o zapas?") con el tono de los que más comentan, y mantén siempre “proveedores” en plural.
-4. **5-6 diapositivas**; 7 como mucho una vez cada 3 carruseles; nunca 4.
-5. **Hora**: sigue valiendo 00:00-07:00 como mejor hueco, pero no descartes las 21:00 con un tema fuerte. Mantén 3-4 carruseles al día como máximo.
+**Reglas (basadas en 20 carruseles; revisar mañana)**
+1. **Repite más** la pregunta de dinero ("¿cuánto…?", "¿pones bien…?") y la lista + temporada ("3 cosas que…" + invierno/Navidad/Black Friday): 6 de 6 por encima de 750 visitas. Que sean al menos 2 de cada 3 carruseles.
+2. **Evita** temas solo de proveedores, packaging, ropa por kilo o chino vs europeo, y la pregunta de nicho: media 131. Los proveedores van en el CTA, no en el tema.
+3. **Para sacar comentarios sin perder alcance**: gancho amplio (dinero/temporada) en la portada + en la penúltima una pregunta personal que se conteste con un número o una palabra ("¿a cuánto lo vendes tú?", "¿abrigo o botas?"), con el tono cercano de "nadie te cuenta esto al revender".
+4. **5 o 6 diapositivas** (alternando); 7 como mucho una vez cada 4; nunca 4.
+5. **Comprueba que se publica**: tras createScheduledPost, mira getScheduledPosts; si sale ERROR ("account limit"), no sigas creando carruseles y avisa a Aritz.
 
 **Temas/ganchos a priorizar los próximos días** (amplios, nuevos o variantes de los ganadores; no repiten los últimos 7 días)
-1. "3 cosas que vas a vender en Navidad" (lista + temporada; a partir del 16 oct).
-2. "¿Sabes cuánto se queda Vinted de cada venta?" (comisiones y envíos; pregunta de dinero, aún sin usar).
-3. "3 cosas que se venden solas en invierno" (abrigos, botas, sudaderas; lista + temporada).
-4. "Nadie te dice esto cuando Vinted te bloquea la cuenta" (variante del mejor: momento concreto de la cuenta).
-5. "¿Cuánto tardas en hacer tu primera venta?" (pregunta abierta + pasos para acelerarla; pide comentar con un número de días).
+1. "¿cuánto ganas de verdad con 10 ventas?" (pregunta de dinero; ejemplo de cuentas presentado como ejemplo).
+2. "3 cosas que vas a vender en Navidad" (lista + temporada; a partir del 16 oct).
+3. "¿tu ropa lleva semanas sin venderse?" (no llegó a publicarse por el límite de Metricool: reutilizar tal cual).
+4. "3 cosas que la gente busca en Vinted cuando hace frío" (variante de invierno: chaquetas de marca, botas, ropa de esquí).
+5. "¿a cuánto vendes unas zapas en Vinted?" (pregunta de dinero/precio con pregunta para comentar un número).
