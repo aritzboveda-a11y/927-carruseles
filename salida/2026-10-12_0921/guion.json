@@ -1,0 +1,10 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {"titulo": "¿a cuánto vendes unas zapas en Vinted? 👟", "sub": "el último es el más importante", "vinted": true},
+  {"titulo": "1. mira a cuánto se han vendido ya", "abajo": "mismo modelo y misma talla", "tema_foto": "zapatillas"},
+  {"titulo": "2. ponlas un poco más caras", "abajo": "ejemplo: si van a 40€, súbelas a 45€ para las ofertas", "tema_foto": "stock"},
+  {"titulo": "3. el margen se gana al comprar 📦", "guia": "calzado", "abajo": "link en mi bio 🔥"},
+  {"titulo": "comenta “proveedores” y te paso los de zapas", "sub": "¿y tú a cuánto las vendes?", "tema_foto": "lujo"}
+ ]
+}
