@@ -115,10 +115,11 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 12 oct 2026** (Metricool, 5-12 oct, solo carruseles PHOTO del agente con más de 12 h; horas en Madrid). 20 carruseles medibles (7-11 oct): 10.531 visitas, 165 me gusta, 10 comentarios, 13 compartidos.
-🚨 **Los 3 últimos carruseles NO se publicaron**: "¿tu ropa lleva semanas sin venderse?" (11 oct 17:20), "nadie te dice esto si Vinted te bloquea" (20:21) y "¿cuánto tardaste en tu primera venta?" (23:44) dieron ERROR en Metricool: "You have reached your Metricool account limit". Hasta que Aritz amplíe el plan o se renueve el límite, los carruseles nuevos fallarán. **Después de programar, revisa con getScheduledPosts que el estado no sea ERROR y, si lo es, avisa a Aritz.** Esos 3 temas siguen sin publicarse: se pueden reutilizar.
-ℹ️ Hay un post de fotos sin texto del 12 oct 00:49 (199 visitas en 8 h) que no es del agente (¿subido a mano?). No entra en el análisis.
-ℹ️ Los carruseles siguen creciendo días después: "por esto Vinted no enseña tu ropa" pasó de 541 a 770 y "así es un día…" de 360 a 456.
+**Actualizado: 13 oct 2026** (Metricool, 6-13 oct, solo carruseles PHOTO del agente con más de 12 h; horas en Madrid). 20 carruseles medibles (7-11 oct): 10.531 visitas, 165 me gusta, 10 comentarios, 13 compartidos.
+🚨 **Ayer (12 oct) no se publicó NADA**: los 3 carruseles programados ("¿cuánto tardaste en tu primera venta?", "¿a cuánto vendes unas zapas?", "10 ventas: ¿cuánto te queda?") dieron ERROR en Metricool: "You have reached your Metricool account limit" (igual que los 3 de la tarde del 11 oct). Por eso **no hay datos nuevos** y los números de abajo son los mismos que ayer: no se sacan conclusiones nuevas.
+ℹ️ Para la semana 13-19 oct se han preparado 29 carruseles para **subida manual** (`salida/semana_manifest.json`). Mientras siga el límite de Metricool, no programes con createScheduledPost sin comprobar después con getScheduledPosts que no sale ERROR.
+ℹ️ Hay un post de fotos sin texto del 12 oct 00:49 (199 visitas) que no es del agente. No entra en el análisis.
+ℹ️ Los carruseles siguen creciendo días después de publicarse (p. ej. "por esto Vinted no enseña tu ropa" 541 → 770).
 
 | Carrusel (gancho) | Formato | Diap. | Hora | Visitas | Com. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|---|
@@ -145,23 +146,23 @@ Varía también:
 
 - **Mejores 3**: "¿cuánto se queda Vinted de tu venta?" (1.052 visitas, 0 com.), "Nadie te dice esto cuando abres una cuenta nueva" (985, 0, 5 compartidos), "3 cosas que se venden solas en invierno" (907, 0).
 - **Peores 3**: "¿Tus paquetes parecen baratos?" (58, 0), "Lo que nadie mira al comprar por kilo" (66, 0), "¿Proveedor chino o europeo?" (104, 0).
-- **Formato (media de visitas)**: pregunta de dinero 878 (3 de 3 por encima de 750), lista + temporada 848 (3 de 3 por encima de 750), errores 762, error→solución 604, polémica "nadie te dice…" 437 (985 con tema amplio, 261 y 66 con otros), historia/confesión/reflexión ≈310-456, pregunta de nicho 131.
-- **Tema**: se confirma lo de ayer con 4 carruseles nuevos: los dos temas sugeridos ayer (comisiones de Vinted, invierno) fueron 1.º y 3.º de la semana. Lo amplio de Vinted + dinero/temporada funciona; proveedores, packaging, kilo y chino/europeo no.
-- **Diapositivas**: 6 → 597 de media (9), 5 → 581 (6), 7 → 403 (4), 4 → 58 (1). 5-6 es lo bueno.
-- **Hora**: 00:00-07:00 730 (4), 07:00-12:00 628 (4), 12:00-17:00 474 (5), 17:00-24:00 390 (7). Pero 17:00-24:00 incluye casi todos los temas de nicho; con tema amplio las 21:00 también llegan a 760-830.
-- **Guía del CTA**: no marca diferencia ("pack" 532 de media, "ropa" 486, sin guía 530). Los comentarios no dependen de la guía.
-- **Comentarios, el problema**: 10 en 10.531 visitas (≈1 por 1.000). Los de más visitas tienen 0-1. Los que más comentan por visita son los de tono personal/reflexión ("nadie te cuenta esto al revender" 6,5/1000, "primera venta", "con 50€", "ofertas"), aunque tengan pocas visitas. Los me gusta por visita también son más altos en los de pocas visitas: TikTok no los empuja por el tema, no por el diseño.
+- **Formato (media de visitas)**: pregunta de dinero 878 (3 de 3 por encima de 750), lista + temporada 848 (3 de 3 por encima de 750), errores 762, error→solución 604, polémica "nadie te dice…" 437, historia/confesión/reflexión ≈310-456, pregunta de nicho 131.
+- **Tema**: lo amplio de Vinted + dinero/temporada funciona; proveedores, packaging, kilo y chino/europeo no.
+- **Diapositivas**: 6 → 597 de media (9), 5 → 581 (6), 7 → 403 (4), 4 → 58 (1).
+- **Hora**: 00:00-07:00 730 (4), 07:00-12:00 628 (4), 12:00-17:00 474 (5), 17:00-24:00 390 (7); pero con tema amplio las 21:00 también llegan a 760-830.
+- **Guía del CTA**: no marca diferencia en visitas ni comentarios.
+- **Comentarios**: ≈1 por 1.000 visitas. Los que más comentan por visita son los de tono personal/reflexión ("nadie te cuenta esto al revender" 6,5/1000), aunque tengan menos alcance.
 
-**Reglas (basadas en 20 carruseles; revisar mañana)**
-1. **Repite más** la pregunta de dinero ("¿cuánto…?", "¿pones bien…?") y la lista + temporada ("3 cosas que…" + invierno/Navidad/Black Friday): 6 de 6 por encima de 750 visitas. Que sean al menos 2 de cada 3 carruseles.
-2. **Evita** temas solo de proveedores, packaging, ropa por kilo o chino vs europeo, y la pregunta de nicho: media 131. Los proveedores van en el CTA, no en el tema.
-3. **Para sacar comentarios sin perder alcance**: gancho amplio (dinero/temporada) en la portada + en la penúltima una pregunta personal que se conteste con un número o una palabra ("¿a cuánto lo vendes tú?", "¿abrigo o botas?"), con el tono cercano de "nadie te cuenta esto al revender".
-4. **5 o 6 diapositivas** (alternando); 7 como mucho una vez cada 4; nunca 4.
+**Reglas (basadas en 20 carruseles; sin datos nuevos desde el 11 oct)**
+1. **Repite más** la pregunta de dinero ("¿cuánto…?") y la lista + temporada ("3 cosas que…" + invierno/Navidad/Black Friday): al menos 2 de cada 3 carruseles.
+2. **Evita** temas solo de proveedores, packaging, ropa por kilo o chino vs europeo: los proveedores van en el CTA, no en el tema.
+3. **Para sacar comentarios**: gancho amplio en la portada + en la penúltima una pregunta personal que se conteste con un número o una palabra ("¿a cuánto lo vendes tú?", "¿abrigo o botas?").
+4. **5 o 6 diapositivas**; 7 como mucho una vez cada 4; nunca 4.
 5. **Comprueba que se publica**: tras createScheduledPost, mira getScheduledPosts; si sale ERROR ("account limit"), no sigas creando carruseles y avisa a Aritz.
 
-**Temas/ganchos a priorizar los próximos días** (amplios, nuevos o variantes de los ganadores; no repiten los últimos 7 días)
-1. "¿cuánto ganas de verdad con 10 ventas?" (pregunta de dinero; ejemplo de cuentas presentado como ejemplo).
-2. "3 cosas que vas a vender en Navidad" (lista + temporada; a partir del 16 oct).
-3. "¿tu ropa lleva semanas sin venderse?" (no llegó a publicarse por el límite de Metricool: reutilizar tal cual).
-4. "3 cosas que la gente busca en Vinted cuando hace frío" (variante de invierno: chaquetas de marca, botas, ropa de esquí).
-5. "¿a cuánto vendes unas zapas en Vinted?" (pregunta de dinero/precio con pregunta para comentar un número).
+**Temas/ganchos a priorizar los próximos días** (de la tanda manual de esta semana, los que encajan con lo que mejor funciona; súbelos primero)
+1. "¿cuánto ganas vendiendo 1 prenda al día? 🤔" (pregunta de dinero).
+2. "3 cosas que se buscan en Vinted con el frío 🧥" (lista + temporada).
+3. "¿cuánto puedes ganar con tus primeros 100€? 💸" (pregunta de dinero).
+4. "3 cosas que se agotan antes de Black Friday 🛍️" (lista + temporada).
+5. "¿cuánto vale tu armario en Vinted? 💸" (pregunta de dinero, tema amplio).
