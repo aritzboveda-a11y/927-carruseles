@@ -115,60 +115,57 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 15 oct 2026** (Metricool, 8-15 oct, solo carruseles PHOTO emparejados con historial/manifest y con más de 12 h; horas en Madrid). 26 carruseles medibles (8-14 oct): 13.854 visitas, 190 me gusta, 16 comentarios, 13 compartidos. En las últimas 24 h los carruseles sumaron ≈2.600 visitas nuevas (≈1.800 de los 5 que entran hoy por primera vez + 828 de los antiguos, que siguen creciendo).
-- **Nuevos desde ayer**: "nadie te dice esto si Vinted te bloquea" (13 oct 12:30, 787 visitas, **3 comentarios**), "si empezara hoy en Vinted, haría esto" (14 oct 00:00, 771, 1 com.), y tres que se hundieron seguidos: "3 cosas que se buscan en Vinted con el frío" (13 oct 17:30, 68), "10 ventas en Vinted: ¿cuánto te queda?" (13 oct 20:30, 93), "¿cuánto ganas vendiendo 1 prenda al día?" (14 oct 09:30, 87). "¿a cuánto vendes unas zapas?" subió de 344 a 857.
-- 🚨 Los del manifest de 14 oct 12:30 ("3 cosas que no deberías vender"), 17:30 ("¿cuánto rebajas…?") y 20:30 ("¿cuánto vale un abrigo usado…?") **no aparecen en Metricool**. Comprueba en TikTok Studio si se subieron.
-- ℹ️ Fuera del análisis (no se pueden emparejar): posts de fotos con caption solo "#fyp…" (12 oct 17:37, 848; 12 oct 20:35, 805; 9 oct 07:08, 230) y uno sin texto (12 oct 00:49, 962). "¿Sabes cuánto ganas…?" y "Cómo saber si un proveedor es fiable" ya salen de la ventana de 7 días.
+**Actualizado: 16 oct 2026** (Metricool, 9-16 oct, solo carruseles PHOTO emparejados con historial/semana_manifest y con más de 12 h; Metricool da la hora en UTC, aquí en hora de Madrid). 24 carruseles medibles (9-15 oct): 15.243 visitas, 160 me gusta, 15 comentarios, 6 compartidos. Desde el informe de ayer: **+4.255 visitas** (≈3.810 de 5 carruseles que entran hoy por primera vez + ≈445 de los antiguos).
+- ✅ **Falsa alarma de ayer**: los de 14 oct 12:30, 17:30 y 20:30 sí se publicaron; Metricool tarda ~1 día en mostrarlos. Hoy faltan los de 15 oct 12:30, 17:30, 20:30 y 16 oct 00:00 (probablemente el mismo retraso).
+- **Nuevos**: "3 cosas que no deberías vender en Vinted" (caption "3 cosas que te pueden costar la cuenta", 14 oct 12:30) → **1.128, el mejor de la semana**; "¿cuánto rebajas cuando te hacen una oferta?" 779; "¿cuánto vale un abrigo usado?" 731; "por qué la mayoría lo deja en la primera semana" 697; "¿a qué hora vendes más?" 475 (aún <24 h). "¿cuánto ganas vendiendo 1 prenda al día?" se recuperó de 87 a 355; "10 ventas: ¿cuánto te queda?" (131) y "frío" (89) siguen hundidos.
+- ℹ️ Fuera del análisis (sin emparejar): posts con caption solo "#fyp…" (12 oct 17:37, 851; 12 oct 20:35, 815; 9 oct 07:08, 231) y uno sin texto (12 oct 00:49, 964).
 
 | Carrusel (gancho) | Formato | Diap. | Hora | Visitas | Com. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|---|
-| ¿cuánto se queda Vinted de tu venta? | pregunta dinero | 6 | 11 oct 10:06 | 1.091 | 0 | 0 | 7,3 |
-| Nadie te dice esto cuando abres una cuenta nueva | polémica | 6 | 8 oct 03:19 | 992 | 0 | 0 | 14,1 |
-| ¿tu ropa lleva semanas sin venderse? | error→solución | 6 | 12 oct 20:30 | 987 | 0 | 0 | 9,1 |
-| 3 cosas que se venden solas en invierno | lista + temporada | 5 | 11 oct 12:54 | 953 | 0 | 0 | 10,5 |
-| 3 cosas que tienes que vender en Vinted este otoño | lista + temporada | 5 | 8 oct 06:26 | 877 | 1 | 1,1 | 19,4 |
-| ¿a cuánto vendes unas zapas en Vinted? | pregunta dinero | 5 | 13 oct 09:30 | 857 | 0 | 0 | 9,3 |
-| ¿pones bien el precio en Vinted? | pregunta dinero | 6 | 10 oct 21:11 | 853 | 2 | 2,3 | 11,7 |
-| nadie te dice esto si Vinted te bloquea 🆕 | polémica | 5 | 13 oct 12:30 | 787 | 3 | 3,8 | 6,4 |
-| por esto Vinted no enseña tu ropa | error→solución | 6 | 10 oct 12:59 | 786 | 0 | 0 | 16,5 |
-| si empezara hoy en Vinted, haría esto 🆕 | historia/reto | 6 | 14 oct 00:00 | 771 | 1 | 1,3 | 7,8 |
-| 3 cosas que se agotan en Black Friday | lista + temporada | 7 | 9 oct 10:04 | 767 | 1 | 1,3 | 10,4 |
-| ¿cometes estos errores al revender? | pregunta errores | 6 | 9 oct 21:04 | 762 | 1 | 1,3 | 7,9 |
-| ¿cuánto tardaste en tu primera venta? | reflexión | 6 | 13 oct 00:00 | 533 | 1 | 1,9 | 9,4 |
-| así es un día revendiendo en Vinted | historia | 5 | 10 oct 17:34 | 461 | 0 | 0 | 17,4 |
-| Si tus fotos no venden, haz esto | error→solución | 7 | 8 oct 09:20 | 441 | 0 | 0 | 22,7 |
-| Cuando empecé, aceptaba todas las ofertas | confesión | 6 | 8 oct 12:25 | 323 | 1 | 3,1 | 15,5 |
-| nadie te cuenta esto al revender | polémica | 7 | 11 oct 00:11 | 321 | 2 | 6,2 | 18,7 |
-| con 50€ yo empezaría así | historia/reto | 6 | 9 oct 12:31 | 313 | 1 | 3,2 | 41,5 |
-| nadie te dice esto de tu primera venta | polémica | 5 | 10 oct 09:34 | 265 | 1 | 3,8 | 34,0 |
-| ¿tu proveedor te va a estafar? | pregunta nicho | 5 | 9 oct 17:35 | 233 | 0 | 0 | 17,2 |
-| ¿Proveedor chino o europeo? | pregunta nicho | 7 | 8 oct 18:08 | 107 | 0 | 0 | 46,7 |
-| 10 ventas en Vinted: ¿cuánto te queda? 🆕 | pregunta dinero | 6 | 13 oct 20:30 | 93 | 0 | 0 | 10,8 |
-| ¿cuánto ganas vendiendo 1 prenda al día? 🆕 | pregunta dinero | 6 | 14 oct 09:30 | 87 | 0 | 0 | 11,5 |
-| 3 cosas que se buscan en Vinted con el frío 🆕 | lista + temporada | 5 | 13 oct 17:30 | 68 | 1 | 14,7 | 29,4 |
-| Lo que nadie mira al comprar por kilo | polémica | 6 | 8 oct 21:03 | 68 | 0 | 0 | 44,1 |
-| ¿Tus paquetes parecen baratos? | pregunta nicho | 4 | 8 oct 14:57 | 58 | 0 | 0 | 69,0 |
+| 3 cosas que no deberías vender en Vinted 🆕 | lista de riesgo de cuenta | 5 | 14 oct 12:30 | 1.128 | 0 | 0 | 7,1 |
+| ¿cuánto se queda Vinted de tu venta? | pregunta dinero | 6 | 11 oct 10:06 | 1.100 | 0 | 0 | 7,3 |
+| ¿tu ropa lleva semanas sin venderse? | error→solución | 6 | 12 oct 20:30 | 990 | 0 | 0 | 9,1 |
+| 3 cosas que se venden solas en invierno | lista + temporada | 5 | 11 oct 12:54 | 956 | 0 | 0 | 10,5 |
+| ¿a cuánto vendes unas zapas en Vinted? | pregunta dinero | 5 | 13 oct 09:30 | 865 | 0 | 0 | 9,2 |
+| ¿pones bien el precio en Vinted? | pregunta dinero | 6 | 10 oct 21:11 | 855 | 2 | 2,3 | 11,7 |
+| si empezara hoy en Vinted, haría esto | historia/reto | 6 | 14 oct 00:00 | 820 | 1 | 1,2 | 7,3 |
+| nadie te dice esto si Vinted te bloquea | polémica cuenta | 5 | 13 oct 12:30 | 803 | 3 | 3,7 | 6,2 |
+| por esto Vinted no enseña tu ropa | error→solución | 6 | 10 oct 12:59 | 791 | 0 | 0 | 16,4 |
+| ¿cuánto rebajas cuando te hacen una oferta? 🆕 | pregunta dinero | 6 | 14 oct 17:30 | 779 | 0 | 0 | 3,9 |
+| 3 cosas que se agotan en Black Friday | lista + temporada | 7 | 9 oct 10:04 | 768 | 1 | 1,3 | 10,4 |
+| ¿cometes estos errores al revender? | pregunta errores | 6 | 9 oct 21:04 | 763 | 1 | 1,3 | 7,9 |
+| ¿cuánto vale un abrigo usado en Vinted? 🆕 | pregunta dinero + temporada | 6 | 14 oct 20:30 | 731 | 0 | 0 | 1,4 |
+| por qué la mayoría lo deja en la primera semana 🆕 | reflexión | 6 | 15 oct 00:00 | 697 | 0 | 0 | 8,6 |
+| ¿cuánto tardaste en tu primera venta? | reflexión | 6 | 13 oct 00:00 | 546 | 1 | 1,8 | 9,2 |
+| ¿a qué hora vendes más en Vinted? 🆕 | truco | 5 | 15 oct 09:30 | 475 | 0 | 0 | 14,7 |
+| así es un día revendiendo en Vinted | historia | 5 | 10 oct 17:34 | 464 | 0 | 0 | 17,2 |
+| ¿cuánto ganas vendiendo 1 prenda al día? | pregunta dinero | 6 | 14 oct 09:30 | 355 | 1 | 2,8 | 11,3 |
+| nadie te cuenta esto al revender | polémica | 7 | 11 oct 00:11 | 323 | 2 | 6,2 | 18,6 |
+| con 50€ yo empezaría así | historia/reto | 6 | 9 oct 12:31 | 314 | 1 | 3,2 | 41,4 |
+| nadie te dice esto de tu primera venta | polémica | 5 | 10 oct 09:34 | 266 | 1 | 3,8 | 33,8 |
+| ¿tu proveedor te va a estafar? | pregunta nicho | 5 | 9 oct 17:35 | 234 | 0 | 0 | 17,1 |
+| 10 ventas en Vinted: ¿cuánto te queda? | pregunta dinero | 6 | 13 oct 20:30 | 131 | 0 | 0 | 7,6 |
+| 3 cosas que se buscan en Vinted con el frío | lista + temporada | 5 | 13 oct 17:30 | 89 | 1 | 11,2 | 22,5 |
 
-- **Mejores 3**: "¿cuánto se queda Vinted de tu venta?" (1.091 visitas, 0 com.), "Nadie te dice esto cuando abres una cuenta nueva" (992, 0, 5 compartidos), "¿tu ropa lleva semanas sin venderse?" (987, 0).
-- **Peores 3**: "¿Tus paquetes parecen baratos?" (58, 0), "3 cosas que se buscan en Vinted con el frío" (68, 1), "Lo que nadie mira al comprar por kilo" (68, 0).
-- **Formato (media de visitas)**: error→solución 738 (3), lista + temporada 666 (4; sin el de "frío" serían 866), pregunta de dinero 596 (5; muy partido: 853-1.091 los tres primeros, 87-93 los dos últimos), polémica "nadie te dice…" 487 (5; 787-992 si el tema es la cuenta/bloqueo, 68-321 si no), historia/reto 542, confesión/reflexión 323-533, pregunta de nicho 133.
-- 🔎 **El bajón del 13-14 oct no es del formato**: los 3 hundidos usan los formatos que mejor iban, pero **repiten tema de hace 1-3 días** ("frío" ≈ "invierno" del 11 oct; "10 ventas: ¿cuánto te queda?" y "1 prenda al día" ≈ "¿cuánto se queda Vinted…?" / "¿cuánto ganas de verdad…?"). En medio, uno de tema distinto ("si empezara hoy") hizo 771. Hipótesis (pocos datos): TikTok frena lo que se parece demasiado a lo reciente. Además, muchos ganchos seguidos empiezan por "¿cuánto…?".
-- **Tema**: lo amplio de Vinted (cuenta nueva, bloqueo, precio, ropa que no se vende, comisiones) sigue arriba; proveedores, packaging, kilo y chino/europeo, abajo.
-- **Diapositivas**: 6 → 589 de media (13), 5 → 563 (8), 7 → 409 (4), 4 → 58 (1).
-- **Hora**: 00:00-07:00 699 (5), 07:00-12:00 585 (6), 12:00-17:00 537 (6), 17:00-24:00 404 (9). La franja de 00:00 sigue siendo la más fiable (771 y 533 esta semana); la hora pesa menos que el tema.
+- **Mejores 3**: "3 cosas que no deberías vender en Vinted" (1.128 visitas, 0 com.), "¿cuánto se queda Vinted de tu venta?" (1.100, 0), "¿tu ropa lleva semanas sin venderse?" (990, 0).
+- **Peores 3**: "3 cosas que se buscan en Vinted con el frío" (89, 1), "10 ventas en Vinted: ¿cuánto te queda?" (131, 0), "¿tu proveedor te va a estafar?" (234, 0).
+- **Tema "riesgo de tu cuenta de Vinted"** (bloqueo, lo que no debes vender, cuenta nueva): 1.128, 803 y 992 (este último ya fuera de la ventana). Es el tema más fiable que tenemos.
+- **Formato (media de visitas)**: error→solución 890 (2), pregunta de dinero 688 (7; 731-1.100 si la pregunta es concreta —comisión, zapas, oferta, abrigo—, 131-355 si es "¿cuánto ganas/te queda con X ventas?"), reflexión 622 (2), lista 604 (3; sin "frío" 862), historia/reto 567, polémica genérica "nadie te cuenta…" sin tema de cuenta 294, nicho/proveedores 234.
+- **Diapositivas**: 6 → 682 de media (13), 5 → 587 (9), 7 → 546 (2).
+- **Hora**: 12:30 → 798 (5), 09:30 → 638 (6), 00:00 → 596 (4), 17:30 → 391 (4; incluye los dos peores de la franja), 20:30/21:00 → 694 (5). La hora pesa menos que el tema.
 - **Guía del CTA**: no marca diferencia (casi todos "pack"/"proveedores").
-- **Comentarios**: 1,2 por 1.000 visitas (sube un poco). El que más ha sacado es el del bloqueo (3) con una pregunta de **experiencia propia** en el caption ("¿a ti te ha pasado alguna vez?"); las preguntas de número/opinión ("¿cuántos días…?", "¿abrigo o botas?") sacan 0-1.
+- **Comentarios**: 1,0 por 1.000 visitas (bajo). Las preguntas de experiencia dieron 3 (bloqueo) pero también 0 en el de 1.128 ("¿te ha pasado alguna? cuéntamelo"): con 24 carruseles no hay patrón claro. Me gusta: los de "¿cuánto vale/rebajas…?" sacan 1-4 por 1.000 (se ven pero no gustan).
 
-**Reglas (basadas en 26 carruseles)**
-1. **No repitas tema ni gancho parecido en 4 días**: antes de publicar, si el tema o la primera palabra del gancho se parece a uno de los últimos 8 carruseles (p. ej. otro "¿cuánto ganas/te queda…?" o otro "3 cosas… frío/invierno"), cámbialo por otro tema amplio de la lista. Máximo 1 gancho que empiece por "¿cuánto…?" al día.
-2. **Repite** error→solución y polémica sobre la cuenta de Vinted (cuenta nueva, bloqueo, "no enseña tu ropa", "no se vende"): 787-992 visitas. Y lista + temporada, pero cada vez con una fecha distinta (Black Friday, Navidad, regalos), no otra vez "frío/invierno".
-3. **Evita** temas solo de proveedores, packaging, ropa por kilo o chino vs europeo, y 4 o 7 diapositivas: usa 5 o 6.
-4. **Para comentarios**: termina el caption y la penúltima diapositiva con una pregunta de experiencia ("¿a ti te ha pasado?", "¿cuál te ha pasado a ti?") en vez de pedir un número.
-5. **Comprueba que se publica**: si un carrusel de la tanda no aparece en Metricool al día siguiente (como 14 oct 12:30, 17:30, 20:30), avisa a Aritz.
+**Reglas (basadas en 24 carruseles)**
+1. **Repite el tema "riesgo de tu cuenta"** al menos 1 vez cada 2 días, con ángulo nuevo cada vez (lo que no debes vender, lo que no debes escribir en el chat, lo que hace que Vinted te oculte, errores al subir muchas prendas). Formato lista "3 cosas que…" o error→solución, 5-6 diapositivas, a las 12:30 si se puede.
+2. **Preguntas de dinero, solo concretas** (una prenda/marca/comisión/oferta: "¿a cuánto vendes unas zapas?", "¿cuánto se queda Vinted?"). **Evita** las de cálculo genérico "¿cuánto ganas/te queda con N ventas?" (131-355). Máximo 1 gancho "¿cuánto…?" al día.
+3. **No repitas tema en 4 días** (sigue valiendo: "frío" justo después de "invierno" hizo 89). Y **evita** temas solo de proveedores/packaging/kilo y la polémica genérica "nadie te cuenta esto…" si no va de la cuenta.
+4. **Usa 6 diapositivas** por defecto (682 vs 587 con 5); 7 solo si hace falta.
+5. **Metricool va ~1 día por detrás**: solo avisa de un carrusel "no publicado" si no aparece después de 36 h.
 
-**Temas/ganchos a priorizar los próximos días** (de la tanda manual del 15-19 oct, reordenados; ojo: la tanda tiene 9 ganchos con "¿cuánto…?", espaciarlos o cambiar algunos)
-1. "por qué tus favoritos no te compran 👀" (16 oct 17:30; error→solución de cuenta, el formato top).
-2. "3 fallos en el título que hacen que no te vean" (15 oct 17:30; error→solución, tipo "Vinted no enseña tu ropa").
-3. "3 cosas que vas a vender en Navidad 🎄" / "3 cosas que se agotan antes de Black Friday 🛍️" (lista + temporada con fecha nueva; no juntarlas el mismo día).
-4. "¿tu precio asusta a los compradores? 💸" (17 oct 12:30; parecido a "¿pones bien el precio?", 853).
-5. "¿cuánto vale tu armario en Vinted? 💸" (16 oct 12:30; tema amplio, pero que sea el único "¿cuánto…?" de ese día).
+**Temas/ganchos a priorizar los próximos días** (la tanda manual llega hasta el 19 oct; ojo: el 18 oct tiene dos "¿cuánto…?" a las 09:30 y 20:30 → cambiar uno)
+1. "3 cosas que te pueden costar la cuenta de Vinted 🚫" con otro ángulo: "3 cosas que nunca debes escribir en el chat de Vinted" o "por qué Vinted te oculta las prendas" (tema top, 12:30).
+2. "por qué tus favoritos no te compran 👀" (16 oct 17:30) y "3 fallos por los que no te compran" (18 oct 17:30): error→solución, el segundo formato más fuerte.
+3. "¿cuánto vale tu armario en Vinted? 💸" (16 oct 12:30): pregunta de dinero concreta en la mejor franja.
+4. "3 cosas que se agotan antes de Black Friday 🛍️" (17 oct 09:30): lista con fecha nueva (Black Friday hizo 768).
+5. "¿tu precio asusta a los compradores? 💸" (17 oct 12:30): parecido a "¿pones bien el precio?" (855).
