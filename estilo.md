@@ -115,59 +115,59 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 17 oct 2026** (Metricool, 10-17 oct, solo carruseles PHOTO emparejados con historial.json; Metricool da la hora en UTC, aquí en hora de Madrid). 26 carruseles medibles (10-16 oct): 17.175 visitas, 149 me gusta, 12 comentarios. Desde el informe de ayer: **+4.011 visitas** (3.411 de 7 carruseles que entran hoy + 600 de los antiguos). Media: 661 por carrusel.
-- ✅ Llegaron los que faltaban ayer (15 oct 12:30, 17:30, 20:30 y 16 oct 00:00): todos entre 754 y 813. Ahora salen justo a la hora del historial.
-- **Patrón claro: todo o nada.** Cada carrusel acaba en 750-1.150 o se queda en 80-470; casi no hay término medio, y el que arranca mal no se recupera (frío 89→95, 10 ventas 131→139). Los 8 hundidos son: cálculo genérico de ganancias (2), lista de temporada repetida (frío, Navidad), polémica "nadie te dice/cuenta…" sin tema de cuenta (2), "un día revendiendo" y "armario" (aún <24 h).
-- ⚠️ **Comentarios: 0 en los 9 carruseles más nuevos** (desde el 14 oct 17:30). En total 0,7 por 1.000 visitas. Los únicos con comentarios recientes: "bloqueo" (3), "si empezara hoy" (1), "1 prenda al día" (1).
-- ℹ️ Fuera del análisis (sin emparejar): 12 oct 17:37 "#fyp…" (854), 12 oct 20:35 "#paratiii…" (820), 12 oct 00:49 sin texto (969).
+**Actualizado: 18 oct 2026** (Metricool, 11-18 oct, solo carruseles PHOTO con más de 12 h, emparejados con historial.json; Metricool da la hora en UTC, aquí en hora de Madrid). 26 carruseles medibles (11-17 oct): 17.684 visitas, 122 me gusta, 10 comentarios. Media: 680 por carrusel. Los del 10 oct ya salen de la ventana de 7 días.
+- **Ayer (17 oct)**: 1.355 visitas en los 3 que ya salen en Metricool (00:00 "primer mes" 402, 09:30 Black Friday 759, 12:30 "precio asusta" 194). Los de 17:30 y 20:30 todavía no aparecen en Metricool: se miden mañana.
+- **Sigue el "todo o nada"**: 20 de 26 acaban en 750-1.160; 6 se quedan en 99-402 y no se recuperan (armario 79→269, Navidad 232→260, frío 95→99). Los hundidos: cálculo genérico (2), Navidad, frío, armario, "nadie te cuenta… primer mes" y "precio asusta".
+- 🆕 **"¿tu precio asusta a los compradores?" (194)** se hunde: repite el ángulo de "¿pones bien el precio?" del 10 oct. Repetir un tema ya hecho con otras palabras se castiga igual que repetir la temporada.
+- 🆕 **Black Friday (759)** funciona otra vez y **Navidad (260) no**: no es la temporada en general, es Navidad/frío lo que no engancha todavía en octubre.
+- ⚠️ **Comentarios casi a 0**: 10 en 17.684 visitas (0,6 por 1.000). Los que dan comentarios: "bloqueo" (3); el resto 0-1.
 
 | Carrusel (gancho) | Formato | Diap. | Hora | Visitas | Com. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|---|
-| 3 cosas que no deberías vender en Vinted | lista riesgo de cuenta | 5 | 14 oct 12:30 | 1.148 | 0 | 0 | 7,0 |
-| ¿cuánto se queda Vinted de tu venta? | pregunta dinero concreta | 6 | 11 oct 10:06 | 1.112 | 0 | 0 | 7,2 |
+| 3 cosas que no deberías vender en Vinted | lista riesgo de cuenta | 5 | 14 oct 12:30 | 1.156 | 0 | 0 | 6,9 |
+| ¿cuánto se queda Vinted de tu venta? | pregunta dinero concreta | 6 | 11 oct 10:06 | 1.114 | 0 | 0 | 7,2 |
 | ¿tu ropa lleva semanas sin venderse? | error→solución | 6 | 12 oct 20:30 | 998 | 0 | 0 | 8,0 |
 | 3 cosas que se venden solas en invierno | lista + temporada | 5 | 11 oct 12:54 | 958 | 0 | 0 | 10,4 |
-| ¿a cuánto vendes unas zapas en Vinted? | pregunta dinero concreta | 5 | 13 oct 09:30 | 870 | 0 | 0 | 9,2 |
-| ¿pones bien el precio en Vinted? | pregunta dinero concreta | 6 | 10 oct 21:11 | 861 | 2 | 2,3 | 11,6 |
-| si empezara hoy en Vinted, haría esto | historia/reto | 6 | 14 oct 00:00 | 829 | 1 | 1,2 | 7,2 |
-| ¿a qué hora vendes más en Vinted? | truco | 5 | 15 oct 09:30 | 818 | 0 | 0 | 14,7 |
-| 3 fallos en el título que hacen que no te vean 🆕 | lista error→solución | 5 | 15 oct 17:30 | 813 | 0 | 0 | 6,2 |
+| ¿a cuánto vendes unas zapas en Vinted? | pregunta dinero concreta | 5 | 13 oct 09:30 | 871 | 0 | 0 | 9,2 |
+| 3 fallos en el título que hacen que no te vean | lista error→solución | 5 | 15 oct 17:30 | 861 | 0 | 0 | 5,8 |
+| si empezara hoy en Vinted, haría esto | historia/reto | 6 | 14 oct 00:00 | 832 | 1 | 1,2 | 7,2 |
+| ¿a qué hora vendes más en Vinted? | truco | 5 | 15 oct 09:30 | 822 | 0 | 0 | 14,6 |
 | nadie te dice esto si Vinted te bloquea | polémica cuenta | 5 | 13 oct 12:30 | 808 | 3 | 3,7 | 6,2 |
-| por esto Vinted no enseña tu ropa | error→solución | 6 | 10 oct 12:59 | 796 | 0 | 0 | 16,3 |
-| por qué la mayoría lo deja en la primera semana | reflexión | 6 | 15 oct 00:00 | 794 | 0 | 0 | 7,6 |
-| ¿cuánto rebajas cuando te hacen una oferta? | pregunta dinero concreta | 6 | 14 oct 17:30 | 793 | 0 | 0 | 3,8 |
-| nadie empieza sabiendo, bro 🆕 | reflexión | 6 | 16 oct 00:00 | 778 | 0 | 0 | 3,9 |
-| ¿cuánto vale un abrigo usado en Vinted? | pregunta dinero + temporada | 6 | 14 oct 20:30 | 771 | 0 | 0 | 1,3 |
-| ¿cuánto ganas revendiendo zapas? 🆕 | pregunta dinero concreta | 6 | 15 oct 20:30 | 755 | 0 | 0 | 1,3 |
-| ¿cuánto puedes ganar con tus primeros 100€? 🆕 | pregunta dinero (inversión) | 6 | 15 oct 12:30 | 754 | 0 | 0 | 6,6 |
+| por qué la mayoría lo deja en la primera semana | reflexión | 6 | 15 oct 00:00 | 803 | 0 | 0 | 7,5 |
+| nadie empieza sabiendo, bro | reflexión | 6 | 16 oct 00:00 | 802 | 0 | 0 | 3,7 |
+| ¿cuánto rebajas cuando te hacen una oferta? | pregunta dinero concreta | 6 | 14 oct 17:30 | 794 | 0 | 0 | 3,8 |
+| por qué tus favoritos no te compran 🆕 | error→solución | 5 | 16 oct 17:30 | 774 | 1 | 1,3 | 7,8 |
+| ¿cuánto vale un abrigo usado en Vinted? | pregunta dinero + temporada | 6 | 14 oct 20:30 | 772 | 0 | 0 | 1,3 |
+| ¿cuánto ganas revendiendo zapas? | pregunta dinero concreta | 6 | 15 oct 20:30 | 765 | 0 | 0 | 1,3 |
+| ¿cuánto puedes ganar con tus primeros 100€? | pregunta dinero (inversión) | 6 | 15 oct 12:30 | 762 | 0 | 0 | 6,6 |
+| 3 cosas que se agotan antes de Black Friday 🆕 | lista + temporada | 5 | 17 oct 09:30 | 759 | 1 | 1,3 | 4,0 |
+| ¿vendes más con lotes? 🆕 | pregunta truco | 6 | 16 oct 20:30 | 755 | 0 | 0 | 1,3 |
 | ¿cuánto tardaste en tu primera venta? | reflexión | 6 | 13 oct 00:00 | 551 | 1 | 1,8 | 9,1 |
-| así es un día revendiendo en Vinted | historia | 5 | 10 oct 17:34 | 466 | 0 | 0 | 17,2 |
-| ¿cuánto ganas vendiendo 1 prenda al día? | cálculo genérico | 6 | 14 oct 09:30 | 362 | 1 | 2,8 | 11,0 |
-| nadie te cuenta esto al revender | polémica genérica | 7 | 11 oct 00:11 | 326 | 2 | 6,1 | 18,4 |
-| nadie te dice esto de tu primera venta | polémica genérica | 5 | 10 oct 09:34 | 269 | 1 | 3,7 | 33,5 |
-| 3 cosas que vas a vender en Navidad 🆕 | lista + temporada | 5 | 16 oct 09:30 | 232 | 0 | 0 | 8,6 |
-| 10 ventas en Vinted: ¿cuánto te queda? | cálculo genérico | 6 | 13 oct 20:30 | 139 | 0 | 0 | 7,2 |
-| 3 cosas que se buscan en Vinted con el frío | lista + temporada | 5 | 13 oct 17:30 | 95 | 1 | 10,5 | 21,1 |
-| ¿cuánto vale tu armario en Vinted? 🆕 (<24 h) | pregunta dinero vaga | 6 | 16 oct 12:30 | 79 | 0 | 0 | 0 |
+| lo que nadie te cuenta del primer mes 🆕 | polémica genérica | 6 | 17 oct 00:00 | 402 | 1 | 2,5 | 10,0 |
+| ¿cuánto ganas vendiendo 1 prenda al día? | cálculo genérico | 6 | 14 oct 09:30 | 363 | 1 | 2,8 | 11,0 |
+| ¿cuánto vale tu armario en Vinted? | pregunta dinero vaga | 6 | 16 oct 12:30 | 269 | 0 | 0 | 0 |
+| 3 cosas que vas a vender en Navidad | lista + temporada | 5 | 16 oct 09:30 | 260 | 0 | 0 | 7,7 |
+| ¿tu precio asusta a los compradores? 🆕 (20 h) | pregunta precio (repetida) | 6 | 17 oct 12:30 | 194 | 0 | 0 | 25,8 |
+| 10 ventas en Vinted: ¿cuánto te queda? | cálculo genérico | 6 | 13 oct 20:30 | 140 | 0 | 0 | 7,1 |
+| 3 cosas que se buscan en Vinted con el frío | lista + temporada | 5 | 13 oct 17:30 | 99 | 1 | 10,1 | 20,2 |
 
-- **Mejores 3**: "3 cosas que no deberías vender en Vinted" (1.148 visitas, 0 com.), "¿cuánto se queda Vinted de tu venta?" (1.112, 0), "¿tu ropa lleva semanas sin venderse?" (998, 0).
-- **Peores 3** (con más de 24 h): "3 cosas que se buscan en Vinted con el frío" (95, 1), "10 ventas en Vinted: ¿cuánto te queda?" (139, 0), "3 cosas que vas a vender en Navidad" (232, 0). "¿cuánto vale tu armario?" va en 79 a las 20 h: pinta a hundido.
-- **Formato (media de visitas)**: riesgo de cuenta 978 (2), error→solución 869 (3, contando "3 fallos en el título"), truco 818, historia/reto "si empezara hoy" 829, pregunta de dinero concreta 860 (6: comisión, zapas ×2, precio, oferta, abrigo), reflexión 708 (3), cálculo genérico de ganancias 251 (2), polémica genérica 298 (2), lista de temporada 428 (3: invierno 958 pero frío 95 y Navidad 232).
-- **Temporada**: la PRIMERA lista de temporada de cada tanda funciona (Black Friday 768, invierno 958); las siguientes parecidas se hunden (frío 95, Navidad 232). El algoritmo parece castigar la repetición del ángulo "3 cosas que se venden en…".
-- **Diapositivas**: 6 → 691 (15), 5 → 648 (10), 7 → 326 (1). Diferencia pequeña; pesa más el tema.
-- **Hora**: 00:00 → 738 (4), 12:30 → 697 (4), 20:30 → 666 (4), 09:30 → 570 (4), 17:30 → 567 (3). Poca diferencia: la hora no explica los hundidos.
-- **Guía del CTA**: todos "proveedor(es)", sin diferencia medible.
+- **Mejores 3**: "3 cosas que no deberías vender en Vinted" (1.156 visitas, 0 com.), "¿cuánto se queda Vinted de tu venta?" (1.114, 0), "¿tu ropa lleva semanas sin venderse?" (998, 0).
+- **Peores 3**: "3 cosas que se buscan en Vinted con el frío" (99, 1), "10 ventas en Vinted: ¿cuánto te queda?" (140, 0), "¿tu precio asusta a los compradores?" (194, 0, con 20 h).
+- **Formato (media de visitas)**: riesgo de cuenta 982 (2: "no deberías vender" + "bloqueo"), error→solución 878 (4, contando "3 fallos en el título" y "favoritos"), pregunta de dinero concreta 813 (6), truco/historia 803 (3: hora, lotes, si empezara hoy), reflexión 719 (3), lista de temporada 519 (4: invierno 958 y Black Friday 759, pero frío 99 y Navidad 260), polémica genérica 402 (1), cálculo genérico / vaga 257 (3).
+- **Diapositivas**: 5 → 737 (10), 6 → 645 (16). Ligera ventaja de 5, pero los hundidos de 5 son temporada y los de 6 son de cálculo: pesa más el tema.
+- **Hora**: 20:30 → 686, 00:00 → 678, 12:30 → 638, 17:30 → 632, 09:30 → 615 (5 cada una). Poca diferencia: la hora no explica los hundidos.
+- **Guía del CTA**: todos "proveedor(es)" + guías de la bio; sin diferencia medible.
 
 **Reglas (basadas en 26 carruseles)**
-1. **Repite "riesgo de tu cuenta de Vinted"** cada 2 días como mínimo, con ángulo nuevo (lo que no debes escribir en el chat, por qué Vinted te oculta, cuenta nueva, subir muchas prendas de golpe). Lista "3 cosas que…" o error→solución.
-2. **Preguntas de dinero: solo si nombran UNA cosa concreta** (comisión, unas zapas, una oferta, un abrigo, un precio). **Prohibido el cálculo genérico** "¿cuánto ganas/te queda si vendes N…?" y las vagas ("¿cuánto vale tu armario?"): 79-362 visitas.
-3. **Máximo 1 lista de temporada cada 4 días** y con ángulo distinto de la anterior (no "invierno"→"frío", no "Black Friday"→"Navidad"→"noviembre" seguidos).
-4. **Nada de polémica genérica "nadie te cuenta/dice esto…"** si no va de la cuenta de Vinted (266-326).
-5. **Comentarios a 0**: termina la última diapositiva con una pregunta de respuesta de una palabra o un número fácil ("¿te ha pasado? sí/no", "¿1, 2 o 3?") además del CTA de "proveedores"; las de "¿te ha pasado alguna vez?" (bloqueo) son las que más comentarios dieron.
+1. **Repite "riesgo de tu cuenta de Vinted"** cada 2 días como mínimo, con ángulo nuevo (chat, prendas ocultas, cuenta nueva, subir mucho de golpe). Es el mejor formato y el único que da comentarios. Hace 4 días que no sale uno: va el primero.
+2. **Error→solución sobre por qué no vendes** (título, fotos, favoritos, ropa parada) es la apuesta segura: 4 de 4 por encima de 770.
+3. **Prohibido el cálculo genérico** ("¿cuánto ganas/te queda si vendes N…?") y las preguntas vagas ("¿cuánto vale tu armario?"): 140-363. Las de dinero solo si nombran UNA cosa concreta (comisión, envío, unas zapas, una oferta).
+4. **No repitas un tema ya publicado con otras palabras** (precio 10 oct → "precio asusta" 17 oct: 194). Antes de escribir, busca el tema en TODO historial.json, no solo en los últimos 7 días.
+5. **Nada de Navidad ni "frío" todavía** (260 y 99); Black Friday e invierno sí funcionan. Nada de "nadie te cuenta/dice esto…" si no va de la cuenta de Vinted (402 y antes 269-326).
 
-**Temas/ganchos a priorizar los próximos días** (⚠️ la tanda ya programada tiene 2 ganchos de cálculo genérico: 18 oct 09:30 "¿cuánto te queda de verdad de cada venta?" y 19 oct 09:30 "¿cuánto ganas si vendes 3 cosas a la semana?", y 2 listas de temporada seguidas: 18 oct 12:30 Navidad y 19 oct 12:30 noviembre → si se generan de nuevo, cambiarlos por los de abajo)
-1. "3 cosas que nunca debes escribir en el chat de Vinted 🚫" (riesgo de cuenta, el tema top).
+**Temas/ganchos a priorizar los próximos días** (⚠️ ya programados y contra las reglas: 18 oct 09:30 "¿cuánto te queda de verdad de cada venta?" y 19 oct 09:30 "¿cuánto ganas si vendes 3 cosas a la semana?" (cálculo genérico), 18 oct 12:30 Navidad y 19 oct 12:30 "noviembre" (temporada seguida) → si se rehacen, cambiarlos por estos)
+1. "3 cosas que nunca debes escribir en el chat de Vinted 🚫" (riesgo de cuenta).
 2. "por qué Vinted te oculta las prendas 👀" (riesgo de cuenta + error→solución).
-3. "3 fallos en las fotos que hacen que no te compren 📸" (error→solución, como "3 fallos en el título", 813).
-4. "¿cuánto se queda Correos/el envío de tu venta? 📦" (pregunta de dinero concreta, como la comisión, 1.112).
-5. "si empezara hoy con 0 seguidores en Vinted, haría esto" (historia/reto, 829).
+3. "3 fallos en las fotos que hacen que no te compren 📸" (error→solución, como "3 fallos en el título", 861).
+4. "¿cuánto se queda el envío de tu venta? 📦" (pregunta de dinero concreta, como la comisión, 1.114).
+5. "si empezara hoy con 0 seguidores en Vinted, haría esto" (historia/reto, 832).
