@@ -1,0 +1,32 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿comprar por kilo o por unidad? 🤔",
+   "sub": "guárdalo para luego",
+   "vinted": true
+  },
+  {
+   "titulo": "1. por kilo: muy barato, pero sale de todo",
+   "tema_foto": "cajas",
+   "abajo": "algunas prendas no se venden"
+  },
+  {
+   "titulo": "2. por unidad: eliges lo que se vende",
+   "tema_foto": "stock"
+  },
+  {
+   "titulo": "3. empieza con unidades y prueba",
+   "tema_foto": "paquetes",
+   "guia": "ropa",
+   "abajo": "mis proveedores, link en mi bio ⚡"
+  },
+  {
+   "titulo": "te digo a quién le compro: escribe “proveedores”",
+   "sub": "¿tú cuál prefieres?",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "¿ropa por kilo o por unidad para revender? 🤔\n¿tú cuál prefieres?\n\nte digo a quién le compro: escribe “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#ropaporkilo #vinted #reventa #proveedores #mayorista",
+ "slot": "44_mie21_1730"
+}

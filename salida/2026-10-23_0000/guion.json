@@ -1,0 +1,33 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "si solo hicieras 1 cosa al día en Vinted",
+   "sub": "el último es el más importante",
+   "vinted": true
+  },
+  {
+   "titulo": "1. sube una prenda nueva",
+   "foto": "aritz927_11.jpg"
+  },
+  {
+   "titulo": "2. contesta todo lo que tengas pendiente",
+   "tema_foto": "escritorio"
+  },
+  {
+   "titulo": "3. envía lo vendido ese mismo día",
+   "tema_foto": "envios"
+  },
+  {
+   "titulo": "4. no lo hagas perfecto, hazlo todos los días",
+   "tema_foto": "objetivo"
+  },
+  {
+   "titulo": "escribe “proveedores” y te digo cuáles uso",
+   "sub": "¿qué has hecho tú hoy?",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "una cosa al día. todos los días 🌙\n¿qué has hecho tú hoy?\n\nescribe “proveedores” y te digo cuáles uso 📦\n👉 Guías en el link de mi bio\n\n#vinted #constancia #reventa #proveedores #emprender",
+ "slot": "51_vie23_0000"
+}

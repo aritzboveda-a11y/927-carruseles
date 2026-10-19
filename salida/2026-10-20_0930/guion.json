@@ -1,0 +1,37 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿a cuánto vendes una sudadera de marca? 👕",
+   "sub": "el 4 es donde se gana",
+   "vinted": true
+  },
+  {
+   "titulo": "1. busca el mismo modelo en vendidos",
+   "tema_foto": "ropa",
+   "abajo": "no en los que están a la venta"
+  },
+  {
+   "titulo": "2. mira la talla y el estado",
+   "tema_foto": "stock"
+  },
+  {
+   "titulo": "3. súbela un poco por encima",
+   "abajo": "ejemplo: si van a 25€, ponla a 28€ para las ofertas",
+   "foto": "aritz927_21.jpg"
+  },
+  {
+   "titulo": "4. el margen sale de lo que pagas",
+   "tema_foto": "cajas",
+   "guia": "ropa",
+   "abajo": "link en mi bio 🔥"
+  },
+  {
+   "titulo": "¿la quieres más barata? comenta “proveedores”",
+   "sub": "¿a cuánto la venderías tú?",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "precio de una sudadera de marca en Vinted 👕 (ejemplo)\n¿a cuánto la pondrías tú?\n\n¿los quieres? comenta “proveedores” y te los paso 💸\n👉 Guías en el link de mi bio\n\n#vinted #revenderropa #sudaderas #proveedores #reventa",
+ "slot": "37_mar20_0930"
+}

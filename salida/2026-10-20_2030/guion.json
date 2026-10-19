@@ -1,0 +1,31 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "por qué Vinted te oculta las prendas 👀",
+   "sub": "ojo con la 2",
+   "vinted": true
+  },
+  {
+   "titulo": "1. subir la misma prenda varias veces",
+   "foto": "aritz927_36.jpg"
+  },
+  {
+   "titulo": "2. fotos sacadas de internet",
+   "tema_foto": "portatil",
+   "abajo": "usa siempre fotos tuyas"
+  },
+  {
+   "titulo": "3. marcas o palabras que no corresponden",
+   "tema_foto": "ropa",
+   "abajo": "pon solo la marca real de la prenda"
+  },
+  {
+   "titulo": "¿quieres producto bueno? escribe “proveedor”",
+   "sub": "¿te ha pasado? dímelo abajo",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "si tus prendas no salen en Vinted, mira esto 👀\n¿te ha pasado alguna vez?\n\n¿quieres producto bueno? escribe “proveedor” y te lo paso\n👉 Guías en el link de mi bio\n\n#vinted #cuentavinted #trucosvinted #proveedores #wallapop",
+ "slot": "40_mar20_2030"
+}

@@ -1,0 +1,36 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿proveedor o tiendas de segunda mano? 🤔",
+   "sub": "guárdalo para luego",
+   "vinted": true
+  },
+  {
+   "titulo": "1. segunda mano: chollos sueltos",
+   "tema_foto": "ropa",
+   "abajo": "pero pierdes horas buscando"
+  },
+  {
+   "titulo": "2. proveedor: stock fijo y precio fijo",
+   "tema_foto": "almacen"
+  },
+  {
+   "titulo": "3. puedes repetir lo que se vende",
+   "tema_foto": "stock"
+  },
+  {
+   "titulo": "4. para crecer, necesitas proveedor",
+   "tema_foto": "cajas",
+   "guia": "pack",
+   "abajo": "los míos están en la guía de mi bio"
+  },
+  {
+   "titulo": "escribe “proveedor” y te mando el acceso",
+   "sub": "¿tú de dónde sacas la ropa?",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "¿comprar a proveedor o ir de tiendas de segunda mano? 🤔\n¿tú de dónde sacas la ropa?\n\nescribe “proveedor” y te mando el acceso 📦\n👉 Guías en el link de mi bio\n\n#proveedores #vinted #reventa #segundamano #mayorista",
+ "slot": "65_dom25_2030"
+}

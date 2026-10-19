@@ -1,0 +1,36 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿subes fotos sacadas de internet? ojo 🚫",
+   "sub": "el 2 es el más importante",
+   "vinted": true
+  },
+  {
+   "titulo": "1. Vinted las puede detectar",
+   "tema_foto": "portatil"
+  },
+  {
+   "titulo": "2. el comprador quiere ver la prenda real",
+   "tema_foto": "ropa",
+   "abajo": "si no, desconfía y no compra"
+  },
+  {
+   "titulo": "3. y pueden denunciarte la prenda",
+   "foto": "aritz927_11.jpg"
+  },
+  {
+   "titulo": "4. foto tuya, luz natural y listo",
+   "tema_foto": "stock",
+   "guia": "pack",
+   "abajo": "mis proveedores, link en mi bio ⚡"
+  },
+  {
+   "titulo": "comenta “proveedor” y te paso los míos",
+   "sub": "¿tú haces tus fotos?",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "fotos de internet en Vinted: por qué te pueden salir caras 🚫\n¿tú haces tus propias fotos?\n\ncomenta “proveedor” y te paso los míos 📩\n👉 Guías en el link de mi bio\n\n#vinted #cuentavinted #fotosvinted #proveedores #reventa",
+ "slot": "63_dom25_1230"
+}

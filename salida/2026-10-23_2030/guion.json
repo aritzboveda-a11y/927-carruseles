@@ -1,0 +1,35 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿ropa de marca o sin marca? 🤔",
+   "sub": "guárdalo para luego",
+   "vinted": true
+  },
+  {
+   "titulo": "1. de marca: se busca y se vende más cara",
+   "tema_foto": "lujo"
+  },
+  {
+   "titulo": "2. sin marca: más barata de comprar",
+   "tema_foto": "cajas"
+  },
+  {
+   "titulo": "3. sin marca solo si es bonita y se ve bien",
+   "tema_foto": "ropa"
+  },
+  {
+   "titulo": "4. lo importante: a cuánto la compras",
+   "tema_foto": "stock",
+   "guia": "pack",
+   "abajo": "mis proveedores, link en mi bio ⚡"
+  },
+  {
+   "titulo": "te los paso: comenta “proveedores”",
+   "sub": "¿qué vendes tú más?",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "¿qué se vende mejor en Vinted, marca o sin marca? 🤔\n¿qué vendes tú más?\n\nte los paso: comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#vinted #revenderropa #marcas #proveedores #reventa",
+ "slot": "55_vie23_2030"
+}

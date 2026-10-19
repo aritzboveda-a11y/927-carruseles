@@ -1,0 +1,32 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿a cuánto vendes un bolso en Vinted? 👜",
+   "sub": "el último es el más importante",
+   "vinted": true
+  },
+  {
+   "titulo": "1. marca y modelo en el título",
+   "tema_foto": "lujo"
+  },
+  {
+   "titulo": "2. fotos del interior y las asas",
+   "abajo": "es lo primero que miran",
+   "foto": "aritz927_36.jpg"
+  },
+  {
+   "titulo": "3. compra bien y no tendrás que regalarlo",
+   "tema_foto": "cajas",
+   "guia": "accesorios",
+   "abajo": "link en mi bio 🔥"
+  },
+  {
+   "titulo": "comenta “proveedores” y te mando el acceso",
+   "sub": "¿cuánto pedirías tú por el tuyo?",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "precio de un bolso en Vinted: haz esto antes de subirlo 👜\n¿cuánto pedirías por el tuyo?\n\ncomenta “proveedores” y te mando el acceso 📦\n👉 Guías en el link de mi bio\n\n#vinted #bolsos #revenderropa #proveedores #reventa",
+ "slot": "48_jue22_1230"
+}

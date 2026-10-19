@@ -1,0 +1,31 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿Vinted o tu propia tienda online? 🤔",
+   "sub": "guárdalo para luego",
+   "vinted": true
+  },
+  {
+   "titulo": "1. Vinted: compradores desde el día 1",
+   "foto": "aritz927_36.jpg"
+  },
+  {
+   "titulo": "2. tienda propia: tu marca, pero sin visitas",
+   "tema_foto": "portatil"
+  },
+  {
+   "titulo": "3. empieza en Vinted y luego da el salto",
+   "tema_foto": "objetivo",
+   "guia": "pack",
+   "abajo": "los míos están en la guía de mi bio"
+  },
+  {
+   "titulo": "escribe “proveedores” y te los mando",
+   "sub": "¿tú dónde vendes?",
+   "tema_foto": "objetivo"
+  }
+ ],
+ "caption": "¿mejor vender en Vinted o montar tu tienda online? 🤔\n¿tú dónde vendes?\n\nescribe “proveedores” y te los mando 💸\n👉 Guías en el link de mi bio\n\n#vinted #tiendaonline #negocioonline #proveedores #emprendimiento",
+ "slot": "60_sab24_2030"
+}
