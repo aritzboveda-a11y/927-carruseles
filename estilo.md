@@ -115,10 +115,11 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 24 oct 2026** (Metricool, 17-24 oct, solo carruseles PHOTO con más de 12 h, emparejados con historial.json por caption y hora; hora de Madrid). 25 carruseles medibles: 10.092 visitas, 70 me gusta (6,9 por 1.000), 12 comentarios (1,2 por 1.000).
-- 🚨 **Ayer (23 oct) no se publicó NADA: 0 visitas.** El último carrusel que salió fue el del bolso (22 oct 12:45). Desde entonces **9 publicaciones seguidas están en ERROR "You have reached your Metricool account limit"** (22 oct 17:52 y 20:52; 23 oct 00:22, 09:46, 12:37, 17:45, 20:46; 24 oct 00:12) y no han salido en TikTok. Quedan **14 programadas en PENDING** (24-26 oct) que casi seguro fallarán igual. **El problema ahora no es el contenido: es el límite de Metricool.**
-- Ningún dato nuevo de contenido desde ayer: las cifras de los ya publicados no han cambiado (TikTok ya no les da más alcance).
-- La caída de alcance sigue explicada como ayer: hasta el 19 oct **641 de media**; 20 oct 341; 21 oct (7 carruseles en un día) casi todos por debajo de 80; 22 oct 19-41. Cayeron todos los formatos por igual.
+**Actualizado: 25 oct 2026** (Metricool, 18-25 oct, solo carruseles PHOTO con más de 12 h, emparejados con historial.json por caption y hora; hora de Madrid). Mismos 25 carruseles medibles que ayer: 10.092 visitas, 70 me gusta (6,9 por 1.000), 12 comentarios (1,2 por 1.000). Ninguna cifra ha cambiado.
+- 🚨 **Ayer (24 oct) tampoco se publicó NADA: 0 visitas. Van 3 días sin publicar** (23, 24 y 25 oct). Último carrusel publicado: el del bolso (22 oct 12:45).
+- **14 publicaciones seguidas en ERROR "You have reached your Metricool account limit"**: 22 oct 17:52 y 20:52; 23 oct 00:22, 09:46, 12:37, 17:45, 20:46; 24 oct 00:12, 09:38, 12:49, 17:49, 20:51; 25 oct 00:15. Quedan **8 en PENDING** (25 oct 09:43, 12:47, 17:49, 20:44; 26 oct 00:13, 09:46, 12:35) que fallarán igual si nadie amplía el límite.
+- **El problema no es el contenido: es el límite de Metricool.** Hasta que Aritz lo arregle (ampliar plan o borrar los programados) o suba a mano, no hay datos nuevos que analizar.
+- La caída de alcance anterior sigue explicada igual: hasta el 19 oct **641 de media**; 20 oct 341; 21 oct (7 carruseles en un día) casi todos por debajo de 80; 22 oct 19-41. Cayeron todos los formatos por igual → publicar demasiado seguido hundió el alcance.
 - **Lo único que se mantiene**: las preguntas sobre su caso sacan comentarios aunque haya poco alcance (España o China 7,4 por 1.000; chat 3,3; camiseta 3,3; avanzar 3,2). "kilo o unidad": 45 me gusta por 1.000 con solo 66 visitas.
 - **Antes de la caída (17-19 oct)**: comparación 873, dinero de 1 venta 858, reflexión 829-846, error→solución 833, Black Friday 814, dinero de 1 cosa 779; Navidad 274, primera venta 360, precio repetido 424. Franjas: 17:30 → ~850, 20:30 → ~810, 09:30 → ~815, 00:00 → ~600, 12:30 → ~350.
 
@@ -150,14 +151,14 @@ Varía también:
 | ¿borras y vuelves a subir tus prendas? ojo | riesgo de cuenta | 22 oct 09:50 | 34 | 0 | 0 | 0 |
 | ¿a cuánto vendes un bolso en Vinted? | dinero de 1 cosa | 22 oct 12:45 | 19 | 0 | 0 | 0 |
 
-- **No publicados (ERROR, no cuentan)**: te ven pero nadie te escribe; barato o caro; 1 cosa al día; Vinted desconfía; vaqueros de marca; devoluciones; marca o sin marca; pensar en dejarlo. **Siguen sin estrenar: se pueden reutilizar tal cual cuando se pueda publicar.**
+- **No publicados (ERROR, no cuentan, siguen sin estrenar y se pueden reutilizar)**: te ven pero nadie te escribe; barato o caro; 1 cosa al día; Vinted desconfía; vaqueros de marca; devoluciones; marca o sin marca; pensar en dejarlo; 3 trucos para que tu prenda salga más; pagar fuera de Vinted; preparar la ropa antes de subirla; Vinted o tienda online; el domingo decide tu semana.
 - **Mejores 3**: "Vinted o Wallapop: ¿dónde vendes más?" (873 visitas, 0 com.), "¿cuánto te queda de verdad de cada venta?" (858, 1), "la diferencia entre el que vende y el que no" (846, 1).
 - **Peores 3**: "¿a cuánto vendes un bolso en Vinted?" (19, 0), "¿borras y vuelves a subir tus prendas? ojo" (34, 0), "nadie ve lo que hay detrás de cada venta" y "¿cuenta nueva? no hagas esto" (41, 0).
 - **Guía del CTA y nº de diapositivas**: todos llevan el CTA de "proveedores" y 5-6 diapositivas; no hay variación para comparar.
 - **Datos limitados**: no hay ningún carrusel nuevo desde el 22 oct; no se pueden sacar conclusiones nuevas de temas.
 
 **Reglas (basadas en 25 carruseles + estado de Metricool)**
-1. **No programar NADA en Metricool mientras haya publicaciones en ERROR por "account limit"** (hoy hay 9 en ERROR y 14 en PENDING). Antes de publicar, mirar getScheduledPosts; si hay ERROR, generar el carrusel, dejarlo en salida/ y avisar a Aritz para que lo suba a mano desde la app de TikTok. No crear más programados encima.
+1. **No programar NADA en Metricool mientras haya publicaciones en ERROR por "account limit"** (hoy 14 en ERROR y 8 en PENDING). Antes de publicar, mirar getScheduledPosts; si hay ERROR, generar el carrusel, dejarlo en salida/ y avisar a Aritz para que lo suba a mano desde la app de TikTok. No crear más programados encima.
 2. **Cuando se pueda volver a publicar: máximo 2 carruseles al día** (17:30 y 20:30), separados 3 h o más, hasta que la media vuelva a 300+. Nunca 7 en un día como el 21 oct.
 3. **Solo formatos probados**: comparación y error→solución a las 17:30; reflexión o dinero de 1 venta a las 20:30.
 4. **Siguen prohibidos** Navidad, "primera venta/primer mes", "tu armario", repetir el tema de precios y la franja de las 12:30.
@@ -165,7 +166,7 @@ Varía también:
 
 **Temas/ganchos a priorizar los próximos días** (primero los ya hechos que nunca salieron)
 1. "te ven pero nadie te escribe 😩" (error→solución, sin estrenar; 17:30).
-2. "¿vender barato y rápido o caro y despacio?" (comparación, sin estrenar; 17:30 o 20:30).
-3. "¿comprar por kilo o por unidad? 🤔" con gancho nuevo (45 me gusta por 1.000 con 66 visitas; 17:30).
+2. "¿vender barato y rápido o caro y despacio?" (comparación, sin estrenar; 20:30).
+3. "¿Vinted o tu propia tienda online? 🤔" (comparación, sin estrenar; 17:30).
 4. "¿Vinted, Wallapop o Milanuncios?" (comparación tipo el récord de 873; 17:30).
 5. "¿cuánto te queda de verdad de cada venta?" con otro producto (dinero de 1 venta, 858; 20:30).
