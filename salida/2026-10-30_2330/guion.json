@@ -1,37 +1,35 @@
 {
- "plantilla": "aritz",
+ "plantilla": "pinterest",
  "slides": [
   {
-   "titulo": "lo que hacen los que venden cada día",
-   "vinted": true,
-   "sub": "no es suerte"
+   "titulo": "nadie te va a aplaudir cuando empieces",
+   "foto": "aritz927_36.jpg",
+   "vinted": true
   },
   {
-   "titulo": "1. suben algo todos los días",
-   "tema_foto": "cajas"
+   "titulo": "ni con la primera venta",
+   "texto": "ni con el primer paquete que mandas",
+   "foto": "aritz927_11.jpg"
   },
   {
-   "titulo": "2. contestan rápido",
-   "tema_foto": "escritorio"
+   "titulo": "te aplaudirán cuando ya no lo necesites",
+   "foto": "aritz927_25.jpg"
   },
   {
-   "titulo": "3. revisan precios cada semana",
-   "tema_foto": "stock"
+   "titulo": "así que sigue igual",
+   "texto": "una prenda más hoy",
+   "foto": "aritz927_32.jpg"
   },
   {
-   "titulo": "4. compran a buenos proveedores",
-   "tema_foto": "cajas",
-   "guia": "pack",
-   "abajo": "los míos, link en mi bio 🔥"
-  },
-  {
-   "titulo": "comenta “proveedores” y te paso los míos",
-   "sub": "¿cuál te falta a ti?",
-   "tema_foto": "objetivo"
+   "titulo": "¿en qué día vas tú?",
+   "texto": "si quieres empezar: escribe “{verde:proveedores}”",
+   "foto": "aritz927_30.jpg",
+   "guia": "pack"
   }
  ],
- "caption": "lo que hacen los que venden todos los días en Vinted 🌙\n¿cuál te falta a ti?\n\ncomenta “proveedores” y te paso los míos 📦\n👉 Guías en el link de mi bio\n\n#vinted #constancia #reventa #proveedores #emprendimiento",
- "tema": "reflexión: hábitos de los que venden",
- "hora_publicacion": "2026-10-30 23:18",
- "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)"
+ "caption": "sigue aunque nadie te aplauda 🌙\n¿cuánto llevas revendiendo?\n\nescribe “proveedores” y te los mando 📩\n👉 Guías en el link de mi bio\n\n#mentalidad #emprendimiento #vinted #reventa #proveedores",
+ "tema": "motivación: nadie te aplaude",
+ "formato": "motivación",
+ "hora_publicacion": "2026-10-30 23:30",
+ "audio": "Untitled #13 (Slowed + Reverb) — glwzbll"
 }

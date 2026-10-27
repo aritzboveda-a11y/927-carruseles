@@ -1,39 +1,35 @@
 {
- "plantilla": "aritz",
+ "plantilla": "pinterest",
  "slides": [
   {
-   "titulo": "señales de que tu proveedor te estafa 🚩",
-   "vinted": true,
-   "sub": "la 3 es la más común"
+   "titulo": "esto hace que Vinted te limite la cuenta 🚫",
+   "caja": true,
+   "foto": "aritz927_23.jpg",
+   "vinted": true
   },
   {
-   "titulo": "1. solo acepta Bizum o transferencia",
-   "tema_foto": "escritorio",
-   "abajo": "sin pago seguro, no"
+   "titulo": "1. subir muchas prendas de golpe en una cuenta nueva",
+   "foto": "aritz927_05.jpg"
   },
   {
-   "titulo": "2. no te enseña fotos reales del stock",
-   "tema_foto": "almacen"
+   "titulo": "2. la misma descripción copiada en todo",
+   "foto": "aritz927_32.jpg"
   },
   {
-   "titulo": "3. precios de marca demasiado bajos",
-   "tema_foto": "stock",
-   "abajo": "si parece imposible, es réplica"
+   "titulo": "3. pasar tu número o enlaces por el chat",
+   "texto": "todo dentro de Vinted, siempre",
+   "foto": "aritz927_11.jpg"
   },
   {
-   "titulo": "4. sin reseñas ni forma de contacto",
-   "tema_foto": "portatil",
-   "guia": "pack",
-   "abajo": "los míos, en una guía de mi bio ⚡"
-  },
-  {
-   "titulo": "¿los quieres? comenta “proveedores”",
-   "sub": "¿te han estafado alguna vez?",
-   "tema_foto": "lujo"
+   "titulo": "¿te ha pasado alguna vez?",
+   "texto": "¿te paso mis proveedores? comenta “{verde:proveedores}”",
+   "foto": "aritz927_25.jpg",
+   "guia": "pack"
   }
  ],
- "caption": "cómo saber si un proveedor es una estafa antes de pagar 🚩\n¿te ha pasado?\n\n¿los quieres? comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#proveedores #mayorista #vinted #reventa #estafas",
- "tema": "señales de proveedor estafa",
- "hora_publicacion": "2026-10-29 09:33",
- "audio": "instrumental con ritmo (tendencia)"
+ "caption": "cosas que hacen que Vinted te limite la cuenta 🚫\n¿te ha pasado?\n\n¿te paso mis proveedores? comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#vinted #cuentavinted #trucosvinted #proveedores #fyp",
+ "tema": "riesgo de cuenta: limitaciones",
+ "formato": "riesgo de cuenta",
+ "hora_publicacion": "2026-10-29 09:30",
+ "audio": "Self Aware — Mark Allan Wolfe"
 }

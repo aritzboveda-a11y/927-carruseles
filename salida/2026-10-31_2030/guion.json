@@ -1,38 +1,41 @@
 {
- "plantilla": "aritz",
+ "plantilla": "pinterest",
  "slides": [
   {
-   "titulo": "por esto se te acumula el stock 📦",
-   "vinted": true,
-   "sub": "ojo con el 3"
+   "titulo": "si empezara hoy con 50€, haría esto",
+   "foto": "aritz927_32.jpg",
+   "vinted": true
   },
   {
-   "titulo": "1. compras lo que te gusta a ti",
-   "tema_foto": "ropa"
+   "titulo": "1. un solo nicho",
+   "texto": "sudaderas, perfumes o zapatillas. Uno.",
+   "foto": "aritz927_38.jpg"
   },
   {
-   "titulo": "2. pides mucho de la misma talla",
-   "tema_foto": "cajas"
+   "titulo": "2. un proveedor fiable",
+   "texto": "muestras primero, pedido pequeño después",
+   "foto": "aritz927_26.jpg"
   },
   {
-   "titulo": "3. no miras qué se vende ya",
-   "tema_foto": "paquetes",
-   "abajo": "busca en Vinted y mira lo vendido"
+   "titulo": "3. fotos buenas y precio justo",
+   "texto": "y contestar rápido a todos",
+   "foto": "aritz927_29.jpg"
   },
   {
-   "titulo": "4. empieza con poco y repite lo que sale",
-   "tema_foto": "almacen",
-   "guia": "pack",
-   "abajo": "proveedores en mi bio 🔥"
+   "titulo": "4. reinvertir todo el primer mes",
+   "texto": "cada venta = más stock",
+   "foto": "aritz927_05.jpg"
   },
   {
-   "titulo": "te dejo mis proveedores: comenta “proveedores”",
-   "sub": "¿qué es lo que más se te queda?",
-   "tema_foto": "objetivo"
+   "titulo": "¿con cuánto empezarías tú?",
+   "texto": "mis proveedores, en la guía: comenta “{verde:proveedores}”",
+   "foto": "aritz927_30.jpg",
+   "guia": "pack"
   }
  ],
- "caption": "stock que no se vende: por qué pasa 📦\n¿qué es lo que más se te queda?\n\nte dejo mis proveedores: comenta “proveedores” 👇\n👉 Guías en el link de mi bio\n\n#reventa #vinted #stock #proveedores #mayorista",
- "tema": "error→solución: stock acumulado",
- "hora_publicacion": "2026-10-31 20:44",
- "audio": "instrumental con ritmo (tendencia)"
+ "caption": "cómo empezaría a revender con 50€ si lo hiciera hoy 💸\n¿con cuánto empezarías tú?\n\n¿te paso mis proveedores? comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#reventa #vinted #emprender #proveedores #negocioonline",
+ "tema": "plan: empezar hoy con 50€",
+ "formato": "plan paso a paso",
+ "hora_publicacion": "2026-10-31 20:30",
+ "audio": "sdp interlude (Slowed) — VTX"
 }

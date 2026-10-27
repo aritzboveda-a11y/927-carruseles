@@ -1,0 +1,41 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "las marcas que más rápido se venden en Vinted",
+   "foto": "aritz927_07.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "sudaderas de marcas streetwear",
+   "texto": "la gente las busca por nombre y paga por ellas",
+   "foto": "aritz927_38.jpg"
+  },
+  {
+   "titulo": "zapatillas clásicas",
+   "texto": "modelos de siempre: nunca pasan de moda",
+   "foto": "aritz927_18.jpg"
+  },
+  {
+   "titulo": "ropa deportiva de marca",
+   "texto": "conjuntos y camisetas: rotan todo el año",
+   "foto": "aritz927_17.jpg"
+  },
+  {
+   "titulo": "accesorios de lujo",
+   "texto": "carteras y cinturones: poco espacio, buen margen",
+   "foto": "aritz927_22.jpg"
+  },
+  {
+   "titulo": "¿cuál vendes tú?",
+   "texto": "dónde comprarlas: comenta “{verde:proveedores}”",
+   "foto": "aritz927_19.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "marcas que vuelan en Vinted 👟 ¿cuál vendes tú?\n\ncomenta “proveedores” y te paso el link 👇\n👉 Guías en el link de mi bio\n\n#vinted #revenderropa #marcas #proveedores #reventa",
+ "tema": "lista: marcas que más rápido se venden",
+ "formato": "lista de marcas",
+ "hora_publicacion": "2026-10-29 12:45",
+ "audio": "zara house — ostaprod"
+}

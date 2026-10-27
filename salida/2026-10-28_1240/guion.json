@@ -1,0 +1,46 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "lo que compro a menos de 10€ y se vende solo",
+   "sub": "(precios de ejemplo)",
+   "foto": "aritz927_38.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "camiseta de marca",
+   "precios": [
+    "6€",
+    "22€"
+   ],
+   "foto": "aritz927_17.jpg"
+  },
+  {
+   "titulo": "sudadera gráfica",
+   "precios": [
+    "9€",
+    "35€"
+   ],
+   "foto": "aritz927_38.jpg"
+  },
+  {
+   "titulo": "caja de juguetes de colección",
+   "precios": [
+    "8€",
+    "25€"
+   ],
+   "foto": "aritz927_03.jpg"
+  },
+  {
+   "titulo": "¿cuál comprarías tú primero?",
+   "texto": "dónde comprarlos, en la guía: comenta “{verde:proveedores}”",
+   "foto": "aritz927_06.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "cosas de menos de 10€ que se venden solas en Vinted 💸 (precios de ejemplo)\n¿cuál comprarías tú?\n\n¿los quieres? comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#vinted #reventa #proveedores #negocio #fyp",
+ "tema": "compra→venta: menos de 10€",
+ "formato": "precio compra → venta",
+ "hora_publicacion": "2026-10-28 12:40",
+ "audio": "Cavendish Banana — Bruno Boe"
+}

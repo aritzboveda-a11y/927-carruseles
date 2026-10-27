@@ -1,33 +1,37 @@
 {
- "plantilla": "aritz",
+ "plantilla": "pinterest",
  "slides": [
   {
-   "titulo": "¿Vinted o Wallapop para cada cosa? 🤔",
-   "vinted": true,
-   "sub": "guárdalo"
+   "titulo": "nunca hagas esto con una cuenta nueva de Vinted 🚫",
+   "caja": true,
+   "foto": "aritz927_23.jpg",
+   "vinted": true
   },
   {
-   "titulo": "1. ropa y zapatillas: Vinted",
-   "tema_foto": "zapatillas"
+   "titulo": "subir 30 prendas el primer día",
+   "texto": "empieza con pocas y ve subiendo cada día",
+   "foto": "aritz927_15.jpg"
   },
   {
-   "titulo": "2. electrónica y cosas grandes: Wallapop",
-   "tema_foto": "electronica"
+   "titulo": "usar fotos sacadas de internet",
+   "texto": "haz las tuyas, aunque sean con el móvil",
+   "foto": "aritz927_28.jpg"
   },
   {
-   "titulo": "3. lo que no sale en 2 semanas: prueba la otra",
-   "tema_foto": "stock",
-   "guia": "pack",
-   "abajo": "mis proveedores, en mi bio 🔥"
+   "titulo": "cambiar el precio 10 veces",
+   "texto": "ajústalo una vez y espera unos días",
+   "foto": "aritz927_32.jpg"
   },
   {
-   "titulo": "¿los quieres? comenta “proveedores”",
-   "sub": "¿tú dónde vendes más?",
-   "tema_foto": "lujo"
+   "titulo": "¿tu cuenta tiene menos de un mes?",
+   "texto": "¿te paso mis proveedores? comenta “{verde:proveedores}”",
+   "foto": "aritz927_04.jpg",
+   "guia": "pack"
   }
  ],
- "caption": "Vinted o Wallapop: qué vender en cada una 🤔\n¿tú dónde vendes más?\n\n¿los quieres? comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#vinted #wallapop #reventa #proveedores #segundamano",
- "tema": "comparación: Vinted o Wallapop",
- "hora_publicacion": "2026-11-01 12:45",
- "audio": "con energía"
+ "caption": "cuenta nueva en Vinted: no hagas esto 🚫\n¿la tuya tiene menos de un mes?\n\ncomenta “proveedores” y te digo cuáles uso 👇\n👉 Guías en el link de mi bio\n\n#vinted #cuentavinted #trucosvinted #proveedores #wallapop",
+ "tema": "riesgo de cuenta: cuenta nueva",
+ "formato": "riesgo de cuenta",
+ "hora_publicacion": "2026-11-01 12:30",
+ "audio": "Self Aware — Mark Allan Wolfe"
 }

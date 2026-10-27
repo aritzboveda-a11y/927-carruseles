@@ -1,34 +1,37 @@
 {
- "plantilla": "aritz",
+ "plantilla": "pinterest",
  "slides": [
   {
-   "titulo": "3 nichos que se venden solos en Vinted",
-   "vinted": true,
-   "sub": "el 2 casi nadie lo vende"
+   "titulo": "proveedores de perfumes que tienes que conocer",
+   "sub": "(parte 2)",
+   "foto": "aritz927_31.jpg",
+   "vinted": true
   },
   {
-   "titulo": "1. ropa deportiva de marca",
-   "tema_foto": "zapatillas"
+   "titulo": "proveedor de perfumes de marca",
+   "texto": "precintados y con factura. El nicho que más se guarda en Vinted.",
+   "foto": "aritz927_31.jpg"
   },
   {
-   "titulo": "2. perfumes precintados",
-   "tema_foto": "perfume",
-   "guia": "perfumes",
-   "abajo": "proveedor en mi bio ⚡"
+   "titulo": "proveedor de decants y miniaturas",
+   "texto": "precio bajo, mucha venta. Ideal para empezar con poco.",
+   "foto": "aritz927_09.jpg"
   },
   {
-   "titulo": "3. zapatillas de marca",
-   "tema_foto": "zapatillas",
-   "guia": "calzado"
+   "titulo": "proveedor de sets de regalo",
+   "texto": "en noviembre y diciembre se venden solos",
+   "foto": "aritz927_26.jpg"
   },
   {
-   "titulo": "¿te paso los proveedores? comenta “proveedores”",
-   "sub": "¿cuál venderías tú?",
-   "tema_foto": "objetivo"
+   "titulo": "¿quieres la parte 3?",
+   "texto": "los contactos, en la guía: comenta “{verde:proveedores}”",
+   "foto": "aritz927_24.jpg",
+   "guia": "perfumes"
   }
  ],
- "caption": "3 nichos para revender en Vinted ahora mismo 🔥\n¿con cuál empezarías?\n\n¿te paso los proveedores? comenta “proveedores” 👇\n👉 Guías en el link de mi bio\n\n#vinted #nichos #reventa #proveedores #negocioonline",
- "tema": "lista: nichos que se venden",
- "hora_publicacion": "2026-10-29 20:34",
- "audio": "con energía (tendencia, sin letra que tape)"
+ "caption": "proveedores de perfumes para revender (parte 2) 🧴\n¿de qué quieres la parte 3?\n\ncomenta “proveedores” y te digo cuáles uso 👇\n👉 Guías en el link de mi bio\n\n#perfumes #proveedores #vinted #reventa #mayorista",
+ "tema": "serie proveedores: perfumes (parte 2)",
+ "formato": "serie de proveedores",
+ "hora_publicacion": "2026-10-29 20:30",
+ "audio": "tesla (slowed electro mix) — Fixupboy"
 }

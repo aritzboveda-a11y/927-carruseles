@@ -1,0 +1,46 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "zapatillas que compras por menos de 30€ y se venden solas",
+   "sub": "(precios de ejemplo)",
+   "foto": "aritz927_18.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "running clásicas",
+   "precios": [
+    "25€",
+    "65€"
+   ],
+   "foto": "aritz927_22.jpg"
+  },
+  {
+   "titulo": "zapatillas de skate",
+   "precios": [
+    "20€",
+    "50€"
+   ],
+   "foto": "aritz927_07.jpg"
+  },
+  {
+   "titulo": "modelos retro",
+   "precios": [
+    "28€",
+    "70€"
+   ],
+   "foto": "aritz927_19.jpg"
+  },
+  {
+   "titulo": "¿cuál pillarías?",
+   "texto": "el proveedor está en la guía: comenta “{verde:proveedores}”",
+   "foto": "aritz927_09.jpg",
+   "guia": "calzado"
+  }
+ ],
+ "caption": "zapatillas que se venden solas en Vinted 👟 (precios de ejemplo)\n¿cuál pillarías?\n\ncomenta “proveedores” y te los paso 📦\n👉 Guías en el link de mi bio\n\n#zapatillas #sneakers #vinted #proveedores #reventa",
+ "tema": "compra→venta: zapatillas",
+ "formato": "precio compra → venta",
+ "hora_publicacion": "2026-10-30 12:35",
+ "audio": "Did It First Beat — Majorzin"
+}

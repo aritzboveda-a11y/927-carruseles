@@ -1,39 +1,37 @@
 {
- "plantilla": "aritz",
+ "plantilla": "pinterest",
  "slides": [
   {
-   "titulo": "te ofrecen la mitad: ¿qué contestas? 💸",
-   "vinted": true,
-   "sub": "la 3 funciona siempre"
+   "titulo": "te escriben pero no te compran 😩",
+   "caja": true,
+   "foto": "aritz927_11.jpg",
+   "vinted": true
   },
   {
-   "titulo": "1. no te enfades ni lo ignores",
-   "tema_foto": "envios"
+   "titulo": "1. contestas tarde",
+   "texto": "si tardas horas, ya compró en otra cuenta",
+   "foto": "aritz927_23.jpg"
   },
   {
-   "titulo": "2. contraoferta, pero no a la mitad",
-   "tema_foto": "stock",
-   "abajo": "baja un poco y explica por qué"
+   "titulo": "2. respondes solo «sí»",
+   "texto": "añade medidas, estado y una foto extra",
+   "foto": "aritz927_28.jpg"
   },
   {
-   "titulo": "3. ofrece un lote o envío rápido",
-   "tema_foto": "paquetes",
-   "abajo": "así vendes más y no bajas tanto"
+   "titulo": "3. no cierras",
+   "texto": "termina con «si quieres te lo reservo hoy»",
+   "foto": "aritz927_32.jpg"
   },
   {
-   "titulo": "4. con margen, una oferta no te hunde",
-   "tema_foto": "almacen",
-   "guia": "pack",
-   "abajo": "proveedores en mi bio 🔥"
-  },
-  {
-   "titulo": "comenta “proveedores” y te digo cuáles uso",
-   "sub": "¿cuál es la peor oferta que te han hecho?",
-   "tema_foto": "objetivo"
+   "titulo": "¿cuánto tardas tú en contestar?",
+   "texto": "y para el stock: comenta “{verde:proveedores}”",
+   "foto": "aritz927_05.jpg",
+   "guia": "pack"
   }
  ],
- "caption": "qué contestar cuando te ofrecen la mitad en Vinted 💸\n¿cuál es la peor oferta que te han hecho?\n\ncomenta “proveedores” y te digo cuáles uso 👇\n👉 Guías en el link de mi bio\n\n#vinted #ofertasvinted #trucosvinted #proveedores #revender",
- "tema": "error→solución: ofertas a la mitad",
- "hora_publicacion": "2026-10-30 17:42",
- "audio": "instrumental con ritmo (tendencia)"
+ "caption": "te preguntan en Vinted pero luego no compran 😩\n¿cuánto tardas en contestar?\n\n¿los quieres? escribe “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#vinted #trucosvinted #revenderropa #proveedores #fyp",
+ "tema": "error→solución: te escriben y no compran",
+ "formato": "error → solución",
+ "hora_publicacion": "2026-10-30 17:30",
+ "audio": "Mint Breeze — RITA"
 }

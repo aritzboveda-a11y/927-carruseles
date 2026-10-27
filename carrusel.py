@@ -320,6 +320,10 @@ def fondos_y_textos(guion, carpeta):
         import plantilla
         plantilla.C = sys.modules[__name__]  # mismo formato (TikTok/Instagram) que el generador
         return plantilla.fondos_y_textos(guion, carpeta, rnd)
+    if guion.get("plantilla") == "pinterest":
+        import pinterest
+        pinterest.C = sys.modules[__name__]
+        return pinterest.fondos_y_textos(guion, carpeta, rnd)
     fotos = elegir_fotos(guion["slides"], rnd)
     centro = rnd.uniform(*FORMATO["centro"])
     out = []

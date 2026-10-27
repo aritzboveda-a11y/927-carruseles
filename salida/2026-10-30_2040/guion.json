@@ -1,0 +1,36 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "Pinterest te dice qué vas a vender el mes que viene",
+   "foto": "aritz927_32.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "1. busca «outfit invierno 2026»",
+   "texto": "mira qué prendas se repiten en los pines más guardados",
+   "foto": "aritz927_28.jpg"
+  },
+  {
+   "titulo": "2. apunta 3 prendas",
+   "texto": "las que salen en todos los outfits",
+   "foto": "aritz927_38.jpg"
+  },
+  {
+   "titulo": "3. búscalas en Vinted",
+   "texto": "si hay pocas y caras: ahí tienes tu próxima compra",
+   "foto": "aritz927_29.jpg"
+  },
+  {
+   "titulo": "4. consigue proveedor antes que nadie",
+   "texto": "los míos, en la guía: comenta “{verde:proveedores}”",
+   "foto": "aritz927_26.jpg",
+   "guia": "ropa"
+  }
+ ],
+ "caption": "el truco de Pinterest para saber qué revender 📌\n¿lo sabías?\n\ncomenta “proveedores” y te paso el link 👇\n👉 Guías en el link de mi bio\n\n#pinterest #vinted #reventa #proveedores #tendencias",
+ "tema": "Pinterest para saber qué vender",
+ "formato": "truco Pinterest",
+ "hora_publicacion": "2026-10-30 20:40",
+ "audio": "Another Life — SZA"
+}

@@ -1,38 +1,34 @@
 {
- "plantilla": "aritz",
+ "plantilla": "pinterest",
  "slides": [
   {
-   "titulo": "noviembre empieza hoy: haz esto",
-   "vinted": true,
-   "sub": "antes de dormir"
+   "titulo": "si este mes subes 1 prenda al día…",
+   "foto": "aritz927_02.jpg",
+   "vinted": true
   },
   {
-   "titulo": "1. apunta cuántas vendiste en octubre",
-   "tema_foto": "escritorio"
+   "titulo": "el día 30 tienes 30 prendas a la venta",
+   "foto": "aritz927_29.jpg"
   },
   {
-   "titulo": "2. ponte un número para noviembre",
-   "tema_foto": "paquetes",
-   "abajo": "uno que puedas cumplir"
+   "titulo": "y más prendas = más visitas = más ventas",
+   "foto": "aritz927_35.jpg"
   },
   {
-   "titulo": "3. sube 1 prenda hoy",
-   "tema_foto": "ropa"
+   "titulo": "no hace falta hacerlo todo hoy",
+   "texto": "solo 1. mañana otra.",
+   "foto": "aritz927_32.jpg"
   },
   {
-   "titulo": "4. y prepara stock para diciembre",
-   "tema_foto": "cajas",
-   "guia": "pack",
-   "abajo": "proveedores en mi bio ⚡"
-  },
-  {
-   "titulo": "comenta “proveedores” y te paso los míos",
-   "sub": "¿cuántas quieres vender este mes?",
-   "tema_foto": "objetivo"
+   "titulo": "¿cuántas tienes subidas ahora?",
+   "texto": "si te falta stock: escribe “{verde:proveedores}”",
+   "foto": "aritz927_30.jpg",
+   "guia": "pack"
   }
  ],
- "caption": "empieza noviembre en Vinted así 🌙\n¿cuántas quieres vender este mes?\n\ncomenta “proveedores” y te paso los míos 📦\n👉 Guías en el link de mi bio\n\n#vinted #reventa #objetivos #proveedores #emprendimiento",
- "tema": "reflexión: empezar noviembre",
- "hora_publicacion": "2026-11-01 23:39",
- "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)"
+ "caption": "noviembre empieza hoy: 1 prenda al día 🌙\n¿cuántas tienes subidas ahora?\n\nescribe “proveedores” y te los mando 📩\n👉 Guías en el link de mi bio\n\n#vinted #constancia #reventa #proveedores #emprender",
+ "tema": "reflexión: 1 prenda al día",
+ "formato": "reflexión",
+ "hora_publicacion": "2026-11-01 23:30",
+ "audio": "Untitled #13 (Slowed + Reverb) — glwzbll"
 }
