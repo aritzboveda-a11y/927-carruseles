@@ -1,0 +1,33 @@
+{
+ "plantilla": "aritz",
+ "slides": [
+  {
+   "titulo": "¿Vinted o Wallapop para cada cosa? 🤔",
+   "vinted": true,
+   "sub": "guárdalo"
+  },
+  {
+   "titulo": "1. ropa y zapatillas: Vinted",
+   "tema_foto": "zapatillas"
+  },
+  {
+   "titulo": "2. electrónica y cosas grandes: Wallapop",
+   "tema_foto": "electronica"
+  },
+  {
+   "titulo": "3. lo que no sale en 2 semanas: prueba la otra",
+   "tema_foto": "stock",
+   "guia": "pack",
+   "abajo": "mis proveedores, en mi bio 🔥"
+  },
+  {
+   "titulo": "¿los quieres? comenta “proveedores”",
+   "sub": "¿tú dónde vendes más?",
+   "tema_foto": "lujo"
+  }
+ ],
+ "caption": "Vinted o Wallapop: qué vender en cada una 🤔\n¿tú dónde vendes más?\n\n¿los quieres? comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#vinted #wallapop #reventa #proveedores #segundamano",
+ "tema": "comparación: Vinted o Wallapop",
+ "hora_publicacion": "2026-11-01 12:45",
+ "audio": "con energía"
+}
