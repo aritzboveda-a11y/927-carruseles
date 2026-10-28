@@ -115,68 +115,63 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 27 oct 2026** (Metricool, 20-27 oct, solo carruseles PHOTO con más de 12 h, emparejados con historial.json por hora y caption; Metricool da la hora en UTC, aquí pasada a Madrid). 34 carruseles medibles: 8.516 visitas, 84 me gusta (9,9 por 1.000), 22 comentarios (2,6 por 1.000).
-- 🚨 **COLA VACÍA**: el último programado fue el del 26 oct 12:35 (Black Friday). Desde entonces no hay nada en el planificador de Metricool: hoy no sale ningún carrusel si no se programan.
-- ✅ Confirmado: los que salían como ERROR "account limit" en el planificador SÍ se publicaron (25 oct 12:45, 17:50, 20:45 y 26 oct 00:15 ya tienen visitas). La analítica llega con ~1 día de retraso.
-- **Ayer (26 oct)**: 3 carruseles = 556 visitas y 0 comentarios ("nueva semana" 253, "errores de envío" 224, "Black Friday" 79).
-- **Alcance**: meseta de ~300 por carrusel desde el 22 oct 17:50 (20 carruseles, 5.957 visitas, media 298), pero ayer bajó a 185 de media. "esto hace que Vinted desconfíe de ti" sigue creciendo: ya 710.
-- **Comentarios**: siguen bajos (2,6 por 1.000). Los que comentan son los que preguntan por SU caso: "te ven pero nadie te escribe" (11,7/1.000), "3 trucos para que tu prenda salga más" (11,1), "1 cosa al día" (10,5), "fotos de internet" (6,7).
+**Actualizado: 28 oct 2026** (Metricool, 21-28 oct, solo carruseles PHOTO con más de 12 h, emparejados con historial.json por hora y caption; Metricool da la hora en UTC, aquí pasada a Madrid). 29 carruseles medibles: 7.267 visitas, 73 me gusta (10,0 por 1.000), 19 comentarios (2,6 por 1.000).
+- 🚨 **2 días sin publicar**: el último carrusel que aparece en Metricool es el del 26 oct 12:35 (Black Friday). **Ayer (27 oct) = 0 carruseles y 0 visitas nuevas.** Los 27 carruseles del 27 oct - 1 nov están en historial.json como "pendiente de programar (TikTok Studio / Meta Business Suite)": si no se suben a mano, no salen.
+- ✅ **Los carruseles siguen sumando visitas 2-3 días**: "errores de envío" pasó de 224 a 390 y "Black Friday" de 79 a 289 en un día. No juzgar un carrusel con menos de 48 h.
+- **Alcance**: meseta de ~300 por carrusel desde el 22 oct 17:50 (21 carruseles, media 318). El hundimiento del 21-22 oct (<90) coincide con el día de 7 publicaciones.
+- **Comentarios**: siguen bajos (2,6 por 1.000). Comentan cuando se pregunta por SU caso: "te ven pero nadie te escribe" (11,7/1.000), "3 trucos para que tu prenda salga más" (11,1), "1 cosa al día" (10,5), "fotos de internet" (6,4). Las 6 comparaciones ("¿X o Y?") suman 0 comentarios.
 
 | Carrusel (gancho) | Formato | Hora | Visitas | Com. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|
-| esto hace que Vinted desconfíe de ti | riesgo de cuenta | 23 oct 09:45 | 710 | 0 | 0 | 5,6 |
-| tus fotos espantan a los compradores | error→solución | 20 oct 19:10 | 527 | 0 | 0 | 3,8 |
+| esto hace que Vinted desconfíe de ti | riesgo de cuenta | 23 oct 09:45 | 713 | 0 | 0 | 5,6 |
+| errores de envío que salen caros | riesgo de cuenta | 26 oct 09:45 | 390 | 0 | 0 | 2,6 |
 | si solo hicieras 1 cosa al día en Vinted | reflexión | 23 oct 00:20 | 382 | 4 | 10,5 | 10,5 |
 | por esto te devuelven los pedidos | error→solución | 23 oct 17:45 | 375 | 0 | 0 | 21,3 |
 | te ven pero nadie te escribe | error→solución | 22 oct 17:50 | 343 | 4 | 11,7 | 17,5 |
-| antes de subir la ropa, mira esto | error→solución | 24 oct 17:50 | 323 | 0 | 0 | 9,3 |
-| ¿ropa de marca o sin marca? | comparación | 23 oct 20:45 | 321 | 0 | 0 | 3,1 |
-| vender poco también es avanzar, bro | reflexión | 21 oct 00:05 | 317 | 1 | 3,2 | 3,2 |
-| nunca escribas esto en el chat | riesgo de cuenta | 20 oct 22:15 | 314 | 1 | 3,2 | 15,9 |
-| por qué Vinted te oculta las prendas | riesgo de cuenta | 20 oct 20:40 | 309 | 0 | 0 | 3,2 |
+| antes de subir la ropa, mira esto | error→solución | 24 oct 17:50 | 331 | 0 | 0 | 9,1 |
+| ¿ropa de marca o sin marca? | comparación | 23 oct 20:45 | 323 | 0 | 0 | 3,1 |
+| ¿subes fotos sacadas de internet? ojo | riesgo de cuenta | 25 oct 12:45 | 314 | 2 | 6,4 | 15,9 |
 | ¿cuánto vale una camiseta de fútbol? | dinero de 1 cosa | 21 oct 09:35 | 305 | 1 | 3,3 | 0 |
-| ¿subes fotos sacadas de internet? ojo | riesgo de cuenta | 25 oct 12:45 | 297 | 2 | 6,7 | 16,8 |
-| lo que haces el domingo decide tu semana | reflexión | 25 oct 00:15 | 295 | 1 | 3,4 | 10,2 |
-| una gorra de marca: ¿a cuánto la vendes? | dinero de 1 cosa | 25 oct 09:45 | 289 | 0 | 0 | 10,4 |
+| muchas visitas y 0 favoritos | error→solución | 25 oct 17:50 | 303 | 1 | 3,3 | 6,6 |
+| lo que haces el domingo decide tu semana | reflexión | 25 oct 00:15 | 297 | 1 | 3,4 | 10,1 |
+| una gorra de marca: ¿a cuánto la vendes? | dinero de 1 cosa | 25 oct 09:45 | 292 | 0 | 0 | 10,3 |
+| Black Friday: ¿subes o bajas precios? | temporada | 26 oct 12:35 | 289 | 1 | 3,5 | 0 |
+| ¿te piden pagar fuera de Vinted? | riesgo de cuenta | 24 oct 12:50 | 286 | 1 | 3,5 | 10,5 |
 | ¿Vinted o tu propia tienda online? | comparación | 24 oct 20:50 | 285 | 0 | 0 | 3,5 |
-| ¿te piden pagar fuera de Vinted? | riesgo de cuenta | 24 oct 12:50 | 284 | 1 | 3,5 | 10,6 |
-| ¿cuántas veces has pensado en dejarlo? | reflexión | 24 oct 00:10 | 276 | 1 | 3,6 | 7,2 |
-| muchas visitas y 0 favoritos | error→solución | 25 oct 17:50 | 275 | 1 | 3,6 | 7,3 |
-| ¿a cuánto vendes unos vaqueros de marca? | dinero de 1 cosa | 23 oct 12:35 | 274 | 0 | 0 | 14,6 |
+| nueva semana: haz esto antes del martes | reflexión | 26 oct 00:15 | 279 | 0 | 0 | 10,8 |
+| ¿cuántas veces has pensado en dejarlo? | reflexión | 24 oct 00:10 | 277 | 1 | 3,6 | 7,2 |
+| ¿a cuánto vendes unos vaqueros de marca? | dinero de 1 cosa | 23 oct 12:35 | 275 | 0 | 0 | 14,5 |
 | 3 trucos para que tu prenda salga más | lista | 24 oct 09:40 | 271 | 3 | 11,1 | 14,8 |
-| ¿proveedor de España o de China? | comparación | 20 oct 17:45 | 271 | 2 | 7,4 | 7,4 |
-| ¿proveedor o tiendas de segunda mano? | comparación | 25 oct 20:45 | 256 | 0 | 0 | 7,8 |
-| nueva semana: haz esto antes del martes | reflexión | 26 oct 00:15 | 253 | 0 | 0 | 11,9 |
-| errores de envío que salen caros | riesgo de cuenta | 26 oct 09:45 | 224 | 0 | 0 | 4,5 |
-| ¿vender barato y rápido o caro y despacio? | comparación | 22 oct 20:50 | 145 | 0 | 0 | 20,7 |
+| ¿proveedor o tiendas de segunda mano? | comparación | 25 oct 20:45 | 267 | 0 | 0 | 7,5 |
+| ¿vender barato y rápido o caro y despacio? | comparación | 22 oct 20:50 | 146 | 0 | 0 | 20,5 |
 | ¿a cuánto vendes una sudadera de marca? | dinero de 1 cosa | 21 oct 15:00 | 87 | 0 | 0 | 11,5 |
 | tu descripción te está quitando ventas | error→solución | 21 oct 12:50 | 82 | 0 | 0 | 12,2 |
-| Black Friday: ¿subes o bajas precios? | temporada | 26 oct 12:35 | 79 | 0 | 0 | 0 |
-| ¿comprar por kilo o por unidad? | comparación | 21 oct 17:35 | 72 | 0 | 0 | 41,7 |
-| si empezara otra vez, no haría esto | confesión | 21 oct 22:45 | 61 | 0 | 0 | 16,4 |
-| ¿borras y vuelves a subir tus prendas? ojo | riesgo de cuenta | 22 oct 09:50 | 60 | 0 | 0 | 50,0 |
+| ¿comprar por kilo o por unidad? | comparación | 21 oct 17:35 | 74 | 0 | 0 | 40,5 |
+| si empezara otra vez, no haría esto | confesión | 21 oct 22:45 | 63 | 0 | 0 | 15,9 |
+| ¿borras y vuelves a subir tus prendas? ojo | riesgo de cuenta | 22 oct 09:50 | 62 | 0 | 0 | 48,4 |
 | nadie ve lo que hay detrás de cada venta | reflexión | 22 oct 00:20 | 56 | 0 | 0 | 0 |
-| ¿cuenta nueva? no hagas esto | riesgo de cuenta | 21 oct 20:50 | 50 | 0 | 0 | 20,0 |
-| ¿a cuánto vendes un bolso en Vinted? | dinero de 1 cosa | 22 oct 12:45 | 48 | 0 | 0 | 20,8 |
+| ¿cuenta nueva? no hagas esto | riesgo de cuenta | 21 oct 20:50 | 51 | 0 | 0 | 19,6 |
+| ¿a cuánto vendes un bolso en Vinted? | dinero de 1 cosa | 22 oct 12:45 | 49 | 0 | 0 | 20,4 |
 
-- **Mejores 3**: "esto hace que Vinted desconfíe de ti" (710 visitas, 0 com.), "tus fotos espantan a los compradores" (527, 0), "si solo hicieras 1 cosa al día en Vinted" (382, 4). Por comentarios también: "te ven pero nadie te escribe" (343, 4).
-- **Peores 3**: "¿a cuánto vendes un bolso en Vinted?" (48, 0), "¿cuenta nueva? no hagas esto" (50, 0), "nadie ve lo que hay detrás de cada venta" (56, 0), todos del hundimiento del 21-22 oct (exceso de frecuencia). En la meseta, el peor es "Black Friday: ¿subes o bajas precios?" (79, 0), el único de temporada.
-- **Por formato (meseta desde el 22 oct 17:50, 20 carruseles)**: riesgo de cuenta 379 de media (4; sin el de 710, 268), error→solución 329 (4; 3,8 com/1.000), reflexión 302 (4; 5,0 com/1.000), lista 271 (1; 11,1 com/1.000), dinero de 1 cosa 282 (2; 0 com.), comparación 252 (4; 0 com.), temporada/Black Friday 79 (1).
-- **Por franja (misma meseta)**: 09:30 → 374 (por el de 710), 17:30 → 329, 00:00 → 302, 20:30 → 252, 12:30 → 234. Con 4 por franja: orientativo.
-- **Nº de diapositivas**: 5 diapositivas = 297 de media, 6 = 299. Sin diferencia.
-- **Guía del CTA**: casi todos llevan "pack"; con "ropa" (2) o "accesorios" (1) no hay datos suficientes para comparar.
-- **Datos limitados**: 1-4 carruseles por grupo. Son pistas, no reglas firmes.
+- **Mejores 3**: "esto hace que Vinted desconfíe de ti" (713 visitas, 0 com.), "errores de envío que salen caros" (390, 0), "si solo hicieras 1 cosa al día en Vinted" (382, 4). Por comentarios: "te ven pero nadie te escribe" (343, 4).
+- **Peores 3**: "¿a cuánto vendes un bolso en Vinted?" (49, 0), "¿cuenta nueva? no hagas esto" (51, 0), "nadie ve lo que hay detrás de cada venta" (56, 0), todos del hundimiento del 21-22 oct (exceso de frecuencia). En la meseta, el peor es "¿vender barato y rápido o caro y despacio?" (146, 0), una comparación a las 20:30.
+- **Por formato (meseta desde el 22 oct 17:50, 21 carruseles)**: riesgo de cuenta 426 de media (4; sin el de 713, 330; 1,8 com/1.000), error→solución 338 (4; 3,7 com/1.000; el mejor en me gusta, 14,1/1.000), reflexión 309 (4; 4,9 com/1.000), Black Friday 289 (1, ya no es el peor), dinero de 1 cosa 284 (2; 0 com.), lista 271 (1; 11,1 com/1.000), comparación 255 (4; 0 com.).
+- **Por franja (misma meseta)**: 09:30 → 416 (los dos mejores, riesgo de cuenta), 17:30 → 338, 00:00 → 309, 12:30 → 291, 20:30 → 255 (siempre comparaciones: no se puede separar formato y hora).
+- **Nº de diapositivas**: sin diferencia entre 5 y 6 (dato de ayer, sin cambios).
+- **Guía del CTA**: casi todos llevan "pack"; no hay datos para comparar guías.
+- **Datos limitados**: 1-4 carruseles por grupo y 0 publicaciones nuevas en 2 días. Son pistas, no reglas firmes.
 
-**Reglas (basadas en 34 carruseles)**
-1. **La cola no puede quedarse vacía**: si en Metricool no hay nada programado para las próximas 24 h, programar 4-5 carruseles. No fiarse del estado ERROR del planificador: comprobar en la analítica del día siguiente.
+**Reglas (basadas en 29 carruseles)**
+1. **La cola no puede quedarse vacía**: si no hay nada publicado o programado para las próximas 24 h, avisar a Aritz y programar 4-5 carruseles. Lo que está "pendiente de programar" no cuenta como publicado.
 2. **Máximo 4-5 al día, separados 3 h o más** (7 en un día hundió el alcance a <90 el 21-22 oct).
-3. **Repite más error→solución sobre un problema concreto de Vinted** ("te ven pero nadie te escribe", "por esto te devuelven", "tus fotos espantan"): el formato más estable (275-527) y con comentarios. Mejor a las 17:30.
-4. **Termina siempre con una pregunta sobre SU caso con número o elección** ("¿cuántas visitas tiene tu última prenda?", "¿cuál no hacías?"): los 4 que más comentan la llevan.
-5. **Evita comparaciones ("¿X o Y?"), "¿a cuánto vendes X?" y temas de temporada como Black Friday**: 0 comentarios y por debajo de la media. Si hay comparación, nunca a las 20:30. Siguen prohibidos Navidad y "primera venta/primer mes".
+3. **Riesgo de cuenta a las 09:30 y error→solución a las 17:30**: son las dos combinaciones con más visitas (416 y 338 de media). Los ganchos con 🚫/"ojo"/"salen caros" sobre perder dinero o la cuenta son los que más alcance tienen.
+4. **Termina siempre con una pregunta sobre SU caso con número o elección** ("¿cuántas visitas tiene tu última prenda?", "¿cuál no hacías?"): los 4 que más comentan la llevan. Los riesgos de cuenta tienen alcance pero casi no comentan: añádeles esa pregunta concreta.
+5. **Evita comparaciones ("¿X o Y?") y "¿a cuánto vendes X?"**: 0 comentarios en 8 carruseles y por debajo de la media. Si hay que poner algo a las 20:30, mejor una lista o un error→solución. Siguen prohibidos Navidad y "primera venta/primer mes".
 
-**Temas/ganchos a priorizar los próximos días**
-1. "por esto Vinted te limita la cuenta 🚫" (riesgo de cuenta, como el de 710; 09:30).
-2. "te escriben pero no te compran 😩" (error→solución, continuación del que más comentó; 17:30).
-3. "3 cosas que haces y espantan compradores" (lista + error→solución; 17:30).
-4. "si solo tuvieras 10 min al día para Vinted" (reflexión tipo "1 cosa al día"; 00:00).
-5. "tus prendas tienen visitas pero 0 ofertas: mira esto" (error→solución con pregunta de número; 09:30).
+**Temas/ganchos a priorizar los próximos días** (ya están en la semana preparada; subirlos en este orden si hay que elegir)
+1. "por esto Vinted te limita la cuenta 🚫" (riesgo de cuenta, como el de 713; 09:30).
+2. "3 cosas que Vinted no te deja vender 🚫" (riesgo de cuenta; mejor a las 09:30 que a las 12:30).
+3. "te escriben pero no te compran 😩" (error→solución, continuación del que más comentó; 17:30).
+4. "señales de que tu proveedor te estafa 🚩" (riesgo + proveedor, enlaza con la guía; 09:30).
+5. "si solo tuvieras 10 min al día para Vinted" (reflexión tipo "1 cosa al día", la que más comentó; 00:00).
+- Cambiar "¿Vinted o Wallapop para cada cosa?" (1 nov, comparación) por un error→solución si se rehace.
