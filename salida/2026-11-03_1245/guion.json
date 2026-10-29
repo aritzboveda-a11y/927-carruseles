@@ -1,0 +1,46 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "lo que más se mueve cuando llega el frío",
+   "sub": "(precios de ejemplo)",
+   "foto": "aritz927_28.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "plumífero de marca",
+   "precios": [
+    "25€",
+    "60€"
+   ],
+   "foto": "aritz927_29.jpg"
+  },
+  {
+   "titulo": "sudadera gruesa",
+   "precios": [
+    "9€",
+    "28€"
+   ],
+   "foto": "aritz927_38.jpg"
+  },
+  {
+   "titulo": "zapatillas de marca",
+   "precios": [
+    "30€",
+    "70€"
+   ],
+   "foto": "aritz927_19.jpg"
+  },
+  {
+   "titulo": "¿cuál pillarías primero?",
+   "texto": "dónde comprarlos, en la guía: comenta “{verde:proveedores}”",
+   "foto": "aritz927_18.jpg",
+   "guia": "ropa"
+  }
+ ],
+ "caption": "lo que más se vende en Vinted cuando hace frío ❄️ (precios de ejemplo)\n¿cuál pillarías primero?\n\ncomenta “proveedores” y te los paso 📦\n👉 Guías en el link de mi bio\n\n#vinted #invierno #revenderropa #proveedores #reventa",
+ "tema": "compra→venta: abrigos (ejemplos)",
+ "formato": "precio compra → venta",
+ "hora_publicacion": "2026-11-03 12:45",
+ "audio": "didit"
+}

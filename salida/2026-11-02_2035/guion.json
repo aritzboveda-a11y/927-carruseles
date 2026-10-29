@@ -1,0 +1,36 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "3 cosas que NO compraría para revender en noviembre",
+   "foto": "aritz927_13.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "1. ropa de verano",
+   "texto": "se queda parada hasta mayo. dinero dormido",
+   "foto": "aritz927_24.jpg"
+  },
+  {
+   "titulo": "2. tallas muy raras",
+   "texto": "XXS o XXXL se venden, pero tardan el triple",
+   "foto": "aritz927_17.jpg"
+  },
+  {
+   "titulo": "3. marcas que nadie busca",
+   "texto": "si no aparece en el buscador, no existe",
+   "foto": "aritz927_29.jpg"
+  },
+  {
+   "titulo": "lo que sí: abrigos, sudaderas y regalos",
+   "texto": "proveedores de eso, en la guía: comenta “{verde:proveedores}”",
+   "foto": "aritz927_38.jpg",
+   "guia": "ropa"
+  }
+ ],
+ "caption": "lo que yo NO compraría para revender ahora 🚫\n¿cuál comprarías tú igual?\n\n¿los quieres? comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#reventa #vinted #noviembre #proveedores #revenderropa",
+ "tema": "lista negativa: qué no comprar en noviembre",
+ "formato": "lista negativa",
+ "hora_publicacion": "2026-11-02 20:35",
+ "audio": "zara"
+}

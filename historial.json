@@ -1,957 +1,1272 @@
 [
- {
-  "fecha": "2026-10-07 21:43",
-  "tema": "Cómo saber si un proveedor es fiable",
-  "gancho": "Cómo saber si un proveedor es fiable antes de pagarle",
-  "carpeta": "salida/2026-10-07_2143"
- },
- {
-  "fecha": "2026-10-07 23:46",
-  "tema": "Cómo calcular el margen antes de comprar",
-  "gancho": "¿Sabes cuánto ganas de verdad con cada venta?",
-  "cta": "Escribe “proveedores” y te los mando",
-  "n_diapositivas": 5,
-  "carpeta": "salida/2026-10-07_2346"
- },
- {
-  "fecha": "2026-10-08 02:46",
-  "tema": "Cómo calentar una cuenta de Vinted nueva para evitar bloqueos",
-  "gancho": "Nadie te dice esto cuando abres una cuenta nueva",
-  "cta": "¿Los quieres? Comenta “proveedores”",
-  "n_diapositivas": 6,
-  "carpeta": "salida/2026-10-08_0246"
- },
- {
-  "fecha": "2026-10-08 05:45",
-  "tema": "Top 3 nichos para vender en Vinted ahora (otoño)",
-  "gancho": "3 cosas que tienes que vender en Vinted este otoño",
-  "cta": "Comenta “proveedores” y te digo cuáles uso",
-  "n_diapositivas": 5,
-  "carpeta": "salida/2026-10-08_0545"
- },
- {
-  "fecha": "2026-10-08 08:46",
-  "tema": "Cómo hacer fotos que venden",
-  "gancho": "Si tus fotos no venden, haz esto",
-  "cta": "Te dejo mis proveedores: comenta “proveedores”",
-  "n_diapositivas": 7,
-  "carpeta": "salida/2026-10-08_0846"
- },
- {
-  "fecha": "2026-10-08 11:48",
-  "tema": "Cómo responder ofertas en Vinted sin perder dinero",
-  "gancho": "Cuando empecé, aceptaba todas las ofertas de Vinted",
-  "cta": "Comenta “proveedores” y te paso el link",
-  "n_diapositivas": 6,
-  "carpeta": "salida/2026-10-08_1148"
- },
- {
-  "fecha": "2026-10-08 14:46",
-  "tema": "Packaging barato que da buena impresión",
-  "gancho": "¿Tus paquetes parecen baratos?",
-  "cta": "Te dejo mis proveedores: comenta “proveedores”",
-  "n_diapositivas": 4,
-  "carpeta": "salida/2026-10-08_1446"
- },
- {
-  "fecha": "2026-10-08 17:21",
-  "tema": "Proveedores europeos vs chinos",
-  "gancho": "¿Proveedor chino o europeo?",
-  "cta": "Escribe “proveedores” y te los mando",
-  "guia": "pack",
-  "n_diapositivas": 7,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-08_1721"
- },
- {
-  "fecha": "2026-10-08 20:22",
-  "tema": "Qué comprar por kilo y cómo clasificarlo",
-  "gancho": "Lo que nadie mira al comprar por kilo",
-  "cta": "¿Los quieres? Comenta “proveedores”",
-  "guia": "ropa",
-  "n_diapositivas": 6,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-08_2022"
- },
- {
-  "fecha": "2026-10-09 09:22",
-  "tema": "Qué vender en Black Friday (temporadas)",
-  "gancho": "3 cosas que se agotan en Black Friday",
-  "cta": "Te paso mis proveedores de todo esto · comenta “proveedores”",
-  "guia": "pack",
-  "n_diapositivas": 7,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-09_0922"
- },
- {
-  "fecha": "2026-10-09 12:21",
-  "tema": "Cómo empezar a revender con 50€ paso a paso",
-  "gancho": "con 50€ yo empezaría así",
-  "cta": "Te paso los proveedores con los que empezaría · ¿los quieres? comenta “proveedores”",
-  "guia": "pack",
-  "n_diapositivas": 6,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-09_1221"
- },
- {
-  "fecha": "2026-10-09 17:21",
-  "tema": "Señales de un proveedor estafa",
-  "gancho": "¿tu proveedor te va a estafar?",
-  "cta": "comenta “proveedor” y te paso los míos",
-  "guia": "pack",
-  "n_diapositivas": 5,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-09_1721"
- },
- {
-  "fecha": "2026-10-09 20:21",
-  "tema": "3 errores al empezar a revender",
-  "gancho": "¿cometes estos errores al revender? 😬",
-  "cta": "escribe “proveedores” y te digo cuáles uso",
-  "guia": "pack",
-  "n_diapositivas": 6,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-09_2021"
- },
- {
-  "fecha": "2026-10-10 09:20",
-  "tema": "Qué hacer en tu primera venta de Vinted (envío, packaging, stock)",
-  "gancho": "nadie te dice esto de tu primera venta 👀",
-  "cta": "comenta “proveedores” y te mando el acceso",
-  "guia": "pack",
-  "n_diapositivas": 5,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-10_0920"
- },
- {
-  "fecha": "2026-10-10 12:21",
-  "tema": "Visibilidad en Vinted: hora de subida, marca en el título, renovar, qué subir",
-  "gancho": "por esto Vinted no enseña tu ropa",
-  "cta": "te paso los míos: escribe “proveedores”",
-  "guia": "pack",
-  "n_diapositivas": 6,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-10_1221"
- },
- {
-  "fecha": "2026-10-10 17:21",
-  "tema": "Rutina diaria de un revendedor (publicar, responder, enviar)",
-  "gancho": "así es un día revendiendo en Vinted",
-  "cta": "¿quieres mis proveedores? comenta “proveedores” y te los mando",
-  "guia": "pack",
-  "n_diapositivas": 5,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-10_1721"
- },
- {
-  "fecha": "2026-10-10 20:20",
-  "tema": "Cómo poner precio a tus prendas en Vinted (comparar, margen para ofertas, bajar si no se mueve, comprar barato)",
-  "gancho": "¿pones bien el precio en Vinted? 🤔",
-  "cta": "comenta “proveedores” y te digo a quién le compro",
-  "guia": "pack",
-  "n_diapositivas": 6,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-10_2020"
- },
- {
-  "fecha": "2026-10-11 00:05",
-  "tema": "Lo que nadie te cuenta de revender (reflexión: primera semana sin ventas, subir volumen, reinvertir, proveedor)",
-  "gancho": "nadie te cuenta esto al revender",
-  "cta": "escribe “proveedores” y te los mando",
-  "guia": "pack",
-  "n_diapositivas": 7,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-11_0005"
- },
- {
-  "fecha": "2026-10-11 09:21",
-  "tema": "Cuánto se queda Vinted de cada venta (sin comisión al vendedor, envío lo paga el comprador, el margen depende del proveedor, haz la cuenta)",
-  "gancho": "¿cuánto se queda Vinted de tu venta? 🤔",
-  "cta": "¿los quieres? comenta “proveedores” y te los paso",
-  "guia": "pack",
-  "n_diapositivas": 6,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-11_0921"
- },
- {
-  "fecha": "2026-10-11 12:21",
-  "tema": "Qué vender en invierno (abrigos y plumíferos, botas y zapas de invierno, sudaderas y chándal)",
-  "gancho": "3 cosas que se venden solas en invierno ❄️",
-  "cta": "te digo a quién le compro: escribe “proveedores”",
-  "guia": "ropa",
-  "n_diapositivas": 5,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-11_1221"
- },
- {
-  "fecha": "2026-10-11 17:20",
-  "tema": "Qué hacer si una prenda no se vende en Vinted (fotos nuevas, marca y talla en el título, bajar o hacer lote, subir cosas que se vendan solas)",
-  "gancho": "¿tu ropa lleva semanas sin venderse? 😩",
-  "cta": "comenta “proveedores” y te paso los que uso",
-  "guia": "pack",
-  "n_diapositivas": 6,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-11_1720"
- },
- {
-  "fecha": "2026-10-11 20:21",
-  "tema": "Cómo evitar que Vinted te bloquee la cuenta (no subir todo de golpe, nada de números ni links por chat, producto real con fotos tuyas)",
-  "gancho": "nadie te dice esto si Vinted te bloquea 🚫",
-  "cta": "escribe “proveedores” y te digo cuáles uso",
-  "guia": "pack",
-  "n_diapositivas": 5,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-11_2021"
- },
- {
-  "fecha": "2026-10-11 23:44",
-  "tema": "Cuánto se tarda en hacer la primera venta y cómo acelerarla (reflexión: no es mala suerte, subir volumen, contestar rápido, vender lo que se busca)",
-  "gancho": "¿cuánto tardaste en tu primera venta?",
-  "cta": "te paso los proveedores que uso, en una guía: comenta “proveedores” y te la mando",
-  "guia": "pack",
-  "n_diapositivas": 6,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-11_2344"
- },
- {
-  "fecha": "2026-10-12 09:21",
-  "tema": "A cuánto vender unas zapatillas en Vinted (mirar vendidos del mismo modelo y talla, subir un poco para ofertas, el margen se gana al comprar)",
-  "gancho": "¿a cuánto vendes unas zapas en Vinted? 👟",
-  "cta": "comenta “proveedores” y te paso los de zapas",
-  "guia": "calzado",
-  "n_diapositivas": 5,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-12_0921",
-  "estado": "ERROR Metricool: account limit (no publicado)"
- },
- {
-  "fecha": "2026-10-12 17:21",
-  "tema": "Cuánto te queda de verdad de 10 ventas en Vinted (apuntar lo que pagas, sumar envío y embalaje, restarlo a lo que vendes, el margen sale del proveedor; cifras de ejemplo)",
-  "gancho": "10 ventas en Vinted: ¿cuánto te queda? 🤔",
-  "cta": "escribe “proveedor” y te paso los míos",
-  "guia": "pack",
-  "n_diapositivas": 6,
-  "redes": [
-   "tiktok"
-  ],
-  "carpeta": "salida/2026-10-12_1721"
- },
- {
-  "fecha": "2026-10-13 17:30",
-  "tema": "3 cosas que se buscan en Vinted con el frío 🧥",
-  "gancho": "3 cosas que se buscan en Vinted con el frío 🧥",
-  "carpeta": "salida/2026-10-13_1730",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-14 00:00",
-  "tema": "si empezara hoy en Vinted, haría esto",
-  "gancho": "si empezara hoy en Vinted, haría esto",
-  "carpeta": "salida/2026-10-14_0000",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-14 09:30",
-  "tema": "¿cuánto ganas vendiendo 1 prenda al día? 🤔",
-  "gancho": "¿cuánto ganas vendiendo 1 prenda al día? 🤔",
-  "carpeta": "salida/2026-10-14_0930",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-14 12:30",
-  "tema": "3 cosas que no deberías vender en Vinted 🚫",
-  "gancho": "3 cosas que no deberías vender en Vinted 🚫",
-  "carpeta": "salida/2026-10-14_1230",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-14 17:30",
-  "tema": "¿cuánto rebajas cuando te hacen una oferta? 💸",
-  "gancho": "¿cuánto rebajas cuando te hacen una oferta? 💸",
-  "carpeta": "salida/2026-10-14_1730",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-14 20:30",
-  "tema": "¿cuánto vale un abrigo usado en Vinted? 🧥",
-  "gancho": "¿cuánto vale un abrigo usado en Vinted? 🧥",
-  "carpeta": "salida/2026-10-14_2030",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-15 00:00",
-  "tema": "por qué la mayoría lo deja en la primera semana",
-  "gancho": "por qué la mayoría lo deja en la primera semana",
-  "carpeta": "salida/2026-10-15_0000",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-15 09:30",
-  "tema": "¿a qué hora vendes más en Vinted? 📱",
-  "gancho": "¿a qué hora vendes más en Vinted? 📱",
-  "carpeta": "salida/2026-10-15_0930",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-15 12:30",
-  "tema": "¿cuánto puedes ganar con tus primeros 100€? 💸",
-  "gancho": "¿cuánto puedes ganar con tus primeros 100€? 💸",
-  "carpeta": "salida/2026-10-15_1230",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-15 17:30",
-  "tema": "3 fallos en el título que hacen que no te vean",
-  "gancho": "3 fallos en el título que hacen que no te vean",
-  "carpeta": "salida/2026-10-15_1730",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-15 20:30",
-  "tema": "¿cuánto ganas revendiendo zapas? 👟",
-  "gancho": "¿cuánto ganas revendiendo zapas? 👟",
-  "carpeta": "salida/2026-10-15_2030",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-16 00:00",
-  "tema": "nadie empieza sabiendo, bro",
-  "gancho": "nadie empieza sabiendo, bro",
-  "carpeta": "salida/2026-10-16_0000",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-16 09:30",
-  "tema": "3 cosas que vas a vender en Navidad 🎄",
-  "gancho": "3 cosas que vas a vender en Navidad 🎄",
-  "carpeta": "salida/2026-10-16_0930",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-16 12:30",
-  "tema": "¿cuánto vale tu armario en Vinted? 💸",
-  "gancho": "¿cuánto vale tu armario en Vinted? 💸",
-  "carpeta": "salida/2026-10-16_1230",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-16 17:30",
-  "tema": "por qué tus favoritos no te compran 👀",
-  "gancho": "por qué tus favoritos no te compran 👀",
-  "carpeta": "salida/2026-10-16_1730",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-16 20:30",
-  "tema": "¿vendes más con lotes? 📦",
-  "gancho": "¿vendes más con lotes? 📦",
-  "carpeta": "salida/2026-10-16_2030",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-17 00:00",
-  "tema": "lo que nadie te cuenta del primer mes",
-  "gancho": "lo que nadie te cuenta del primer mes",
-  "carpeta": "salida/2026-10-17_0000",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-17 09:30",
-  "tema": "3 cosas que se agotan antes de Black Friday 🛍️",
-  "gancho": "3 cosas que se agotan antes de Black Friday 🛍️",
-  "carpeta": "salida/2026-10-17_0930",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-17 12:30",
-  "tema": "¿tu precio asusta a los compradores? 💸",
-  "gancho": "¿tu precio asusta a los compradores? 💸",
-  "carpeta": "salida/2026-10-17_1230",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-17 17:30",
-  "tema": "Vinted o Wallapop: ¿dónde vendes más? 🤔",
-  "gancho": "Vinted o Wallapop: ¿dónde vendes más? 🤔",
-  "carpeta": "salida/2026-10-17_1730",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-17 20:30",
-  "tema": "¿cuánto tiempo le dedicas a revender? 📱",
-  "gancho": "¿cuánto tiempo le dedicas a revender? 📱",
-  "carpeta": "salida/2026-10-17_2030",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-18 00:00",
-  "tema": "¿y si tu primera venta llega esta semana?",
-  "gancho": "¿y si tu primera venta llega esta semana?",
-  "carpeta": "salida/2026-10-18_0000",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-18 09:30",
-  "tema": "¿cuánto te queda de verdad de cada venta? 🧮",
-  "gancho": "¿cuánto te queda de verdad de cada venta? 🧮",
-  "carpeta": "salida/2026-10-18_0930",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-18 12:30",
-  "tema": "3 regalos de Navidad que se venden en Vinted 🎁",
-  "gancho": "3 regalos de Navidad que se venden en Vinted 🎁",
-  "carpeta": "salida/2026-10-18_1230",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-18 17:30",
-  "tema": "3 fallos por los que no te compran",
-  "gancho": "3 fallos por los que no te compran",
-  "carpeta": "salida/2026-10-18_1730",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-18 20:30",
-  "tema": "¿cuánto vale tu ropa de esquí en Vinted? ⛷️",
-  "gancho": "¿cuánto vale tu ropa de esquí en Vinted? ⛷️",
-  "carpeta": "salida/2026-10-18_2030",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-19 00:00",
-  "tema": "la diferencia entre el que vende y el que no",
-  "gancho": "la diferencia entre el que vende y el que no",
-  "carpeta": "salida/2026-10-19_0000",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-19 09:30",
-  "tema": "¿cuánto ganas si vendes 3 cosas a la semana? 🤔",
-  "gancho": "¿cuánto ganas si vendes 3 cosas a la semana? 🤔",
-  "carpeta": "salida/2026-10-19_0930",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-19 12:30",
-  "tema": "3 cosas que se venden en noviembre 🍂",
-  "gancho": "3 cosas que se venden en noviembre 🍂",
-  "carpeta": "salida/2026-10-19_1230",
-  "publicacion": "manual por Aritz (TikTok Studio)"
- },
- {
-  "fecha": "2026-10-19 20:30",
-  "tema": "riesgo de cuenta: qué no escribir en el chat",
-  "gancho": "nunca escribas esto en el chat 🚫",
-  "carpeta": "salida/2026-10-19_2030",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-20 00:00",
-  "tema": "reflexión: si empezara otra vez, no haría esto",
-  "gancho": "si empezara otra vez, no haría esto",
-  "carpeta": "salida/2026-10-20_0000",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-20 09:30",
-  "tema": "dinero de una cosa: a cuánto vender una sudadera de marca",
-  "gancho": "¿a cuánto vendes una sudadera de marca? 👕",
-  "carpeta": "salida/2026-10-20_0930",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-20 12:30",
-  "tema": "error→solución: fallos en las fotos",
-  "gancho": "tus fotos espantan a los compradores",
-  "carpeta": "salida/2026-10-20_1230",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-20 17:30",
-  "tema": "comparación: proveedor de España o de China",
-  "gancho": "¿proveedor de España o de China? 🤔",
-  "carpeta": "salida/2026-10-20_1730",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-20 20:30",
-  "tema": "riesgo de cuenta: por qué Vinted oculta tus prendas",
-  "gancho": "por qué Vinted te oculta las prendas 👀",
-  "carpeta": "salida/2026-10-20_2030",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-21 00:00",
-  "tema": "reflexión: vender poco también es avanzar",
-  "gancho": "vender poco también es avanzar, bro",
-  "carpeta": "salida/2026-10-21_0000",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-21 09:30",
-  "tema": "dinero de una cosa: camiseta de fútbol",
-  "gancho": "¿cuánto vale una camiseta de fútbol? ⚽",
-  "carpeta": "salida/2026-10-21_0930",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-21 12:30",
-  "tema": "error→solución: fallos en la descripción",
-  "gancho": "tu descripción te está quitando ventas",
-  "carpeta": "salida/2026-10-21_1230",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-21 17:30",
-  "tema": "comparación: comprar por kilo o por unidad",
-  "gancho": "¿comprar por kilo o por unidad? 🤔",
-  "carpeta": "salida/2026-10-21_1730",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-21 20:30",
-  "tema": "riesgo de cuenta: cuenta nueva, no subir todo el primer día",
-  "gancho": "¿cuenta nueva? no hagas esto 🚫",
-  "carpeta": "salida/2026-10-21_2030",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-22 00:00",
-  "tema": "reflexión: el trabajo que no se ve detrás de cada venta",
-  "gancho": "nadie ve lo que hay detrás de cada venta",
-  "carpeta": "salida/2026-10-22_0000",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-22 09:30",
-  "tema": "riesgo de cuenta: borrar y volver a subir",
-  "gancho": "¿borras y vuelves a subir tus prendas? ojo",
-  "carpeta": "salida/2026-10-22_0930",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-22 12:30",
-  "tema": "dinero de una cosa: bolso usado",
-  "gancho": "¿a cuánto vendes un bolso en Vinted? 👜",
-  "carpeta": "salida/2026-10-22_1230",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-22 17:30",
-  "tema": "error→solución: te ven pero no te escriben",
-  "gancho": "te ven pero nadie te escribe 😩",
-  "carpeta": "salida/2026-10-22_1730",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-22 20:30",
-  "tema": "comparación: vender barato y rápido o caro y despacio",
-  "gancho": "¿vender barato y rápido o caro y despacio?",
-  "carpeta": "salida/2026-10-22_2030",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-23 00:00",
-  "tema": "reflexión: una sola cosa al día",
-  "gancho": "si solo hicieras 1 cosa al día en Vinted",
-  "carpeta": "salida/2026-10-23_0000",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-23 09:30",
-  "tema": "riesgo de cuenta: lo que hace que Vinted desconfíe",
-  "gancho": "esto hace que Vinted desconfíe de ti 🚫",
-  "carpeta": "salida/2026-10-23_0930",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-23 12:30",
-  "tema": "dinero de una cosa: vaqueros de marca",
-  "gancho": "¿a cuánto vendes unos vaqueros de marca? 👖",
-  "carpeta": "salida/2026-10-23_1230",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-23 17:30",
-  "tema": "error→solución: devoluciones",
-  "gancho": "por esto te devuelven los pedidos 📦",
-  "carpeta": "salida/2026-10-23_1730",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-23 20:30",
-  "tema": "comparación: marca conocida o ropa sin marca",
-  "gancho": "¿ropa de marca o sin marca? 🤔",
-  "carpeta": "salida/2026-10-23_2030",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-24 00:00",
-  "tema": "reflexión: pensar en dejarlo",
-  "gancho": "¿cuántas veces has pensado en dejarlo?",
-  "carpeta": "salida/2026-10-24_0000",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-24 09:30",
-  "tema": "truco: que tu prenda salga más en Vinted",
-  "gancho": "3 trucos para que tu prenda salga más 🔎",
-  "carpeta": "salida/2026-10-24_0930",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-24 12:30",
-  "tema": "riesgo de cuenta: compradores que quieren pagar fuera",
-  "gancho": "¿te piden pagar fuera de Vinted? 🚫",
-  "carpeta": "salida/2026-10-24_1230",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-24 17:30",
-  "tema": "error→solución: preparar la ropa antes de subirla",
-  "gancho": "antes de subir la ropa, mira esto 👕",
-  "carpeta": "salida/2026-10-24_1730",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-24 20:30",
-  "tema": "comparación: Vinted o tienda online propia",
-  "gancho": "¿Vinted o tu propia tienda online? 🤔",
-  "carpeta": "salida/2026-10-24_2030",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-25 00:00",
-  "tema": "reflexión: lo que haces el domingo decide la semana",
-  "gancho": "lo que haces el domingo decide tu semana",
-  "carpeta": "salida/2026-10-25_0000",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-25 09:30",
-  "tema": "dinero de una cosa: gorra de marca",
-  "gancho": "una gorra de marca: ¿a cuánto la vendes? 🧢",
-  "carpeta": "salida/2026-10-25_0930",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-25 12:30",
-  "tema": "riesgo de cuenta: fotos de internet",
-  "gancho": "¿subes fotos sacadas de internet? ojo 🚫",
-  "carpeta": "salida/2026-10-25_1230",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-25 17:30",
-  "tema": "error→solución: visitas pero no favoritos",
-  "gancho": "muchas visitas y 0 favoritos 😩",
-  "carpeta": "salida/2026-10-25_1730",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-25 20:30",
-  "tema": "comparación: proveedor o tiendas de segunda mano",
-  "gancho": "¿proveedor o tiendas de segunda mano? 🤔",
-  "carpeta": "salida/2026-10-25_2030",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-26 00:00",
-  "tema": "reflexión: empezar la semana con 3 cosas",
-  "gancho": "nueva semana: haz esto antes del martes",
-  "carpeta": "salida/2026-10-26_0000",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-26 09:30",
-  "tema": "riesgo de cuenta: errores con los envíos",
-  "gancho": "errores de envío que salen caros 📦",
-  "carpeta": "salida/2026-10-26_0930",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-26 12:30",
-  "tema": "Black Friday: subir o bajar precios",
-  "gancho": "Black Friday: ¿subes o bajas precios? 🛒",
-  "carpeta": "salida/2026-10-26_1230",
-  "publicacion": "Metricool (programado 19 oct)"
- },
- {
-  "fecha": "2026-10-27 20:40",
-  "tema": "lista negativa: prendas que no se venden",
-  "gancho": "3 prendas que nadie te va a comprar 🚫",
-  "carpeta": "salida/2026-10-27_2030",
-  "audio": "con energía (tendencia, sin letra que tape)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-27 23:36",
-  "tema": "reflexión: días sin ventas",
-  "gancho": "si hoy no has vendido nada, lee esto",
-  "carpeta": "salida/2026-10-27_2330",
-  "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-28 09:46",
-  "tema": "riesgo de cuenta: limitaciones",
-  "gancho": "por esto Vinted te limita la cuenta 🚫",
-  "carpeta": "salida/2026-10-28_0930",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-28 12:47",
-  "tema": "error→solución: te regatean",
-  "gancho": "¿por qué te regatean tanto? 😩",
-  "carpeta": "salida/2026-10-28_1230",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-28 17:20",
-  "tema": "error→solución: te escriben y no compran",
-  "gancho": "te escriben pero no te compran 😩",
-  "carpeta": "salida/2026-10-28_1730",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-28 20:53",
-  "tema": "lista negativa: espantar compradores",
-  "gancho": "3 cosas que espantan a los compradores",
-  "carpeta": "salida/2026-10-28_2030",
-  "audio": "con energía (tendencia, sin letra que tape)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-28 23:46",
-  "tema": "reflexión: 10 minutos al día",
-  "gancho": "si solo tuvieras 10 min al día para Vinted",
-  "carpeta": "salida/2026-10-28_2330",
-  "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-29 09:33",
-  "tema": "señales de proveedor estafa",
-  "gancho": "señales de que tu proveedor te estafa 🚩",
-  "carpeta": "salida/2026-10-29_0930",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-29 12:37",
-  "tema": "riesgo de cuenta: artículos prohibidos",
-  "gancho": "3 cosas que Vinted no te deja vender 🚫",
-  "carpeta": "salida/2026-10-29_1230",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-29 17:22",
-  "tema": "error→solución: valoraciones",
-  "gancho": "por esto no te ponen 5 estrellas ⭐",
-  "carpeta": "salida/2026-10-29_1730",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-29 20:34",
-  "tema": "lista: nichos que se venden",
-  "gancho": "3 nichos que se venden solos en Vinted",
-  "carpeta": "salida/2026-10-29_2030",
-  "audio": "con energía (tendencia, sin letra que tape)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-29 23:35",
-  "tema": "confesión: perdía dinero",
-  "gancho": "cuando empecé, perdía dinero así",
-  "carpeta": "salida/2026-10-29_2330",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-30 09:51",
-  "tema": "cálculo: 1 venta al día",
-  "gancho": "1 venta al día: ¿cuánto es al mes? 🧮",
-  "carpeta": "salida/2026-10-30_0930",
-  "audio": "instrumental con ritmo",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-30 12:45",
-  "tema": "qué comprar por kilo",
-  "gancho": "qué comprar por kilo para revender ⚖️",
-  "carpeta": "salida/2026-10-30_1230",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-30 17:42",
-  "tema": "error→solución: ofertas a la mitad",
-  "gancho": "te ofrecen la mitad: ¿qué contestas? 💸",
-  "carpeta": "salida/2026-10-30_1730",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-30 20:45",
-  "tema": "lista negativa: perder dinero",
-  "gancho": "3 errores que te hacen perder dinero 💸",
-  "carpeta": "salida/2026-10-30_2030",
-  "audio": "con energía (tendencia, sin letra que tape)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-30 23:18",
-  "tema": "reflexión: hábitos de los que venden",
-  "gancho": "lo que hacen los que venden cada día",
-  "carpeta": "salida/2026-10-30_2330",
-  "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-31 09:37",
-  "tema": "cuenta nueva paso a paso",
-  "gancho": "abre tu cuenta de Vinted así 📱",
-  "carpeta": "salida/2026-10-31_0930",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-31 12:48",
-  "tema": "lista: frases para vender",
-  "gancho": "3 frases que hacen que te compren 💬",
-  "carpeta": "salida/2026-10-31_1230",
-  "audio": "con energía (tendencia, sin letra que tape)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-31 17:23",
-  "tema": "error→solución: la primera foto",
-  "gancho": "la 1ª foto decide si te compran 📸",
-  "carpeta": "salida/2026-10-31_1730",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-31 20:44",
-  "tema": "error→solución: stock acumulado",
-  "gancho": "por esto se te acumula el stock 📦",
-  "carpeta": "salida/2026-10-31_2030",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-10-31 23:19",
-  "tema": "reflexión: subir 1 prenda hoy",
-  "gancho": "1 prenda hoy = 1 venta la semana que viene",
-  "carpeta": "salida/2026-10-31_2330",
-  "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-11-01 09:49",
-  "tema": "dinero en Vinted: cuánto te llega",
-  "gancho": "vendes a 20€ en Vinted: ¿cuánto te llega? 🤔",
-  "carpeta": "salida/2026-11-01_0930",
-  "audio": "instrumental con ritmo",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-11-01 12:45",
-  "tema": "comparación: Vinted o Wallapop",
-  "gancho": "¿Vinted o Wallapop para cada cosa? 🤔",
-  "carpeta": "salida/2026-11-01_1230",
-  "audio": "con energía",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-11-01 17:41",
-  "tema": "error→solución: el título",
-  "gancho": "así tiene que ser tu título en Vinted ✍️",
-  "carpeta": "salida/2026-11-01_1730",
-  "audio": "instrumental con ritmo (tendencia)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-11-01 20:31",
-  "tema": "lista: antes de comprar stock",
-  "gancho": "3 cosas que miro antes de comprar stock 🔍",
-  "carpeta": "salida/2026-11-01_2030",
-  "audio": "con energía (tendencia, sin letra que tape)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- },
- {
-  "fecha": "2026-11-01 23:39",
-  "tema": "reflexión: empezar noviembre",
-  "gancho": "noviembre empieza hoy: haz esto",
-  "carpeta": "salida/2026-11-01_2330",
-  "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)",
-  "redes": "tiktok+instagram",
-  "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
- }
+  {
+    "fecha": "2026-10-07 21:43",
+    "tema": "Cómo saber si un proveedor es fiable",
+    "gancho": "Cómo saber si un proveedor es fiable antes de pagarle",
+    "carpeta": "salida/2026-10-07_2143"
+  },
+  {
+    "fecha": "2026-10-07 23:46",
+    "tema": "Cómo calcular el margen antes de comprar",
+    "gancho": "¿Sabes cuánto ganas de verdad con cada venta?",
+    "cta": "Escribe “proveedores” y te los mando",
+    "n_diapositivas": 5,
+    "carpeta": "salida/2026-10-07_2346"
+  },
+  {
+    "fecha": "2026-10-08 02:46",
+    "tema": "Cómo calentar una cuenta de Vinted nueva para evitar bloqueos",
+    "gancho": "Nadie te dice esto cuando abres una cuenta nueva",
+    "cta": "¿Los quieres? Comenta “proveedores”",
+    "n_diapositivas": 6,
+    "carpeta": "salida/2026-10-08_0246"
+  },
+  {
+    "fecha": "2026-10-08 05:45",
+    "tema": "Top 3 nichos para vender en Vinted ahora (otoño)",
+    "gancho": "3 cosas que tienes que vender en Vinted este otoño",
+    "cta": "Comenta “proveedores” y te digo cuáles uso",
+    "n_diapositivas": 5,
+    "carpeta": "salida/2026-10-08_0545"
+  },
+  {
+    "fecha": "2026-10-08 08:46",
+    "tema": "Cómo hacer fotos que venden",
+    "gancho": "Si tus fotos no venden, haz esto",
+    "cta": "Te dejo mis proveedores: comenta “proveedores”",
+    "n_diapositivas": 7,
+    "carpeta": "salida/2026-10-08_0846"
+  },
+  {
+    "fecha": "2026-10-08 11:48",
+    "tema": "Cómo responder ofertas en Vinted sin perder dinero",
+    "gancho": "Cuando empecé, aceptaba todas las ofertas de Vinted",
+    "cta": "Comenta “proveedores” y te paso el link",
+    "n_diapositivas": 6,
+    "carpeta": "salida/2026-10-08_1148"
+  },
+  {
+    "fecha": "2026-10-08 14:46",
+    "tema": "Packaging barato que da buena impresión",
+    "gancho": "¿Tus paquetes parecen baratos?",
+    "cta": "Te dejo mis proveedores: comenta “proveedores”",
+    "n_diapositivas": 4,
+    "carpeta": "salida/2026-10-08_1446"
+  },
+  {
+    "fecha": "2026-10-08 17:21",
+    "tema": "Proveedores europeos vs chinos",
+    "gancho": "¿Proveedor chino o europeo?",
+    "cta": "Escribe “proveedores” y te los mando",
+    "guia": "pack",
+    "n_diapositivas": 7,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-08_1721"
+  },
+  {
+    "fecha": "2026-10-08 20:22",
+    "tema": "Qué comprar por kilo y cómo clasificarlo",
+    "gancho": "Lo que nadie mira al comprar por kilo",
+    "cta": "¿Los quieres? Comenta “proveedores”",
+    "guia": "ropa",
+    "n_diapositivas": 6,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-08_2022"
+  },
+  {
+    "fecha": "2026-10-09 09:22",
+    "tema": "Qué vender en Black Friday (temporadas)",
+    "gancho": "3 cosas que se agotan en Black Friday",
+    "cta": "Te paso mis proveedores de todo esto · comenta “proveedores”",
+    "guia": "pack",
+    "n_diapositivas": 7,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-09_0922"
+  },
+  {
+    "fecha": "2026-10-09 12:21",
+    "tema": "Cómo empezar a revender con 50€ paso a paso",
+    "gancho": "con 50€ yo empezaría así",
+    "cta": "Te paso los proveedores con los que empezaría · ¿los quieres? comenta “proveedores”",
+    "guia": "pack",
+    "n_diapositivas": 6,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-09_1221"
+  },
+  {
+    "fecha": "2026-10-09 17:21",
+    "tema": "Señales de un proveedor estafa",
+    "gancho": "¿tu proveedor te va a estafar?",
+    "cta": "comenta “proveedor” y te paso los míos",
+    "guia": "pack",
+    "n_diapositivas": 5,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-09_1721"
+  },
+  {
+    "fecha": "2026-10-09 20:21",
+    "tema": "3 errores al empezar a revender",
+    "gancho": "¿cometes estos errores al revender? 😬",
+    "cta": "escribe “proveedores” y te digo cuáles uso",
+    "guia": "pack",
+    "n_diapositivas": 6,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-09_2021"
+  },
+  {
+    "fecha": "2026-10-10 09:20",
+    "tema": "Qué hacer en tu primera venta de Vinted (envío, packaging, stock)",
+    "gancho": "nadie te dice esto de tu primera venta 👀",
+    "cta": "comenta “proveedores” y te mando el acceso",
+    "guia": "pack",
+    "n_diapositivas": 5,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-10_0920"
+  },
+  {
+    "fecha": "2026-10-10 12:21",
+    "tema": "Visibilidad en Vinted: hora de subida, marca en el título, renovar, qué subir",
+    "gancho": "por esto Vinted no enseña tu ropa",
+    "cta": "te paso los míos: escribe “proveedores”",
+    "guia": "pack",
+    "n_diapositivas": 6,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-10_1221"
+  },
+  {
+    "fecha": "2026-10-10 17:21",
+    "tema": "Rutina diaria de un revendedor (publicar, responder, enviar)",
+    "gancho": "así es un día revendiendo en Vinted",
+    "cta": "¿quieres mis proveedores? comenta “proveedores” y te los mando",
+    "guia": "pack",
+    "n_diapositivas": 5,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-10_1721"
+  },
+  {
+    "fecha": "2026-10-10 20:20",
+    "tema": "Cómo poner precio a tus prendas en Vinted (comparar, margen para ofertas, bajar si no se mueve, comprar barato)",
+    "gancho": "¿pones bien el precio en Vinted? 🤔",
+    "cta": "comenta “proveedores” y te digo a quién le compro",
+    "guia": "pack",
+    "n_diapositivas": 6,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-10_2020"
+  },
+  {
+    "fecha": "2026-10-11 00:05",
+    "tema": "Lo que nadie te cuenta de revender (reflexión: primera semana sin ventas, subir volumen, reinvertir, proveedor)",
+    "gancho": "nadie te cuenta esto al revender",
+    "cta": "escribe “proveedores” y te los mando",
+    "guia": "pack",
+    "n_diapositivas": 7,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-11_0005"
+  },
+  {
+    "fecha": "2026-10-11 09:21",
+    "tema": "Cuánto se queda Vinted de cada venta (sin comisión al vendedor, envío lo paga el comprador, el margen depende del proveedor, haz la cuenta)",
+    "gancho": "¿cuánto se queda Vinted de tu venta? 🤔",
+    "cta": "¿los quieres? comenta “proveedores” y te los paso",
+    "guia": "pack",
+    "n_diapositivas": 6,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-11_0921"
+  },
+  {
+    "fecha": "2026-10-11 12:21",
+    "tema": "Qué vender en invierno (abrigos y plumíferos, botas y zapas de invierno, sudaderas y chándal)",
+    "gancho": "3 cosas que se venden solas en invierno ❄️",
+    "cta": "te digo a quién le compro: escribe “proveedores”",
+    "guia": "ropa",
+    "n_diapositivas": 5,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-11_1221"
+  },
+  {
+    "fecha": "2026-10-11 17:20",
+    "tema": "Qué hacer si una prenda no se vende en Vinted (fotos nuevas, marca y talla en el título, bajar o hacer lote, subir cosas que se vendan solas)",
+    "gancho": "¿tu ropa lleva semanas sin venderse? 😩",
+    "cta": "comenta “proveedores” y te paso los que uso",
+    "guia": "pack",
+    "n_diapositivas": 6,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-11_1720"
+  },
+  {
+    "fecha": "2026-10-11 20:21",
+    "tema": "Cómo evitar que Vinted te bloquee la cuenta (no subir todo de golpe, nada de números ni links por chat, producto real con fotos tuyas)",
+    "gancho": "nadie te dice esto si Vinted te bloquea 🚫",
+    "cta": "escribe “proveedores” y te digo cuáles uso",
+    "guia": "pack",
+    "n_diapositivas": 5,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-11_2021"
+  },
+  {
+    "fecha": "2026-10-11 23:44",
+    "tema": "Cuánto se tarda en hacer la primera venta y cómo acelerarla (reflexión: no es mala suerte, subir volumen, contestar rápido, vender lo que se busca)",
+    "gancho": "¿cuánto tardaste en tu primera venta?",
+    "cta": "te paso los proveedores que uso, en una guía: comenta “proveedores” y te la mando",
+    "guia": "pack",
+    "n_diapositivas": 6,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-11_2344"
+  },
+  {
+    "fecha": "2026-10-12 09:21",
+    "tema": "A cuánto vender unas zapatillas en Vinted (mirar vendidos del mismo modelo y talla, subir un poco para ofertas, el margen se gana al comprar)",
+    "gancho": "¿a cuánto vendes unas zapas en Vinted? 👟",
+    "cta": "comenta “proveedores” y te paso los de zapas",
+    "guia": "calzado",
+    "n_diapositivas": 5,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-12_0921",
+    "estado": "ERROR Metricool: account limit (no publicado)"
+  },
+  {
+    "fecha": "2026-10-12 17:21",
+    "tema": "Cuánto te queda de verdad de 10 ventas en Vinted (apuntar lo que pagas, sumar envío y embalaje, restarlo a lo que vendes, el margen sale del proveedor; cifras de ejemplo)",
+    "gancho": "10 ventas en Vinted: ¿cuánto te queda? 🤔",
+    "cta": "escribe “proveedor” y te paso los míos",
+    "guia": "pack",
+    "n_diapositivas": 6,
+    "redes": [
+      "tiktok"
+    ],
+    "carpeta": "salida/2026-10-12_1721"
+  },
+  {
+    "fecha": "2026-10-13 17:30",
+    "tema": "3 cosas que se buscan en Vinted con el frío 🧥",
+    "gancho": "3 cosas que se buscan en Vinted con el frío 🧥",
+    "carpeta": "salida/2026-10-13_1730",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-14 00:00",
+    "tema": "si empezara hoy en Vinted, haría esto",
+    "gancho": "si empezara hoy en Vinted, haría esto",
+    "carpeta": "salida/2026-10-14_0000",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-14 09:30",
+    "tema": "¿cuánto ganas vendiendo 1 prenda al día? 🤔",
+    "gancho": "¿cuánto ganas vendiendo 1 prenda al día? 🤔",
+    "carpeta": "salida/2026-10-14_0930",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-14 12:30",
+    "tema": "3 cosas que no deberías vender en Vinted 🚫",
+    "gancho": "3 cosas que no deberías vender en Vinted 🚫",
+    "carpeta": "salida/2026-10-14_1230",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-14 17:30",
+    "tema": "¿cuánto rebajas cuando te hacen una oferta? 💸",
+    "gancho": "¿cuánto rebajas cuando te hacen una oferta? 💸",
+    "carpeta": "salida/2026-10-14_1730",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-14 20:30",
+    "tema": "¿cuánto vale un abrigo usado en Vinted? 🧥",
+    "gancho": "¿cuánto vale un abrigo usado en Vinted? 🧥",
+    "carpeta": "salida/2026-10-14_2030",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-15 00:00",
+    "tema": "por qué la mayoría lo deja en la primera semana",
+    "gancho": "por qué la mayoría lo deja en la primera semana",
+    "carpeta": "salida/2026-10-15_0000",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-15 09:30",
+    "tema": "¿a qué hora vendes más en Vinted? 📱",
+    "gancho": "¿a qué hora vendes más en Vinted? 📱",
+    "carpeta": "salida/2026-10-15_0930",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-15 12:30",
+    "tema": "¿cuánto puedes ganar con tus primeros 100€? 💸",
+    "gancho": "¿cuánto puedes ganar con tus primeros 100€? 💸",
+    "carpeta": "salida/2026-10-15_1230",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-15 17:30",
+    "tema": "3 fallos en el título que hacen que no te vean",
+    "gancho": "3 fallos en el título que hacen que no te vean",
+    "carpeta": "salida/2026-10-15_1730",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-15 20:30",
+    "tema": "¿cuánto ganas revendiendo zapas? 👟",
+    "gancho": "¿cuánto ganas revendiendo zapas? 👟",
+    "carpeta": "salida/2026-10-15_2030",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-16 00:00",
+    "tema": "nadie empieza sabiendo, bro",
+    "gancho": "nadie empieza sabiendo, bro",
+    "carpeta": "salida/2026-10-16_0000",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-16 09:30",
+    "tema": "3 cosas que vas a vender en Navidad 🎄",
+    "gancho": "3 cosas que vas a vender en Navidad 🎄",
+    "carpeta": "salida/2026-10-16_0930",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-16 12:30",
+    "tema": "¿cuánto vale tu armario en Vinted? 💸",
+    "gancho": "¿cuánto vale tu armario en Vinted? 💸",
+    "carpeta": "salida/2026-10-16_1230",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-16 17:30",
+    "tema": "por qué tus favoritos no te compran 👀",
+    "gancho": "por qué tus favoritos no te compran 👀",
+    "carpeta": "salida/2026-10-16_1730",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-16 20:30",
+    "tema": "¿vendes más con lotes? 📦",
+    "gancho": "¿vendes más con lotes? 📦",
+    "carpeta": "salida/2026-10-16_2030",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-17 00:00",
+    "tema": "lo que nadie te cuenta del primer mes",
+    "gancho": "lo que nadie te cuenta del primer mes",
+    "carpeta": "salida/2026-10-17_0000",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-17 09:30",
+    "tema": "3 cosas que se agotan antes de Black Friday 🛍️",
+    "gancho": "3 cosas que se agotan antes de Black Friday 🛍️",
+    "carpeta": "salida/2026-10-17_0930",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-17 12:30",
+    "tema": "¿tu precio asusta a los compradores? 💸",
+    "gancho": "¿tu precio asusta a los compradores? 💸",
+    "carpeta": "salida/2026-10-17_1230",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-17 17:30",
+    "tema": "Vinted o Wallapop: ¿dónde vendes más? 🤔",
+    "gancho": "Vinted o Wallapop: ¿dónde vendes más? 🤔",
+    "carpeta": "salida/2026-10-17_1730",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-17 20:30",
+    "tema": "¿cuánto tiempo le dedicas a revender? 📱",
+    "gancho": "¿cuánto tiempo le dedicas a revender? 📱",
+    "carpeta": "salida/2026-10-17_2030",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-18 00:00",
+    "tema": "¿y si tu primera venta llega esta semana?",
+    "gancho": "¿y si tu primera venta llega esta semana?",
+    "carpeta": "salida/2026-10-18_0000",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-18 09:30",
+    "tema": "¿cuánto te queda de verdad de cada venta? 🧮",
+    "gancho": "¿cuánto te queda de verdad de cada venta? 🧮",
+    "carpeta": "salida/2026-10-18_0930",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-18 12:30",
+    "tema": "3 regalos de Navidad que se venden en Vinted 🎁",
+    "gancho": "3 regalos de Navidad que se venden en Vinted 🎁",
+    "carpeta": "salida/2026-10-18_1230",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-18 17:30",
+    "tema": "3 fallos por los que no te compran",
+    "gancho": "3 fallos por los que no te compran",
+    "carpeta": "salida/2026-10-18_1730",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-18 20:30",
+    "tema": "¿cuánto vale tu ropa de esquí en Vinted? ⛷️",
+    "gancho": "¿cuánto vale tu ropa de esquí en Vinted? ⛷️",
+    "carpeta": "salida/2026-10-18_2030",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-19 00:00",
+    "tema": "la diferencia entre el que vende y el que no",
+    "gancho": "la diferencia entre el que vende y el que no",
+    "carpeta": "salida/2026-10-19_0000",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-19 09:30",
+    "tema": "¿cuánto ganas si vendes 3 cosas a la semana? 🤔",
+    "gancho": "¿cuánto ganas si vendes 3 cosas a la semana? 🤔",
+    "carpeta": "salida/2026-10-19_0930",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-19 12:30",
+    "tema": "3 cosas que se venden en noviembre 🍂",
+    "gancho": "3 cosas que se venden en noviembre 🍂",
+    "carpeta": "salida/2026-10-19_1230",
+    "publicacion": "manual por Aritz (TikTok Studio)"
+  },
+  {
+    "fecha": "2026-10-19 20:30",
+    "tema": "riesgo de cuenta: qué no escribir en el chat",
+    "gancho": "nunca escribas esto en el chat 🚫",
+    "carpeta": "salida/2026-10-19_2030",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-20 00:00",
+    "tema": "reflexión: si empezara otra vez, no haría esto",
+    "gancho": "si empezara otra vez, no haría esto",
+    "carpeta": "salida/2026-10-20_0000",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-20 09:30",
+    "tema": "dinero de una cosa: a cuánto vender una sudadera de marca",
+    "gancho": "¿a cuánto vendes una sudadera de marca? 👕",
+    "carpeta": "salida/2026-10-20_0930",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-20 12:30",
+    "tema": "error→solución: fallos en las fotos",
+    "gancho": "tus fotos espantan a los compradores",
+    "carpeta": "salida/2026-10-20_1230",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-20 17:30",
+    "tema": "comparación: proveedor de España o de China",
+    "gancho": "¿proveedor de España o de China? 🤔",
+    "carpeta": "salida/2026-10-20_1730",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-20 20:30",
+    "tema": "riesgo de cuenta: por qué Vinted oculta tus prendas",
+    "gancho": "por qué Vinted te oculta las prendas 👀",
+    "carpeta": "salida/2026-10-20_2030",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-21 00:00",
+    "tema": "reflexión: vender poco también es avanzar",
+    "gancho": "vender poco también es avanzar, bro",
+    "carpeta": "salida/2026-10-21_0000",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-21 09:30",
+    "tema": "dinero de una cosa: camiseta de fútbol",
+    "gancho": "¿cuánto vale una camiseta de fútbol? ⚽",
+    "carpeta": "salida/2026-10-21_0930",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-21 12:30",
+    "tema": "error→solución: fallos en la descripción",
+    "gancho": "tu descripción te está quitando ventas",
+    "carpeta": "salida/2026-10-21_1230",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-21 17:30",
+    "tema": "comparación: comprar por kilo o por unidad",
+    "gancho": "¿comprar por kilo o por unidad? 🤔",
+    "carpeta": "salida/2026-10-21_1730",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-21 20:30",
+    "tema": "riesgo de cuenta: cuenta nueva, no subir todo el primer día",
+    "gancho": "¿cuenta nueva? no hagas esto 🚫",
+    "carpeta": "salida/2026-10-21_2030",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-22 00:00",
+    "tema": "reflexión: el trabajo que no se ve detrás de cada venta",
+    "gancho": "nadie ve lo que hay detrás de cada venta",
+    "carpeta": "salida/2026-10-22_0000",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-22 09:30",
+    "tema": "riesgo de cuenta: borrar y volver a subir",
+    "gancho": "¿borras y vuelves a subir tus prendas? ojo",
+    "carpeta": "salida/2026-10-22_0930",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-22 12:30",
+    "tema": "dinero de una cosa: bolso usado",
+    "gancho": "¿a cuánto vendes un bolso en Vinted? 👜",
+    "carpeta": "salida/2026-10-22_1230",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-22 17:30",
+    "tema": "error→solución: te ven pero no te escriben",
+    "gancho": "te ven pero nadie te escribe 😩",
+    "carpeta": "salida/2026-10-22_1730",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-22 20:30",
+    "tema": "comparación: vender barato y rápido o caro y despacio",
+    "gancho": "¿vender barato y rápido o caro y despacio?",
+    "carpeta": "salida/2026-10-22_2030",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-23 00:00",
+    "tema": "reflexión: una sola cosa al día",
+    "gancho": "si solo hicieras 1 cosa al día en Vinted",
+    "carpeta": "salida/2026-10-23_0000",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-23 09:30",
+    "tema": "riesgo de cuenta: lo que hace que Vinted desconfíe",
+    "gancho": "esto hace que Vinted desconfíe de ti 🚫",
+    "carpeta": "salida/2026-10-23_0930",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-23 12:30",
+    "tema": "dinero de una cosa: vaqueros de marca",
+    "gancho": "¿a cuánto vendes unos vaqueros de marca? 👖",
+    "carpeta": "salida/2026-10-23_1230",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-23 17:30",
+    "tema": "error→solución: devoluciones",
+    "gancho": "por esto te devuelven los pedidos 📦",
+    "carpeta": "salida/2026-10-23_1730",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-23 20:30",
+    "tema": "comparación: marca conocida o ropa sin marca",
+    "gancho": "¿ropa de marca o sin marca? 🤔",
+    "carpeta": "salida/2026-10-23_2030",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-24 00:00",
+    "tema": "reflexión: pensar en dejarlo",
+    "gancho": "¿cuántas veces has pensado en dejarlo?",
+    "carpeta": "salida/2026-10-24_0000",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-24 09:30",
+    "tema": "truco: que tu prenda salga más en Vinted",
+    "gancho": "3 trucos para que tu prenda salga más 🔎",
+    "carpeta": "salida/2026-10-24_0930",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-24 12:30",
+    "tema": "riesgo de cuenta: compradores que quieren pagar fuera",
+    "gancho": "¿te piden pagar fuera de Vinted? 🚫",
+    "carpeta": "salida/2026-10-24_1230",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-24 17:30",
+    "tema": "error→solución: preparar la ropa antes de subirla",
+    "gancho": "antes de subir la ropa, mira esto 👕",
+    "carpeta": "salida/2026-10-24_1730",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-24 20:30",
+    "tema": "comparación: Vinted o tienda online propia",
+    "gancho": "¿Vinted o tu propia tienda online? 🤔",
+    "carpeta": "salida/2026-10-24_2030",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-25 00:00",
+    "tema": "reflexión: lo que haces el domingo decide la semana",
+    "gancho": "lo que haces el domingo decide tu semana",
+    "carpeta": "salida/2026-10-25_0000",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-25 09:30",
+    "tema": "dinero de una cosa: gorra de marca",
+    "gancho": "una gorra de marca: ¿a cuánto la vendes? 🧢",
+    "carpeta": "salida/2026-10-25_0930",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-25 12:30",
+    "tema": "riesgo de cuenta: fotos de internet",
+    "gancho": "¿subes fotos sacadas de internet? ojo 🚫",
+    "carpeta": "salida/2026-10-25_1230",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-25 17:30",
+    "tema": "error→solución: visitas pero no favoritos",
+    "gancho": "muchas visitas y 0 favoritos 😩",
+    "carpeta": "salida/2026-10-25_1730",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-25 20:30",
+    "tema": "comparación: proveedor o tiendas de segunda mano",
+    "gancho": "¿proveedor o tiendas de segunda mano? 🤔",
+    "carpeta": "salida/2026-10-25_2030",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-26 00:00",
+    "tema": "reflexión: empezar la semana con 3 cosas",
+    "gancho": "nueva semana: haz esto antes del martes",
+    "carpeta": "salida/2026-10-26_0000",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-26 09:30",
+    "tema": "riesgo de cuenta: errores con los envíos",
+    "gancho": "errores de envío que salen caros 📦",
+    "carpeta": "salida/2026-10-26_0930",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-26 12:30",
+    "tema": "Black Friday: subir o bajar precios",
+    "gancho": "Black Friday: ¿subes o bajas precios? 🛒",
+    "carpeta": "salida/2026-10-26_1230",
+    "publicacion": "Metricool (programado 19 oct)"
+  },
+  {
+    "fecha": "2026-10-27 20:40",
+    "tema": "lista negativa: prendas que no se venden",
+    "gancho": "3 prendas que nadie te va a comprar 🚫",
+    "carpeta": "salida/2026-10-27_2030",
+    "audio": "con energía (tendencia, sin letra que tape)",
+    "redes": "tiktok+instagram",
+    "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
+  },
+  {
+    "fecha": "2026-10-27 23:36",
+    "tema": "reflexión: días sin ventas",
+    "gancho": "si hoy no has vendido nada, lee esto",
+    "carpeta": "salida/2026-10-27_2330",
+    "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)",
+    "redes": "tiktok+instagram",
+    "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
+  },
+  {
+    "fecha": "2026-10-28 09:46",
+    "tema": "riesgo de cuenta: limitaciones",
+    "gancho": "por esto Vinted te limita la cuenta 🚫",
+    "carpeta": "salida/2026-10-28_0930",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
+  },
+  {
+    "fecha": "2026-10-28 12:47",
+    "tema": "error→solución: te regatean",
+    "gancho": "¿por qué te regatean tanto? 😩",
+    "carpeta": "salida/2026-10-28_1230",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
+  },
+  {
+    "fecha": "2026-10-28 17:20",
+    "tema": "error→solución: te escriben y no compran",
+    "gancho": "te escriben pero no te compran 😩",
+    "carpeta": "salida/2026-10-28_1730",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
+  },
+  {
+    "fecha": "2026-10-28 20:53",
+    "tema": "lista negativa: espantar compradores",
+    "gancho": "3 cosas que espantan a los compradores",
+    "carpeta": "salida/2026-10-28_2030",
+    "audio": "con energía (tendencia, sin letra que tape)",
+    "redes": "tiktok+instagram",
+    "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
+  },
+  {
+    "fecha": "2026-10-28 23:46",
+    "tema": "reflexión: 10 minutos al día",
+    "gancho": "si solo tuvieras 10 min al día para Vinted",
+    "carpeta": "salida/2026-10-28_2330",
+    "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)",
+    "redes": "tiktok+instagram",
+    "publicacion": "pendiente de programar (TikTok Studio / Meta Business Suite)"
+  },
+  {
+    "fecha": "2026-10-29 09:33",
+    "tema": "señales de proveedor estafa",
+    "gancho": "señales de que tu proveedor te estafa 🚩",
+    "carpeta": "salida/2026-10-29_0930",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-29 12:37",
+    "tema": "riesgo de cuenta: artículos prohibidos",
+    "gancho": "3 cosas que Vinted no te deja vender 🚫",
+    "carpeta": "salida/2026-10-29_1230",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-29 17:22",
+    "tema": "error→solución: valoraciones",
+    "gancho": "por esto no te ponen 5 estrellas ⭐",
+    "carpeta": "salida/2026-10-29_1730",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-29 20:34",
+    "tema": "lista: nichos que se venden",
+    "gancho": "3 nichos que se venden solos en Vinted",
+    "carpeta": "salida/2026-10-29_2030",
+    "audio": "con energía (tendencia, sin letra que tape)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-29 23:35",
+    "tema": "confesión: perdía dinero",
+    "gancho": "cuando empecé, perdía dinero así",
+    "carpeta": "salida/2026-10-29_2330",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-30 09:51",
+    "tema": "cálculo: 1 venta al día",
+    "gancho": "1 venta al día: ¿cuánto es al mes? 🧮",
+    "carpeta": "salida/2026-10-30_0930",
+    "audio": "instrumental con ritmo",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-30 12:45",
+    "tema": "qué comprar por kilo",
+    "gancho": "qué comprar por kilo para revender ⚖️",
+    "carpeta": "salida/2026-10-30_1230",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-30 17:42",
+    "tema": "error→solución: ofertas a la mitad",
+    "gancho": "te ofrecen la mitad: ¿qué contestas? 💸",
+    "carpeta": "salida/2026-10-30_1730",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-30 20:45",
+    "tema": "lista negativa: perder dinero",
+    "gancho": "3 errores que te hacen perder dinero 💸",
+    "carpeta": "salida/2026-10-30_2030",
+    "audio": "con energía (tendencia, sin letra que tape)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-30 23:18",
+    "tema": "reflexión: hábitos de los que venden",
+    "gancho": "lo que hacen los que venden cada día",
+    "carpeta": "salida/2026-10-30_2330",
+    "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-31 09:37",
+    "tema": "cuenta nueva paso a paso",
+    "gancho": "abre tu cuenta de Vinted así 📱",
+    "carpeta": "salida/2026-10-31_0930",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-31 12:48",
+    "tema": "lista: frases para vender",
+    "gancho": "3 frases que hacen que te compren 💬",
+    "carpeta": "salida/2026-10-31_1230",
+    "audio": "con energía (tendencia, sin letra que tape)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-31 17:23",
+    "tema": "error→solución: la primera foto",
+    "gancho": "la 1ª foto decide si te compran 📸",
+    "carpeta": "salida/2026-10-31_1730",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-31 20:44",
+    "tema": "error→solución: stock acumulado",
+    "gancho": "por esto se te acumula el stock 📦",
+    "carpeta": "salida/2026-10-31_2030",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-10-31 23:19",
+    "tema": "reflexión: subir 1 prenda hoy",
+    "gancho": "1 prenda hoy = 1 venta la semana que viene",
+    "carpeta": "salida/2026-10-31_2330",
+    "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-11-01 09:49",
+    "tema": "dinero en Vinted: cuánto te llega",
+    "gancho": "vendes a 20€ en Vinted: ¿cuánto te llega? 🤔",
+    "carpeta": "salida/2026-11-01_0930",
+    "audio": "instrumental con ritmo",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-11-01 12:45",
+    "tema": "comparación: Vinted o Wallapop",
+    "gancho": "¿Vinted o Wallapop para cada cosa? 🤔",
+    "carpeta": "salida/2026-11-01_1230",
+    "audio": "con energía",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-11-01 17:41",
+    "tema": "error→solución: el título",
+    "gancho": "así tiene que ser tu título en Vinted ✍️",
+    "carpeta": "salida/2026-11-01_1730",
+    "audio": "instrumental con ritmo (tendencia)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-11-01 20:31",
+    "tema": "lista: antes de comprar stock",
+    "gancho": "3 cosas que miro antes de comprar stock 🔍",
+    "carpeta": "salida/2026-11-01_2030",
+    "audio": "con energía (tendencia, sin letra que tape)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-11-01 23:39",
+    "tema": "reflexión: empezar noviembre",
+    "gancho": "noviembre empieza hoy: haz esto",
+    "carpeta": "salida/2026-11-01_2330",
+    "audio": "tranquilo/lo-fi (sonido en tendencia de la pestaña Popular)",
+    "redes": "tiktok+instagram",
+    "publicacion": "programado en TikTok Studio + Meta Business Suite"
+  },
+  {
+    "fecha": "2026-11-02 09:35",
+    "tema": "riesgo de cuenta: avisos de Vinted",
+    "gancho": "avisos de Vinted que no puedes ignorar 🚫",
+    "carpeta": "salida/2026-11-02_0935",
+    "audio": "Self Aware (Mark Allan Wolfe) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 09:35 + Instagram 09:37 programados"
+  },
+  {
+    "fecha": "2026-11-02 12:40",
+    "tema": "dinero: cuánto pagas de envío",
+    "gancho": "¿quién paga el envío en Vinted? 📦",
+    "carpeta": "salida/2026-11-02_1240",
+    "audio": "Espresso Soul (edivieira) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 12:40 + Instagram 12:41 programados"
+  },
+  {
+    "fecha": "2026-11-02 17:25",
+    "tema": "error→solución: precio",
+    "gancho": "tu precio en Vinted puede estar espantando 💸",
+    "carpeta": "salida/2026-11-02_1725",
+    "audio": "Mint Breeze (RITA) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 17:25 + Instagram 17:26 programados"
+  },
+  {
+    "fecha": "2026-11-02 20:35",
+    "tema": "lista negativa: qué no comprar en noviembre",
+    "gancho": "lo que yo NO compraría para revender ahora 🚫",
+    "carpeta": "salida/2026-11-02_2035",
+    "audio": "Zara House (ostaprod) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 20:35 + Instagram 20:37 programados"
+  },
+  {
+    "fecha": "2026-11-02 23:30",
+    "tema": "reflexión: empezar lunes",
+    "gancho": "hoy es lunes 🌙",
+    "carpeta": "salida/2026-11-02_2330",
+    "audio": "Untitled #13 slowed+reverb (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 23:30 + Instagram 23:33 programados"
+  },
+  {
+    "fecha": "2026-11-03 09:40",
+    "tema": "riesgo: ventas fuera de Vinted",
+    "gancho": "cosas que pueden costarte la cuenta de Vinted 🚫",
+    "carpeta": "salida/2026-11-03_0940",
+    "audio": "Time Back (Sinny) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 09:40 + Instagram 09:44 programados"
+  },
+  {
+    "fecha": "2026-11-03 12:45",
+    "tema": "compra→venta: abrigos (ejemplos)",
+    "gancho": "lo que más se vende en Vinted cuando hace frío ❄️ (precios de ejemplo)",
+    "carpeta": "salida/2026-11-03_1245",
+    "audio": "Did It First instrumental (Ice Spice) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 12:45 + Instagram 12:49 programados"
+  },
+  {
+    "fecha": "2026-11-03 17:20",
+    "tema": "error→solución: favoritos sin venta",
+    "gancho": "muchos favoritos y 0 ventas en Vinted 😩",
+    "carpeta": "salida/2026-11-03_1720",
+    "audio": "Mint Breeze (RITA) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 17:20 + Instagram 17:21 programados"
+  },
+  {
+    "fecha": "2026-11-03 20:30",
+    "tema": "serie proveedores: perfumes y belleza (parte 4)",
+    "gancho": "proveedores de belleza para revender (parte 4) 💄",
+    "carpeta": "salida/2026-11-03_2030",
+    "audio": "Tesla slowed electro mix (fixupboy) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 20:30 + Instagram 20:31 programados"
+  },
+  {
+    "fecha": "2026-11-03 23:35",
+    "tema": "antes/ahora: armario",
+    "gancho": "2023 vs 2026 😂",
+    "carpeta": "salida/2026-11-03_2335",
+    "audio": "Another Life (SZA) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 23:35 + Instagram 23:38 programados"
+  },
+  {
+    "fecha": "2026-11-04 09:30",
+    "tema": "dinero: comisiones (lo que pagas)",
+    "gancho": "lo que te quita Vinted de cada venta (de verdad) 👀",
+    "carpeta": "salida/2026-11-04_0930",
+    "audio": "Self Aware (Mark Allan Wolfe) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 09:30 + Instagram 09:32 programados"
+  },
+  {
+    "fecha": "2026-11-04 12:35",
+    "tema": "lista: marcas que suben en invierno",
+    "gancho": "marcas que suben de precio en invierno en Vinted 🧥",
+    "carpeta": "salida/2026-11-04_1235",
+    "audio": "Zara House (ostaprod) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 12:35 + Instagram 12:37 programados"
+  },
+  {
+    "fecha": "2026-11-04 17:30",
+    "tema": "error→solución: título",
+    "gancho": "tu título en Vinted puede estar escondiendo tu prenda ✍️",
+    "carpeta": "salida/2026-11-04_1730",
+    "audio": "Espresso Soul (edivieira) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 17:30 + Instagram 17:32 programados"
+  },
+  {
+    "fecha": "2026-11-04 20:40",
+    "tema": "confesión: primer pedido a proveedor",
+    "gancho": "mi primer pedido a un proveedor salió mal 😅",
+    "carpeta": "salida/2026-11-04_2040",
+    "audio": "Time Back (Sinny) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 20:40 + Instagram 20:44 programados"
+  },
+  {
+    "fecha": "2026-11-04 23:25",
+    "tema": "reflexión: miércoles",
+    "gancho": "mitad de semana 🌙",
+    "carpeta": "salida/2026-11-04_2325",
+    "audio": "Untitled #13 slowed+reverb (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 23:25 + Instagram 23:29 programados"
+  },
+  {
+    "fecha": "2026-11-05 09:35",
+    "tema": "riesgo: estafas a vendedores",
+    "gancho": "estafas a vendedores en Vinted 🚩",
+    "carpeta": "salida/2026-11-05_0935",
+    "audio": "Self Aware (Mark Allan Wolfe) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 09:35 + Instagram 09:37 programados"
+  },
+  {
+    "fecha": "2026-11-05 12:40",
+    "tema": "qué vender: Black Friday",
+    "gancho": "qué vender en Vinted la semana del Black Friday 🛍️",
+    "carpeta": "salida/2026-11-05_1240",
+    "audio": "Did It First instrumental (Ice Spice) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 12:40 + Instagram 12:42 programados"
+  },
+  {
+    "fecha": "2026-11-05 17:25",
+    "tema": "error→solución: devoluciones",
+    "gancho": "cómo ganar una devolución en Vinted 📦",
+    "carpeta": "salida/2026-11-05_1725",
+    "audio": "Mint Breeze (RITA) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 17:25 + Instagram 17:29 programados"
+  },
+  {
+    "fecha": "2026-11-05 20:35",
+    "tema": "aprendizajes: 6 meses revendiendo",
+    "gancho": "lo que nadie te dice de revender 🌙",
+    "carpeta": "salida/2026-11-05_2035",
+    "audio": "Another Life (SZA) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 20:35 + Instagram 20:36 programados"
+  },
+  {
+    "fecha": "2026-11-05 23:30",
+    "tema": "reflexión: 1 venta",
+    "gancho": "la primera venta lo cambia todo 🌙",
+    "carpeta": "salida/2026-11-05_2330",
+    "audio": "Untitled #13 slowed+reverb (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 23:30 + Instagram 23:31 programados"
+  },
+  {
+    "fecha": "2026-11-06 09:40",
+    "tema": "riesgo: cuenta nueva",
+    "gancho": "cuenta nueva en Vinted: haz esto antes de subir nada 📱",
+    "carpeta": "salida/2026-11-06_0940",
+    "audio": "Time Back (Sinny) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 09:40 + Instagram 09:41 programados"
+  },
+  {
+    "fecha": "2026-11-06 12:45",
+    "tema": "compra→venta: menos de 15€",
+    "gancho": "cosas de menos de 15€ que se venden rápido en Vinted 💸 (precios de ejemplo)",
+    "carpeta": "salida/2026-11-06_1245",
+    "audio": "Zara House (ostaprod) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 12:45 + Instagram 12:47 programados"
+  },
+  {
+    "fecha": "2026-11-06 17:25",
+    "tema": "error→solución: fotos de noche",
+    "gancho": "tus fotos de noche te están quitando ventas 📸",
+    "carpeta": "salida/2026-11-06_1725",
+    "audio": "Espresso Soul (edivieira) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 17:25 + Instagram 17:27 programados"
+  },
+  {
+    "fecha": "2026-11-06 20:30",
+    "tema": "serie proveedores: tecnología (parte 5)",
+    "gancho": "proveedores de tecnología para revender (parte 5) 🎧",
+    "carpeta": "salida/2026-11-06_2030",
+    "audio": "Tesla slowed electro mix (fixupboy) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 20:30 + Instagram 20:32 programados"
+  },
+  {
+    "fecha": "2026-11-06 23:40",
+    "tema": "relatable: viernes noche",
+    "gancho": "viernes noche de revendedor 📦😂",
+    "carpeta": "salida/2026-11-06_2340",
+    "audio": "Time Back (Sinny) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 23:40 + Instagram 23:41 programados"
+  },
+  {
+    "fecha": "2026-11-07 09:35",
+    "tema": "dinero: cuándo te pagan",
+    "gancho": "¿cuándo te paga Vinted de verdad? 💸",
+    "carpeta": "salida/2026-11-07_0935",
+    "audio": "Self Aware (Mark Allan Wolfe) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 09:35 + Instagram 09:38 programados"
+  },
+  {
+    "fecha": "2026-11-07 12:40",
+    "tema": "Vinted vs Wallapop",
+    "gancho": "Vinted o Wallapop: dónde vender cada cosa 🤔",
+    "carpeta": "salida/2026-11-07_1240",
+    "audio": "Did It First instrumental (Ice Spice) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 12:40 + Instagram 12:44 programados"
+  },
+  {
+    "fecha": "2026-11-07 17:20",
+    "tema": "lista: frases en la descripción",
+    "gancho": "3 frases que hacen que te compren en Vinted 💬",
+    "carpeta": "salida/2026-11-07_1720",
+    "audio": "Mint Breeze (RITA) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 17:20 + Instagram 17:22 programados"
+  },
+  {
+    "fecha": "2026-11-07 20:35",
+    "tema": "plan: 100€ en un mes",
+    "gancho": "si tuviera 100€ y un mes para revender, haría esto 💸",
+    "carpeta": "salida/2026-11-07_2035",
+    "audio": "Zara House (ostaprod) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 20:35 + Instagram 20:36 programados"
+  },
+  {
+    "fecha": "2026-11-07 23:30",
+    "tema": "reflexión: sábado",
+    "gancho": "si es sábado noche y piensas en tu negocio 🌙",
+    "carpeta": "salida/2026-11-07_2330",
+    "audio": "Another Life (SZA) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 23:30 + Instagram 23:33 programados"
+  },
+  {
+    "fecha": "2026-11-08 09:40",
+    "tema": "riesgo: prendas prohibidas",
+    "gancho": "cosas que Vinted no te deja vender 🚫",
+    "carpeta": "salida/2026-11-08_0940",
+    "audio": "Time Back (Sinny) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "TikTok 09:40 + Instagram 09:44 programados"
+  },
+  {
+    "fecha": "2026-11-08 12:35",
+    "tema": "lista: qué subir el domingo",
+    "gancho": "lo que subo a Vinted los domingos 📲",
+    "carpeta": "salida/2026-11-08_1235",
+    "audio": "Did It First instrumental (Ice Spice) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "Instagram programado 12:39; TikTok pendiente (límite 30 programados)"
+  },
+  {
+    "fecha": "2026-11-08 17:30",
+    "tema": "error→solución: preguntas",
+    "gancho": "cuando te preguntan «¿sigue disponible?» y luego nada 😩",
+    "carpeta": "salida/2026-11-08_1730",
+    "audio": "Espresso Soul (edivieira) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "Instagram programado 17:31; TikTok pendiente (límite 30 programados)"
+  },
+  {
+    "fecha": "2026-11-08 20:40",
+    "tema": "serie proveedores: relojes y joyas (parte 6)",
+    "gancho": "proveedores de relojes y joyas para revender (parte 6) ⌚",
+    "carpeta": "salida/2026-11-08_2040",
+    "audio": "Tesla slowed electro mix (fixupboy) (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "Instagram programado 20:43; TikTok pendiente (límite 30 programados)"
+  },
+  {
+    "fecha": "2026-11-08 23:35",
+    "tema": "reflexión: domingo semana",
+    "gancho": "nueva semana, mismo objetivo 🌙",
+    "carpeta": "salida/2026-11-08_2335",
+    "audio": "Untitled #13 slowed+reverb (TikTok); en Instagram añadir el mismo audio desde el móvil",
+    "redes": "tiktok+instagram",
+    "publicacion": "Instagram programado 23:39; TikTok pendiente (límite 30 programados)"
+  }
 ]

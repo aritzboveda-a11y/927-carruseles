@@ -1,0 +1,37 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "el domingo es el mejor día para subir",
+   "sub": "(y esto es lo que subo)",
+   "foto": "aritz927_32.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "1. lo de más valor",
+   "texto": "más gente mirando = más ofertas",
+   "foto": "aritz927_18.jpg"
+  },
+  {
+   "titulo": "2. packs",
+   "texto": "la gente tiene tiempo para comparar",
+   "foto": "aritz927_29.jpg"
+  },
+  {
+   "titulo": "3. renovar lo viejo",
+   "texto": "cambia la 1ª foto y el precio",
+   "foto": "aritz927_38.jpg"
+  },
+  {
+   "titulo": "¿subes hoy?",
+   "texto": "si te falta stock: comenta “{verde:proveedores}”",
+   "foto": "aritz927_05.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "lo que subo a Vinted los domingos 📲\n¿subes hoy?\n\n¿los quieres? comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#vinted #trucosvinted #reventa #proveedores #domingo",
+ "tema": "lista: qué subir el domingo",
+ "formato": "lista con promesa",
+ "hora_publicacion": "2026-11-08 12:35",
+ "audio": "didit"
+}

@@ -1,0 +1,36 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "Vinted o Wallapop: dónde vendo cada cosa",
+   "foto": "aritz927_32.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "ropa y zapatillas → Vinted",
+   "texto": "más búsquedas y envío fácil",
+   "foto": "aritz927_38.jpg"
+  },
+  {
+   "titulo": "cosas grandes → Wallapop",
+   "texto": "muebles, bicis. entrega en mano",
+   "foto": "aritz927_10.jpg"
+  },
+  {
+   "titulo": "tecnología → las dos",
+   "texto": "sube en ambas y borra cuando vendas",
+   "foto": "aritz927_33.jpg"
+  },
+  {
+   "titulo": "¿dónde vendes más tú?",
+   "texto": "proveedores para las dos: comenta “{verde:proveedores}”",
+   "foto": "aritz927_05.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "Vinted o Wallapop: dónde vender cada cosa 🤔\n¿dónde vendes más tú?\n\n¿los quieres? comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#vinted #wallapop #reventa #proveedores #segundamano",
+ "tema": "Vinted vs Wallapop",
+ "formato": "comparación",
+ "hora_publicacion": "2026-11-07 12:40",
+ "audio": "didit"
+}

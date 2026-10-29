@@ -1,0 +1,36 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "3 frases que hacen que te compren",
+   "foto": "aritz927_11.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "«envío en 24 h»",
+   "texto": "da confianza al momento",
+   "foto": "aritz927_21.jpg"
+  },
+  {
+   "titulo": "«medidas en la foto 4»",
+   "texto": "menos preguntas, menos devoluciones",
+   "foto": "aritz927_17.jpg"
+  },
+  {
+   "titulo": "«hago descuento en packs»",
+   "texto": "sube el ticket medio",
+   "foto": "aritz927_29.jpg"
+  },
+  {
+   "titulo": "¿cuál pones tú?",
+   "texto": "y para tener buen producto: comenta “{verde:proveedores}”",
+   "foto": "aritz927_05.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "3 frases que hacen que te compren en Vinted 💬\n¿cuál pones tú?\n\nescribe “proveedores” y te los mando 📩\n👉 Guías en el link de mi bio\n\n#vinted #descripcionvinted #trucosvinted #proveedores #revenderropa",
+ "tema": "lista: frases en la descripción",
+ "formato": "lista",
+ "hora_publicacion": "2026-11-07 17:20",
+ "audio": "mint"
+}

@@ -1,0 +1,36 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "mi primer pedido a un proveedor salió mal",
+   "foto": "aritz927_09.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "pedí demasiado de golpe",
+   "texto": "la mitad era talla única que nadie buscaba",
+   "foto": "aritz927_35.jpg"
+  },
+  {
+   "titulo": "no pedí muestra",
+   "texto": "la calidad no era la de las fotos",
+   "foto": "aritz927_13.jpg"
+  },
+  {
+   "titulo": "lo que hago ahora:",
+   "texto": "muestra primero, pedido pequeño, y repetir lo que se vende",
+   "foto": "aritz927_32.jpg"
+  },
+  {
+   "titulo": "¿a ti te ha pasado?",
+   "texto": "los que uso ahora, en la guía: comenta “{verde:proveedores}”",
+   "foto": "aritz927_26.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "mi primer pedido a un proveedor salió mal 😅\n¿a ti te ha pasado?\n\nescribe “proveedores” y te digo cuáles uso 📦\n👉 Guías en el link de mi bio\n\n#proveedores #reventa #vinted #emprender #mayorista",
+ "tema": "confesión: primer pedido a proveedor",
+ "formato": "confesión",
+ "hora_publicacion": "2026-11-04 20:40",
+ "audio": "timeback"
+}

@@ -1,0 +1,36 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "esto puede costarte la cuenta de Vinted 🚫",
+   "caja": true,
+   "foto": "aritz927_25.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "1. poner tu Instagram en la descripción",
+   "foto": "aritz927_32.jpg"
+  },
+  {
+   "titulo": "2. aceptar Bizum «para ir más rápido»",
+   "texto": "sin protección. si no llega, pierdes la prenda",
+   "foto": "aritz927_11.jpg"
+  },
+  {
+   "titulo": "3. enviar sin generar la etiqueta",
+   "texto": "si se pierde, Vinted no te cubre",
+   "foto": "aritz927_21.jpg"
+  },
+  {
+   "titulo": "guárdalo y que no te pase",
+   "texto": "¿te paso mis proveedores? comenta “{verde:proveedores}”",
+   "foto": "aritz927_04.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "cosas que pueden costarte la cuenta de Vinted 🚫\n¿alguna vez te han pedido Bizum?\n\n¿te paso mis proveedores? comenta “proveedores” 📦\n👉 Guías en el link de mi bio\n\n#vinted #cuentavinted #estafasvinted #proveedores #wallapop",
+ "tema": "riesgo: ventas fuera de Vinted",
+ "formato": "riesgo de cuenta",
+ "hora_publicacion": "2026-11-03 09:40",
+ "audio": "timeback"
+}

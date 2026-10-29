@@ -1,0 +1,36 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "¿cuándo te paga Vinted de verdad?",
+   "foto": "aritz927_23.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "1. el comprador recibe",
+   "texto": "y confirma que todo está bien",
+   "foto": "aritz927_27.jpg"
+  },
+  {
+   "titulo": "2. o pasan 2 días",
+   "texto": "si no dice nada, se confirma solo",
+   "foto": "aritz927_32.jpg"
+  },
+  {
+   "titulo": "3. el dinero va a tu monedero",
+   "texto": "de ahí lo pasas al banco (tarda unos días)",
+   "foto": "aritz927_11.jpg"
+  },
+  {
+   "titulo": "¿cuánto tienes en el monedero?",
+   "texto": "para que no pare de entrar: comenta “{verde:proveedores}”",
+   "foto": "aritz927_04.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "¿cuándo te paga Vinted de verdad? 💸\n¿lo sabías?\n\ncomenta “proveedores” y te digo cuáles uso 👇\n👉 Guías en el link de mi bio\n\n#vinted #dinero #monederovinted #proveedores #reventa",
+ "tema": "dinero: cuándo te pagan",
+ "formato": "dinero en Vinted",
+ "hora_publicacion": "2026-11-07 09:35",
+ "audio": "selfaware"
+}

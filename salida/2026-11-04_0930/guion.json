@@ -1,0 +1,36 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "¿cuánto te quita Vinted de cada venta?",
+   "foto": "aritz927_23.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "como vendedor particular:",
+   "texto": "la comisión la paga el comprador (protección). a ti te llega el precio que pones",
+   "foto": "aritz927_11.jpg"
+  },
+  {
+   "titulo": "lo que sí te come margen:",
+   "texto": "bolsas, etiquetas, tu tiempo y las ofertas que aceptas",
+   "foto": "aritz927_15.jpg"
+  },
+  {
+   "titulo": "y si vendes como negocio",
+   "texto": "las condiciones cambian. infórmate antes de crecer",
+   "foto": "aritz927_32.jpg"
+  },
+  {
+   "titulo": "¿lo sabías?",
+   "texto": "el margen de verdad está en comprar bien: comenta “{verde:proveedores}”",
+   "foto": "aritz927_04.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "lo que te quita Vinted de cada venta (de verdad) 👀\n¿lo sabías?\n\ncomenta “proveedores” y te digo cuáles uso 👇\n👉 Guías en el link de mi bio\n\n#vinted #comisionesvinted #dinero #proveedores #reventa",
+ "tema": "dinero: comisiones (lo que pagas)",
+ "formato": "dinero en Vinted",
+ "hora_publicacion": "2026-11-04 09:30",
+ "audio": "selfaware"
+}

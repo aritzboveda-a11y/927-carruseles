@@ -1,0 +1,37 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "¿quién paga el envío en Vinted?",
+   "sub": "(casi nadie lo tiene claro)",
+   "foto": "aritz927_21.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "el envío lo paga el comprador",
+   "texto": "tú solo preparas el paquete y lo llevas al punto",
+   "foto": "aritz927_27.jpg"
+  },
+  {
+   "titulo": "pero el tamaño lo eliges tú",
+   "texto": "si pones «pequeño» y no cabe, problemas. mide antes de subir",
+   "foto": "aritz927_35.jpg"
+  },
+  {
+   "titulo": "truco:",
+   "texto": "bolsas de envío finas = paquete pequeño = más barato para quien compra = vendes antes",
+   "foto": "aritz927_15.jpg"
+  },
+  {
+   "titulo": "¿qué tamaño pones tú?",
+   "texto": "los proveedores que uso, en la guía: comenta “{verde:proveedores}”",
+   "foto": "aritz927_05.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "¿quién paga el envío en Vinted? 📦\n¿qué tamaño pones tú?\n\nescribe “proveedores” y te los mando 📩\n👉 Guías en el link de mi bio\n\n#vinted #enviosvinted #revenderropa #proveedores #reventa",
+ "tema": "dinero: cuánto pagas de envío",
+ "formato": "dinero en Vinted",
+ "hora_publicacion": "2026-11-02 12:40",
+ "audio": "espresso"
+}

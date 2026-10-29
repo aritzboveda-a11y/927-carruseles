@@ -1,0 +1,54 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "lo que compro a menos de 15€ y se vende rápido",
+   "sub": "(precios de ejemplo)",
+   "foto": "aritz927_20.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "gorro de marca",
+   "precios": [
+    "4€",
+    "15€"
+   ],
+   "foto": "aritz927_38.jpg"
+  },
+  {
+   "titulo": "camiseta de fútbol",
+   "precios": [
+    "12€",
+    "35€"
+   ],
+   "foto": "aritz927_17.jpg"
+  },
+  {
+   "titulo": "auriculares sellados",
+   "precios": [
+    "14€",
+    "30€"
+   ],
+   "foto": "aritz927_33.jpg"
+  },
+  {
+   "titulo": "cinturón de piel",
+   "precios": [
+    "6€",
+    "20€"
+   ],
+   "foto": "aritz927_22.jpg"
+  },
+  {
+   "titulo": "¿cuál empezarías?",
+   "texto": "dónde comprarlo, en la guía: comenta “{verde:proveedores}”",
+   "foto": "aritz927_37.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "cosas de menos de 15€ que se venden rápido en Vinted 💸 (precios de ejemplo)\n¿con cuál empezarías?\n\ncomenta “proveedores” y te los paso 📦\n👉 Guías en el link de mi bio\n\n#vinted #reventa #ideasdenegocio #proveedores #fyp",
+ "tema": "compra→venta: menos de 15€",
+ "formato": "precio compra → venta",
+ "hora_publicacion": "2026-11-06 12:45",
+ "audio": "zara"
+}
