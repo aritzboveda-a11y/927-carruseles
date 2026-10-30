@@ -146,14 +146,14 @@ Varía también:
 
 - **Mejores 3 (visitas)**: "esto hace que Vinted desconfíe de ti" (715, 0 com.), "errores de envío que salen caros" (409, 0), "por esto te devuelven los pedidos" (375, 0). **Por comentarios**: "3 trucos para que tu prenda salga más" (273, 3 com.) y "¿subes fotos sacadas de internet? ojo" (326, 2).
 - **Peores 3 (visitas)**: "proveedores de perfumes… (parte 1)" (96, 0; solo 12 h, puede subir), "5 frases que te hacen perder dinero" (223, 0; pero el que más gusta), "3 trucos para que tu prenda salga más" (273, 3; poco alcance pero el que más comenta).
-- **Por formato**: riesgo de cuenta 435 de media (4; sin el de 715, 341; 1,7 com/1.000), error→solución 345 (3; 1,0 com/1.000), reflexión 290 (3), comparación 296 (3; 0 com.), dinero de 1 cosa 287 (2; 0 com.), lista 259 (3; 4,8 com/1.000, la que más comenta y gusta).
-- **Por franja**: 09:30 → 473 (3), 17:30 → 314 (4), 12:30 → 297 (4), 00:00 → 290 (3), 20:30 → 246 (4; comparaciones y la parte 1 recién publicada).
+- **Por formato**: riesgo de cuenta 435 de media (4; sin el de 715, 341; 1,7 com/1.000), error→solución 345 (3; 1,0 com/1.000), reflexión 290 (3), comparación 296 (3; 0 com.), dinero de 1 cosa 287 (2; 0 com.), lista 259 (3; 5,2 com/1.000, la que más comenta y gusta).
+- **Por franja**: 09:30 → 423 (4), 17:30 → 314 (4), 12:30 → 295 (5), 00:00 → 290 (3), 20:30 → 246 (4; comparaciones y la parte 1 recién publicada).
 - **Nº de diapositivas y guía del CTA**: sin diferencias medibles (casi todos 5-6 diapositivas y el mismo CTA "proveedores").
 - **Datos limitados**: 2-4 carruseles por grupo; los comentarios son tan pocos (11 en 20) que 1 comentario cambia el ranking. Son pistas, no reglas firmes.
 
 **Reglas (basadas en 20 carruseles)**
 1. **Publicar todos los días sin huecos**: 3 días parados dejaron la cuenta en ~50 visitas/día; los antiguos ya no crecen. 4-5 al día, separados 3 h o más (7 en un día hundió el alcance el 22 oct).
-2. **Riesgo de cuenta (🚫/"ojo"/"salen caros") a las 09:30**: sigue siendo la combinación con más visitas (473 de media). No saltarse esa franja.
+2. **Riesgo de cuenta (🚫/"ojo"/"salen caros") a las 09:30**: sigue siendo la combinación con más visitas (423 de media). No saltarse esa franja.
 3. **Más listas con pregunta sobre SU caso** ("¿cuál no hacías?", "¿cuántas tiene tu última prenda?"): las listas son lo que más comenta y gusta (3 trucos 11 com/1.000, 5 frases 31 MG/1.000). Añadir esa pregunta también a los riesgos de cuenta, que tienen alcance pero 0 comentarios.
 4. **Evita comparaciones ("¿X o Y?") y "¿a cuánto vendes X?"**: 0 comentarios en 8 carruseles. Siguen prohibidos Navidad y "primera venta/primer mes".
 5. **Serie proveedores**: la parte 1 (perfumes) va floja en sus primeras 12 h (96). Mirar mañana sus visitas antes de seguir; si no pasa de ~200, no poner más "partes" a las 20:30 y probar la serie a las 09:30 o 17:30.
