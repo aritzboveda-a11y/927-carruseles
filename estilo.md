@@ -115,52 +115,53 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 30 oct 2026** (Metricool, 23-30 oct, solo carruseles PHOTO con más de 12 h; Metricool da la hora en UTC, aquí pasada a Madrid). 20 carruseles medibles: 6.277 visitas, 61 me gusta (9,7 por 1.000), 11 comentarios (1,8 por 1.000).
-- **Ayer (29 oct) se volvió a publicar** tras 3 días parados (27-28 oct = 0). Ayer sumó **~660 visitas**: 599 de los 3 carruseles nuevos + ~60 de los antiguos (que ya crecen solo +0 a +14 cada uno).
-- 🚨 **Del 29 oct solo aparecen 3 de 5 en Metricool**: falta el de las 09:30 ("esto hace que Vinted te limite la cuenta 🚫", salida/2026-10-29_0930); el de las 23:35 (2022 vs 2026) aún no tiene 12 h. Comprobar en TikTok Studio si salió; si no, subirlo en la próxima franja de 09:30.
-- 🚨 **historial.json no coincide con lo publicado el 29 oct**: dice "señales de proveedor estafa", "3 cosas que Vinted no te deja vender", "5 estrellas", "3 nichos"… pero lo que salió (carpetas 2026-10-29_0930/_1245/_1720/_2030/_2335) fue: limitar la cuenta, marcas que más rápido se venden, 5 frases que te hacen perder dinero, proveedores de perfumes (parte 1) y 2022 vs 2026. El agente debe apuntar en el historial lo que de verdad se publica (tema, gancho y carpeta reales).
-- **Plantilla pinterest (primeros datos, 3 carruseles)**: alcance igual o algo menor que la anterior (280, 223, 96), pero "5 frases que te hacen perder dinero" tiene 31 me gusta por 1.000, el triple de la media. Aún pocos datos para juzgarla.
+**Actualizado: 31 oct 2026** (Metricool, 24-31 oct, solo carruseles PHOTO con más de 12 h; Metricool da la hora en UTC, aquí pasada a Madrid; emparejados por caption con los guion.json de `salida/`). 20 carruseles medibles: 7.936 visitas, 76 me gusta (9,6 por 1.000), 12 comentarios (1,5 por 1.000).
+- **Ayer (30 oct) la cuenta sumó ~3.600 visitas** (diferencia con el análisis de ayer): ~1.170 de los 4 carruseles del 30 oct, +1.564 de "5 frases que te hacen perder dinero" (223 → 1.787, el primer carrusel que despega), +531 del meme "2022 vs 2026", +239 de perfumes parte 1 (96 → 335), +93 de "marcas que más rápido se venden" y ~30 de los antiguos.
+- **Plantilla pinterest va mejor que la de Aritz en alcance**: 525 visitas de media (8 carruseles; 345 sin el de 1.787) frente a 312 (12). Pero comenta menos: 0,7 com/1.000 frente a 2,4. Seguir con pinterest y meter la pregunta del caso en la diapositiva final, no solo en el caption.
+- 🚨 **Siguen sin aparecer en Metricool**: "esto hace que Vinted te limite la cuenta 🚫" (salida/2026-10-29_0930) y los del 27-28 oct. Comprobar en TikTok Studio.
+- 🚨 **historial.json sigue sin coincidir con lo publicado (29-31 oct)**: p. ej. el historial dice "por esto no te ponen 5 estrellas" el 29 oct 17:22, pero lo publicado fue "5 frases que te hacen perder dinero" (salida/2026-10-29_1720); el 30 oct 20:45 dice "3 errores que te hacen perder dinero" y salió "Pinterest te dice qué vas a vender" (salida/2026-10-30_2040). Las carpetas reales no son las del historial (_0940, _1235, _2040…). El agente debe apuntar el gancho y la carpeta reales.
+- **TikTok tiene 30 programados como límite**: el 8 nov ya hay carruseles que no entraron. No programar más de ~6 días por delante.
 
 | Carrusel (gancho) | Formato | Hora | Visitas | Com. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|
-| esto hace que Vinted desconfíe de ti | riesgo de cuenta | 23 oct 09:45 | 715 | 0 | 0 | 5,6 |
-| errores de envío que salen caros | riesgo de cuenta | 26 oct 09:45 | 409 | 0 | 0 | 2,4 |
-| por esto te devuelven los pedidos | error→solución | 23 oct 17:45 | 375 | 0 | 0 | 21,3 |
-| antes de subir la ropa, mira esto | error→solución | 24 oct 17:50 | 333 | 0 | 0 | 9,0 |
-| muchas visitas y 0 favoritos | error→solución | 25 oct 17:50 | 326 | 1 | 3,1 | 9,2 |
-| ¿subes fotos sacadas de internet? ojo | riesgo de cuenta | 25 oct 12:45 | 326 | 2 | 6,1 | 15,3 |
-| ¿ropa de marca o sin marca? | comparación | 23 oct 20:45 | 325 | 0 | 0 | 3,1 |
-| Black Friday: ¿subes o bajas precios? | temporada | 26 oct 12:35 | 304 | 1 | 3,3 | 0 |
+| 5 frases que te hacen perder dinero en Vinted | lista negativa | 29 oct 17:20 | 1.787 | 0 | 0 | 7,8 |
+| 2022 vs 2026 (meme, 4 diap.) | relatable | 29 oct 23:35 | 531 | 0 | 0 | 11,3 |
+| lo que necesitas para revender en serio | lista | 30 oct 09:40 | 520 | 0 | 0 | 11,5 |
+| errores de envío que salen caros | riesgo de cuenta | 26 oct 09:45 | 416 | 0 | 0 | 2,4 |
+| zapatillas que compras por menos de 30€ y se venden solas | lista (precios) | 30 oct 12:35 | 380 | 0 | 0 | 21,1 |
+| las marcas que más rápido se venden en Vinted | lista | 29 oct 12:45 | 373 | 3 | 8,0 | 18,8 |
+| proveedores de perfumes que tienes que conocer (parte 1) | serie proveedores | 29 oct 20:30 | 335 | 0 | 0 | 6,0 |
+| antes de subir la ropa, mira esto | error→solución | 24 oct 17:50 | 334 | 0 | 0 | 9,0 |
+| muchas visitas y 0 favoritos | error→solución | 25 oct 17:50 | 328 | 1 | 3,0 | 9,1 |
+| ¿subes fotos sacadas de internet? ojo | riesgo de cuenta | 25 oct 12:45 | 328 | 2 | 6,1 | 15,2 |
+| Black Friday: ¿subes o bajas precios? | temporada | 26 oct 12:35 | 313 | 1 | 3,2 | 0 |
 | lo que haces el domingo decide tu semana | reflexión | 25 oct 00:15 | 303 | 1 | 3,3 | 9,9 |
-| una gorra de marca: ¿a cuánto la vendes? | dinero de 1 cosa | 25 oct 09:45 | 296 | 0 | 0 | 10,1 |
+| una gorra de marca: ¿a cuánto la vendes? | dinero de 1 cosa | 25 oct 09:45 | 297 | 0 | 0 | 10,1 |
+| nueva semana: haz esto antes del martes | reflexión | 26 oct 00:15 | 292 | 0 | 0 | 10,3 |
 | ¿te piden pagar fuera de Vinted? | riesgo de cuenta | 24 oct 12:50 | 288 | 1 | 3,5 | 10,4 |
-| nueva semana: haz esto antes del martes | reflexión | 26 oct 00:15 | 288 | 0 | 0 | 10,4 |
 | ¿Vinted o tu propia tienda online? | comparación | 24 oct 20:50 | 287 | 0 | 0 | 3,5 |
-| las marcas que más rápido se venden en Vinted | lista (pinterest) | 29 oct 12:45 | 280 | 1 | 3,6 | 14,3 |
-| ¿cuántas veces has pensado en dejarlo? | reflexión | 24 oct 00:10 | 278 | 1 | 3,6 | 7,2 |
-| ¿a cuánto vendes unos vaqueros de marca? | dinero de 1 cosa | 23 oct 12:35 | 277 | 0 | 0 | 14,4 |
-| ¿proveedor o tiendas de segunda mano? | comparación | 25 oct 20:45 | 275 | 0 | 0 | 7,3 |
-| 3 trucos para que tu prenda salga más | lista | 24 oct 09:40 | 273 | 3 | 11,0 | 14,7 |
-| 5 frases que te hacen perder dinero en Vinted | lista (pinterest) | 29 oct 17:20 | 223 | 0 | 0 | 31,4 |
-| proveedores de perfumes que tienes que conocer (parte 1) | serie proveedores | 29 oct 20:30 | 96 | 0 | 0 | 0 |
+| ¿proveedor o tiendas de segunda mano? | comparación | 25 oct 20:45 | 279 | 0 | 0 | 7,2 |
+| 3 trucos para que tu prenda salga más | lista | 24 oct 09:40 | 274 | 3 | 10,9 | 14,6 |
+| te escriben pero no te compran 😩 | error→solución | 30 oct 17:30 | 243 | 0 | 0 | 8,2 |
+| Pinterest te dice qué vas a vender el mes que viene | truco | 30 oct 20:40 | 28 | 0 | 0 | 0 (solo 12 h) |
 
-- **Mejores 3 (visitas)**: "esto hace que Vinted desconfíe de ti" (715, 0 com.), "errores de envío que salen caros" (409, 0), "por esto te devuelven los pedidos" (375, 0). **Por comentarios**: "3 trucos para que tu prenda salga más" (273, 3 com.) y "¿subes fotos sacadas de internet? ojo" (326, 2).
-- **Peores 3 (visitas)**: "proveedores de perfumes… (parte 1)" (96, 0; solo 12 h, puede subir), "5 frases que te hacen perder dinero" (223, 0; pero el que más gusta), "3 trucos para que tu prenda salga más" (273, 3; poco alcance pero el que más comenta).
-- **Por formato**: riesgo de cuenta 435 de media (4; sin el de 715, 341; 1,7 com/1.000), error→solución 345 (3; 1,0 com/1.000), reflexión 290 (3), comparación 296 (3; 0 com.), dinero de 1 cosa 287 (2; 0 com.), lista 259 (3; 5,2 com/1.000, la que más comenta y gusta).
-- **Por franja**: 09:30 → 423 (4), 17:30 → 314 (4), 12:30 → 295 (5), 00:00 → 290 (3), 20:30 → 246 (4; comparaciones y la parte 1 recién publicada).
-- **Nº de diapositivas y guía del CTA**: sin diferencias medibles (casi todos 5-6 diapositivas y el mismo CTA "proveedores").
-- **Datos limitados**: 2-4 carruseles por grupo; los comentarios son tan pocos (11 en 20) que 1 comentario cambia el ranking. Son pistas, no reglas firmes.
+- **Mejores 3 (visitas)**: "5 frases que te hacen perder dinero en Vinted" (1.787, 0 com.), "2022 vs 2026" (531, 0), "lo que necesitas para revender en serio" (520, 0). **Por comentarios**: "las marcas que más rápido se venden" (373, 3 com.) y "3 trucos para que tu prenda salga más" (274, 3).
+- **Peores 3 (visitas)**: "Pinterest te dice qué vas a vender" (28, 0; solo 12 h, mirar mañana), "te escriben pero no te compran 😩" (243, 0), "3 trucos para que tu prenda salga más" (274, pero 3 com.).
+- **Por formato**: lista 560 de media (6; sin el de 1.787 y el de 12 h, 387; 1,8 com/1.000 y 11,6 MG/1.000), relatable/meme 531 (1), riesgo de cuenta 344 (3; 2,9 com/1.000), serie proveedores 335 (1), error→solución 302 (3), reflexión 298 (2), comparación 283 (2; 0 com.), dinero de 1 cosa 297 (1).
+- **Por franja**: 17:30 → 673 (4; 291 sin el de 1.787), 23:30 → 531 (1), 09:30 → 377 (4), 12:30 → 336 (5; la que más comenta, 4,2 com/1.000), 00:00 → 298 (2), 20:30 → 232 (4; la peor por segundo día).
+- **Nº de diapositivas y guía del CTA**: sin diferencias claras (casi todos 5-6 diapositivas y el CTA "proveedores"); el meme de 4 diapositivas fue el 2º con más visitas.
+- **Datos limitados**: 1-6 carruseles por grupo y un solo carrusel viral (1.787) mueve todas las medias. Son pistas, no reglas firmes.
 
 **Reglas (basadas en 20 carruseles)**
-1. **Publicar todos los días sin huecos**: 3 días parados dejaron la cuenta en ~50 visitas/día; los antiguos ya no crecen. 4-5 al día, separados 3 h o más (7 en un día hundió el alcance el 22 oct).
-2. **Riesgo de cuenta (🚫/"ojo"/"salen caros") a las 09:30**: sigue siendo la combinación con más visitas (423 de media). No saltarse esa franja.
-3. **Más listas con pregunta sobre SU caso** ("¿cuál no hacías?", "¿cuántas tiene tu última prenda?"): las listas son lo que más comenta y gusta (3 trucos 11 com/1.000, 5 frases 31 MG/1.000). Añadir esa pregunta también a los riesgos de cuenta, que tienen alcance pero 0 comentarios.
-4. **Evita comparaciones ("¿X o Y?") y "¿a cuánto vendes X?"**: 0 comentarios en 8 carruseles. Siguen prohibidos Navidad y "primera venta/primer mes".
-5. **Serie proveedores**: la parte 1 (perfumes) va floja en sus primeras 12 h (96). Mirar mañana sus visitas antes de seguir; si no pasa de ~200, no poner más "partes" a las 20:30 y probar la serie a las 09:30 o 17:30.
+1. **Repite el formato "N frases/errores que te hacen perder dinero"** (lista negativa con 💸): es el único que ha despegado (1.787). Hacer variantes: frases, fotos, precios, envíos… 1 al día, a las 17:30.
+2. **Repite los memes "antes/ahora" y "sábado/viernes noche"** de 4 diapositivas a las 23:30: 531 visitas, más que cualquier reflexión (298).
+3. **Listas de marcas/productos con precios de ejemplo a las 12:30** ("marcas que más rápido se venden", "zapatillas por menos de 30€"): las que más gustan (19-21 MG/1.000) y comentan. Termina con "¿cuál vendes tú?".
+4. **Evita comparaciones ("¿X o Y?") y "¿a cuánto vendes X?"**: 0 comentarios y <300 visitas otra vez. Siguen prohibidos Navidad y "primera venta/primer mes".
+5. **20:30 es la peor franja** (232 de media): poner ahí lo menos importante o mover la serie proveedores a 09:30/12:30. Perfumes parte 1 subió a 335, así que la serie puede seguir.
 
 **Temas/ganchos a priorizar los próximos días**
-1. "esto hace que Vinted te limite la cuenta 🚫" (salida/2026-10-29_0930; no aparece publicado; 09:30).
-2. "avisos de Vinted que no puedes ignorar 🚫" (riesgo de cuenta; 09:30).
-3. "estafas a vendedores en Vinted 🚩" (riesgo; buena franja 09:30 o 17:30).
-4. "muchos favoritos y 0 ventas en Vinted 😩" (error→solución en forma de lista con "¿cuántos tiene tu última prenda?"; 17:30).
-5. "te escriben pero no te compran 😩" (ya preparado para hoy 17:30, salida/2026-10-30_1730; lista + pregunta de su caso).
+1. "5 fotos que te hacen perder ventas en Vinted 📸" (variante del de 1.787; 17:30).
+2. "3 precios que te hacen perder dinero en Vinted 💸" (lista negativa; 17:30).
+3. "2023 vs 2026 😂" / "viernes noche de revendedor 📦😂" (meme 4 diapositivas; 23:30; ya hay varios programados, mantenerlos).
+4. "marcas que suben de precio en invierno en Vinted 🧥" (lista con precios; 12:30).
+5. "esto hace que Vinted te limite la cuenta 🚫" (salida/2026-10-29_0930; sigue sin aparecer publicado; 09:30).
