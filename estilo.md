@@ -115,14 +115,12 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 2 nov 2026** (Metricool, 26 oct-2 nov, solo carruseles PHOTO con más de 12 h; Metricool da la hora en UTC, aquí pasada a Madrid; emparejados por caption con los guion.json de `salida/`). 18 carruseles medibles: 8.286 visitas, 73 me gusta (8,8 por 1.000), **5 comentarios (0,6 por 1.000)**.
-- **Ayer (1 nov) la cuenta sumó ~1.160 visitas** (bajando: ~3.600 el 30 oct, ~2.200 el 31 oct): 578 de los 2 carruseles del 1 nov que ya salen en Metricool, 268 de "sábado noche" (31 oct 23:40), +182 de "si empezara hoy con 50€" (99 → 281), +66 de "5 frases" (1.922 → 1.988) y casi nada del resto (+0-23 cada uno).
-- **Los carruseles ya no crecen después del 2º día**: casi todos los de 29-31 oct sumaron menos de 25 visitas ayer. Lo que no despega en 24-36 h no despega.
-- 🚨 **Techo de ~240-300 visitas**: los últimos 8 carruseles (31 oct 09:35 → 1 nov 12:30) están todos entre 238 y 293, sea cual sea el formato. TikTok los está enseñando solo al empujón inicial: hace falta un gancho más fuerte en la portada, no más del mismo tipo.
-- 🚨 **Comentarios casi a cero**: 5 en 18 carruseles. Los únicos con comentarios son de las 12:30 y con pregunta cerrada sobre algo suyo: "¿cuál vendes tú?" (marcas, 3), "¿tu cuenta tiene menos de un mes?" (cuenta nueva, 1), "¿vas a hacer descuentos?" (Black Friday, 1).
-- 🚨 **Faltan en Metricool**: los del 27-28 oct, "esto hace que Vinted te limite la cuenta" (29 oct 09:30) y los del 1 nov 17:35, 20:35 y 23:30 (puede ser retraso de Metricool; mirar mañana y, si no, TikTok Studio).
-- 🚨 **historial.json sigue sin coincidir con lo publicado**: el 1 nov el historial dice "vendes a 20€…", "¿Vinted o Wallapop?" y "el título", pero salieron "5 cosas que puedes revender con menos de 50€" (salida/2026-11-01_0940), "nunca hagas esto con una cuenta nueva" (salida/2026-11-01_1230) y "por qué te regatean tanto" (salida/2026-11-01_1735). El agente debe apuntar el gancho y la carpeta reales.
-- **TikTok tiene 30 programados como límite**: ya hay programados hasta el 8 nov; no programar más allá.
+**Actualizado: 3 nov 2026** (Metricool, 27 oct-3 nov, solo carruseles PHOTO con más de 12 h; hora de Metricool en UTC pasada a Madrid; emparejados por caption con los guion.json de `salida/`). 16 carruseles medibles: 7.549 visitas, 72 me gusta (9,5 por 1.000), **4 comentarios (0,5 por 1.000)**.
+- 🚨 **Metricool no se ha actualizado desde el 1 nov a mediodía**: el último carrusel que aparece es el de 1 nov 12:30 y las visitas de los 16 son *exactamente* las mismas que ayer. No hay datos del 2 nov (visitas de ayer: desconocidas, no 0). Los dos del 26 oct salen ya de la ventana de 7 días. **Hoy no hay datos nuevos: las reglas de abajo son las de ayer, sin cambios.** Si mañana sigue igual, revisar la conexión de TikTok en Metricool o mirar TikTok Studio.
+- **Los carruseles ya no crecen después del 2º día** y los últimos 8 medibles (31 oct 09:35 → 1 nov 12:30) se quedan en un **techo de 238-293 visitas**, sea cual sea el formato: hace falta un gancho de portada más fuerte (dinero perdido), no más del mismo tipo.
+- 🚨 **Comentarios casi a cero**: 4 en 16. Solo los sacan las preguntas cerradas sobre algo suyo a las 12:30: "¿cuál vendes tú?" (3) y "¿la tuya tiene menos de un mes?" (1).
+- **historial.json**: el agente debe apuntar el gancho y la carpeta reales de lo que se publica (el 1 nov no coincidían).
+- **TikTok tiene 30 programados como límite**: hay programado hasta el 8 nov 12:35; desde el 8 nov 17:30 TikTok está pendiente (Instagram sí está programado).
 
 | Carrusel (gancho) | Formato | Hora | Diap. | Visitas | Com. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|---|
@@ -131,11 +129,9 @@ Varía también:
 | te escriben pero no te compran 😩 | error→solución | 30 oct 17:30 | 5 | 598 | 0 | 0 | 3,3 |
 | 2022 vs 2026 (meme) | relatable | 29 oct 23:35 | 4 | 554 | 0 | 0 | 10,8 |
 | zapatillas por menos de 30€ (precios de ejemplo) | lista (precios) | 30 oct 12:35 | 5 | 460 | 0 | 0 | 17,4 |
-| errores de envío que salen caros | riesgo de cuenta | 26 oct 09:45 | 6 | 421 | 0 | 0 | 2,4 |
 | nadie te va a aplaudir cuando empieces | reflexión | 30 oct 23:30 | 5 | 396 | 0 | 0 | 30,3 |
 | las marcas que más rápido se venden en Vinted | lista (precios) | 29 oct 12:45 | 6 | 380 | 3 | 7,9 | 18,4 |
 | proveedores de perfumes (parte 1) | serie proveedores | 29 oct 20:30 | 5 | 350 | 0 | 0 | 5,7 |
-| Black Friday: ¿subes o bajas precios? | temporada | 26 oct 12:35 | 5 | 316 | 1 | 3,2 | 0 |
 | 5 cosas que puedes revender con menos de 50€ | lista | 1 nov 09:40 | 7 | 293 | 0 | 0 | 3,4 |
 | preguntas que nunca debes hacerle a un proveedor | lista negativa | 31 oct 09:35 | 5 | 290 | 0 | 0 | 6,9 |
 | Pinterest te dice qué vas a vender | truco | 30 oct 20:40 | 5 | 285 | 0 | 0 | 14,0 |
@@ -147,17 +143,17 @@ Varía también:
 
 - **Mejores 3 (visitas)**: "5 frases que te hacen perder dinero en Vinted" (1.988, 0 com.), "lo que necesitas para revender en serio" (636, 0), "te escriben pero no te compran 😩" (598, 0). **Por comentarios**: "las marcas que más rápido se venden" (380, 3). **Por me gusta**: "nadie te va a aplaudir cuando empieces" (30 MG/1.000).
 - **Peores 3 (visitas)**: "proveedores de zapatillas (parte 2)" (238, 0), "la 1ª foto decide si te compran 📸" (247, 0; 0 me gusta), "sábado noche de revendedor" (268, 0).
-- **Por formato** (media de visitas): lista negativa 1.139 (2; 290 sin el viral), lista 442 (4; la que más comenta, 1,7 com/1.000), error→solución 422 (2), relatable 411 (2), reflexión 396 (1; 30 MG/1.000), riesgo de cuenta 353 (2), temporada 316, serie proveedores 294 (2; la peor y bajando: 350 → 238), truco 285, plan 281.
-- **Por franja**: 17:30 → 944 (3; 598 de mediana), 23:30 → 406 (3; la que más gusta, 15,6 MG/1.000), 09:30 → 410 (4), 12:30 → 336 (5; la única con comentarios, 3 com/1.000), 20:30 → 305 (3; la peor por cuarto día).
-- **Nº de diapositivas**: 6 diap. 663 de media (5; 380 de mediana), 4 diap. 411 (2), 5 diap. 385 (10), 7 diap. 293 (1). Sin el viral, no hay diferencia clara. Guía del CTA: siempre "proveedores", no se puede comparar.
-- **Datos limitados**: 1-5 carruseles por grupo y un viral mueve las medias. Son pistas, no reglas firmes.
+- **Por formato** (media de visitas): lista negativa 1.139 (2; 290 sin el viral), lista/lista con precios 442 (4; la que más comenta), error→solución 423 (2), relatable 411 (2), reflexión 396 (1; 30 MG/1.000), serie proveedores 294 (2; bajando 350 → 238), riesgo de cuenta 285 (1), truco 285, plan 281.
+- **Por franja**: 17:30 → 944 (3; 598 de mediana), 09:30 → 406 (3), 23:30 → 406 (3; la que más gusta), 12:30 → 341 (4; la única con comentarios), 20:30 → 305 (3; la peor).
+- **Nº de diapositivas**: 6 diap. 724 de media (4; 331 de mediana), 4 diap. 411 (2), 5 diap. 393 (9), 7 diap. 293 (1). Sin el viral no hay diferencia clara. Guía del CTA: siempre "proveedores", no se puede comparar.
+- **Datos limitados**: 1-4 carruseles por grupo y un viral mueve las medias. Son pistas, no reglas firmes.
 
-**Reglas (basadas en 18 carruseles)**
-1. **Repite "N frases/cosas que te hacen perder dinero en Vinted 💸" a las 17:30**: sigue siendo el único que ha pasado de 650 visitas, y 17:30 es la mejor franja (598 de mediana). La portada tiene que prometer dinero perdido, no un consejo suave ("la 1ª foto decide…" se quedó en 247).
+**Reglas (basadas en 16 carruseles; sin cambios hoy por falta de datos nuevos)**
+1. **Repite "N frases/cosas que te hacen perder dinero en Vinted 💸" a las 17:30**: es el único que ha pasado de 650 visitas, y 17:30 es la mejor franja. La portada tiene que prometer dinero perdido, no un consejo suave ("la 1ª foto decide…" se quedó en 247).
 2. **Última diapositiva = pregunta cerrada sobre algo suyo + "Comenta “proveedores”"**: "¿cuál vendes tú?", "¿tu cuenta tiene menos de un mes?". Son las únicas que han sacado comentarios. Nada de "¿cómo es la tuya?" o "¿dónde estás ahora?" (0).
-3. **Listas con precios de ejemplo o "lo que necesitas" a las 09:30-12:30** (636, 460, 380 visitas y 9-18 MG/1.000): repetir, con 5-6 diapositivas (la de 7 se quedó en 293).
-4. **La serie proveedores (parte N) y las 20:30 son lo peor**: serie 294 de media y bajando; 20:30 la peor franja por cuarto día. No poner los mejores ganchos a las 20:30 y no alargar la serie más allá de las partes ya programadas.
-5. **Evita memes de "sábado noche"/"2023 vs 2026" repetidos, comparaciones ("¿X o Y?") y "plan con X€"**: el 2º meme bajó de 554 a 268 y "plan con 50€" se quedó en 281. Siguen prohibidos Navidad y "primera venta/primer mes".
+3. **Listas con precios de ejemplo o "lo que necesitas" a las 09:30-12:30** (636, 460, 380 visitas y 9-18 MG/1.000), con 5-6 diapositivas (la de 7 se quedó en 293).
+4. **La serie proveedores (parte N) y las 20:30 son lo peor**: no poner los mejores ganchos a las 20:30 y no alargar la serie más allá de las partes ya programadas.
+5. **Evita memes repetidos ("sábado noche", "20XX vs 2026"), comparaciones ("¿X o Y?") y "plan con X€"**: el 2º meme bajó de 554 a 268 y "plan con 50€" se quedó en 281. Siguen prohibidos Navidad y "primera venta/primer mes".
 
 **Temas/ganchos a priorizar los próximos días**
 1. "3 precios que te hacen perder dinero en Vinted 💸" (lista negativa; 17:30).
