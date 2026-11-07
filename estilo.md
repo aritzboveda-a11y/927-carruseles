@@ -115,66 +115,66 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 6 nov 2026** (Metricool, 30 oct 09:40 - 6 nov 08:40, solo carruseles PHOTO con más de 12 h; hora de Metricool en UTC pasada a Madrid; emparejados por hora + caption con historial.json y los guion.json de `salida/`). **33 carruseles medibles: 14.640 visitas, 143 me gusta (9,8 por 1.000), 8 comentarios (0,5 por 1.000), 6 compartidos.**
-- ⚠️ Del 5 nov Metricool solo trae 3 de 5 (09:35, 12:40, 17:25 = 1.604 visitas). Los de 20:35 y 23:30 aún no salen. El viral del 29 oct ("5 frases que te hacen perder dinero", 2.166) ya queda fuera de la ventana de 7 días.
-- **Nuevo hit**: "3 estafas a vendedores en Vinted 🚩" (5 nov 09:35) → 1.036 visitas en 23 h. Con "si Vinted te manda este aviso, para 🚫" (1.625) son los 2 mejores: **riesgo/aviso concreto con número y emoji 🚩/🚫, a las 09:30**.
-- **17:30 se ha caído**: los 3 últimos (favoritos 334, título 295, devolución 297) no pasan de 340. Tienen muchos me gusta (24-34 por 1.000) pero la portada error→solución suave no frena el scroll. La única de 17:30 que funcionó fue "por esto tu precio espanta (y no es que sea caro)" (804): culpa directa + giro.
-- **Comentarios casi a cero**: 8 en 33 carruseles y **0 en los 8 últimos (4-5 nov)**. Los que comentan responden a preguntas cerradas con opciones: "¿qué tamaño pones tú?" (2), "¿cuál hacías tú? 1, 2 o 3" (1), "¿alguna vez te han pedido Bizum?" (1). Las preguntas tipo "¿te ha pasado alguna?", "¿lo sabías?", "¿a ti te ha pasado?" dan 0.
+**Actualizado: 7 nov 2026** (Metricool, 31 oct 08:40 - 7 nov 08:40, solo carruseles PHOTO con más de 12 h; hora de Metricool en UTC pasada a Madrid; emparejados por hora + caption con historial.json y los guion.json de `salida/`). **32 carruseles medibles: 14.548 visitas, 124 me gusta (8,5 por 1.000), 10 comentarios (0,7 por 1.000), 5 compartidos.**
+- ⚠️ Del 6 nov Metricool solo trae 2 de 5 (09:40 = 231 y 12:45 = 92 → **323 visitas**). Los de 17:25, 20:30 y 23:40 aún no salen. Los del 30 oct ya quedan fuera de la ventana.
+- **Sorpresa: "me abrieron una devolución y la gané (así)" (5 nov 17:25) pasó de 297 visitas a las 15 h a 1.186 a las 39 h** (2 compartidos, 11 me gusta por 1.000). Arrancó lento y TikTok lo empujó al día siguiente. Molde que funciona: **historia propia de un problema real de Vinted + "y lo gané/lo arreglé (así)"**. Ayer se dijo que esta portada era "suave": era falso, hay que esperar 36-48 h antes de juzgar.
+- **Riesgo concreto sigue arriba**: "si Vinted te manda este aviso, para 🚫" (1.642) y "3 estafas a vendedores en Vinted 🚩" (1.314). Pero **"¿cuenta nueva en Vinted? lee esto antes 🚫" (6 nov) solo 231 en 23 h**: tema repetido (cuenta nueva ya salió el 1 nov) y sin número ni cosa concreta.
+- **12:30 se ha hundido**: "lo que compro a menos de 15€…" (6 diap.) **92 visitas en 20 h**, el peor de la semana. La compra→venta media 233 visitas (3).
+- **Comentarios**: 10 en 32. Los mejores siguen siendo preguntas cerradas con opciones ("¿qué tamaño pones tú?" 2 = 5,2 por 1.000; "¿cuál hacías tú? 1, 2 o 3" 1). Abiertas tipo "¿te ha pasado alguna?", "¿te han abierto alguna?" dan 0 aunque el carrusel pase de 1.000.
 
 | Carrusel (portada real) | Formato | Hora | Diap. | Visitas | Com. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|---|
-| si Vinted te manda este aviso, para 🚫 | riesgo concreto | 2 nov 09:35 | 5 | 1.625 | 1 | 0,6 | 5,5 |
-| 3 estafas a vendedores en Vinted 🚩 (23 h) | riesgo concreto | 5 nov 09:35 | 5 | 1.036 | 0 | 0 | 5,8 |
-| por esto tu precio espanta (y no es que sea caro) | error→solución | 2 nov 17:25 | 5 | 804 | 1 | 1,2 | 11,2 |
-| lo que necesitas para revender en serio | lista | 30 oct 09:40 | 5 | 640 | 0 | 0 | 9,4 |
-| te escriben pero no te compran 😩 | error→solución | 30 oct 17:30 | 5 | 602 | 0 | 0 | 3,3 |
+| si Vinted te manda este aviso, para 🚫 | riesgo concreto | 2 nov 09:35 | 5 | 1.642 | 1 | 0,6 | 5,5 |
+| 3 estafas a vendedores en Vinted 🚩 | riesgo concreto | 5 nov 09:35 | 5 | 1.314 | 0 | 0 | 5,3 |
+| me abrieron una devolución y la gané (así) | confesión + solución | 5 nov 17:25 | 5 | 1.186 | 0 | 0 | 11,0 |
+| por esto tu precio espanta (y no es que sea caro) | error→solución | 2 nov 17:25 | 5 | 812 | 1 | 1,2 | 11,1 |
 | nunca hagas esto con una cuenta nueva de Vinted 🚫 | riesgo de cuenta | 1 nov 12:30 | 5 | 584 | 1 | 1,7 | 3,4 |
-| por qué te regatean tanto | error→solución | 1 nov 17:35 | 5 | 534 | 0 | 0 | 15,0 |
-| zapatillas por menos de 30€ que se venden solas | compra→venta | 30 oct 12:35 | 5 | 478 | 0 | 0 | 16,7 |
-| 3 cosas que NO compraría para revender en noviembre | lista negativa | 2 nov 20:35 | 5 | 473 | 1 | 2,1 | 2,1 |
+| por qué te regatean tanto | error→solución | 1 nov 17:35 | 5 | 535 | 0 | 0 | 15,0 |
+| 3 cosas que NO compraría para revender en noviembre | lista negativa | 2 nov 20:35 | 5 | 475 | 1 | 2,1 | 2,1 |
+| esto puede costarte la cuenta de Vinted 🚫 | riesgo genérico | 3 nov 09:40 | 5 | 446 | 1 | 2,2 | 4,5 |
 | si este mes subes 1 prenda al día… | reflexión | 1 nov 23:30 | 5 | 443 | 0 | 0 | 0 |
-| esto puede costarte la cuenta de Vinted 🚫 | riesgo genérico | 3 nov 09:40 | 5 | 442 | 1 | 2,3 | 4,5 |
+| cosas que nadie te dice de revender | lista/aprendizajes | 5 nov 20:35 | 6 | 412 | 1 | 2,4 | 9,7 |
 | 5 cosas que puedes revender con menos de 50€ | lista | 1 nov 09:40 | 7 | 412 | 0 | 0 | 4,9 |
-| nadie te va a aplaudir cuando empieces | motivación | 30 oct 23:30 | 5 | 411 | 0 | 0 | 29,2 |
-| ¿quién paga el envío en Vinted? | dinero en Vinted | 2 nov 12:40 | 5 | 383 | 2 | 5,2 | 13,1 |
-| ¿cuánto te quita Vinted de cada venta? | dinero en Vinted | 4 nov 09:30 | 5 | 367 | 0 | 0 | 19,1 |
-| mitad de semana. ¿cuántas has subido? | reflexión | 4 nov 23:25 | 4 | 365 | 0 | 0 | 5,5 |
+| mitad de semana. ¿cuántas has subido? | reflexión | 4 nov 23:25 | 4 | 394 | 0 | 0 | 7,6 |
+| ¿quién paga el envío en Vinted? | dinero en Vinted | 2 nov 12:40 | 5 | 385 | 2 | 5,2 | 13,0 |
+| ¿cuánto te quita Vinted de cada venta? | dinero en Vinted | 4 nov 09:30 | 5 | 370 | 0 | 0 | 18,9 |
+| 20 favoritos y nadie compra 😩 | error→solución | 3 nov 17:20 | 5 | 338 | 1 | 3,0 | 23,7 |
 | llevas meses diciendo «el lunes empiezo» | reflexión | 2 nov 23:30 | 4 | 335 | 0 | 0 | 3,0 |
-| 20 favoritos y nadie compra 😩 | error→solución | 3 nov 17:20 | 5 | 334 | 1 | 3,0 | 24,0 |
-| marcas que suben de precio en invierno | lista de marcas | 4 nov 12:35 | 6 | 321 | 0 | 0 | 15,6 |
-| 2023 vs 2026 (meme) | antes/ahora | 3 nov 23:35 | 4 | 320 | 0 | 0 | 9,4 |
+| mi primer pedido a un proveedor salió mal | confesión | 4 nov 20:40 | 5 | 333 | 0 | 0 | 6,0 |
+| marcas que suben de precio en invierno | lista de marcas | 4 nov 12:35 | 6 | 326 | 0 | 0 | 15,3 |
+| 2023 vs 2026 (meme) | antes/ahora | 3 nov 23:35 | 4 | 321 | 0 | 0 | 9,3 |
 | lo que más se mueve cuando llega el frío | compra→venta | 3 nov 12:45 | 5 | 311 | 0 | 0 | 12,9 |
 | si empezara hoy con 50€, haría esto | plan | 31 oct 20:30 | 6 | 310 | 0 | 0 | 6,5 |
-| mi primer pedido a un proveedor salió mal | confesión | 4 nov 20:40 | 5 | 309 | 0 | 0 | 6,5 |
 | preguntas que nunca debes hacerle a un proveedor | lista negativa | 31 oct 09:35 | 5 | 303 | 0 | 0 | 9,9 |
-| me abrieron una devolución y la gané (así) (15 h) | confesión/solución | 5 nov 17:25 | 5 | 297 | 0 | 0 | 33,7 |
-| nadie encuentra tu prenda (y es por el título) | error→solución | 4 nov 17:30 | 5 | 295 | 0 | 0 | 23,7 |
+| nadie encuentra tu prenda (y es por el título) | error→solución | 4 nov 17:30 | 5 | 298 | 0 | 0 | 23,5 |
+| tu primera venta no te hará rico | reflexión | 5 nov 23:30 | 4 | 295 | 1 | 3,4 | 3,4 |
+| qué vender la semana del Black Friday | compra→venta | 5 nov 12:40 | 5 | 295 | 0 | 0 | 20,3 |
 | sábado noche de revendedor (meme) | relatable | 31 oct 23:40 | 4 | 295 | 0 | 0 | 3,4 |
-| Pinterest te dice qué vas a vender | truco | 30 oct 20:40 | 5 | 288 | 0 | 0 | 13,9 |
-| proveedores de accesorios (parte 3) | serie proveedores | 1 nov 20:35 | 5 | 287 | 0 | 0 | 7,0 |
-| qué vender la semana del Black Friday (20 h) | compra→venta | 5 nov 12:40 | 5 | 271 | 0 | 0 | 22,1 |
-| proveedores de belleza (parte 4) | serie proveedores | 3 nov 20:30 | 5 | 264 | 0 | 0 | 3,8 |
+| proveedores de accesorios (parte 3) | serie proveedores | 1 nov 20:35 | 5 | 289 | 0 | 0 | 6,9 |
+| proveedores de belleza (parte 4) | serie proveedores | 3 nov 20:30 | 5 | 265 | 0 | 0 | 3,8 |
 | la 1ª foto decide si te compran 📸 | error→solución | 31 oct 17:25 | 6 | 256 | 0 | 0 | 0 |
 | proveedores de zapatillas (parte 2) | serie proveedores | 31 oct 12:45 | 5 | 245 | 0 | 0 | 12,2 |
+| ¿cuenta nueva en Vinted? lee esto antes 🚫 (23 h) | riesgo repetido | 6 nov 09:40 | 5 | 231 | 0 | 0 | 8,7 |
+| lo que compro a menos de 15€ y se vende rápido (20 h) | compra→venta | 6 nov 12:45 | 6 | 92 | 0 | 0 | 10,9 |
 
-- **Mejores 3 (visitas)**: "si Vinted te manda este aviso, para 🚫" (1.625, 1 com.), "3 estafas a vendedores en Vinted 🚩" (1.036, 0), "por esto tu precio espanta" (804, 1). **Por comentarios**: "¿quién paga el envío?" (5,2 por 1.000) y "20 favoritos y nadie compra" (3,0).
-- **Peores 3 (visitas, con más de 24 h)**: "proveedores de zapatillas (parte 2)" (245, 0), "la 1ª foto decide si te compran 📸" (256, 0), "proveedores de belleza (parte 4)" (264, 0). (Black Friday, 271, y devolución, 297, tienen menos de 24 h.)
-- **Por formato** (media / mediana de visitas): **riesgo de cuenta/estafas 922 / 810 (4; los 2 concretos 1.625 y 1.036, los 2 genéricos 584 y 442)**, error→solución 446 / 334 (7), listas y compra→venta 401 / 392 (8), dinero en Vinted 375 (2; muchos me gusta), reflexión/memes de noche 362 / 350 (6, muy estables), plan/confesión/truco 302 (3), **serie proveedores 265 (3; la peor, 0 comentarios)**.
-- **Por franja** (media / mediana): **09:30 → 689 / 442 (la mejor ahora)**, 17:30 → 446 / 334 (bajando), 12:30 → 370 / 321, 23:30 → 362 / 350, **20:30 → 322 / 299 (la peor 4 días seguidos)**. Ojo: el riesgo de cuenta casi siempre va a las 09:30, así que franja y formato van mezclados.
-- **Nº de diapositivas**: casi todo es de 5. 4 diap. (noche) 295-365, 6-7 diap. 256-412. Sin diferencia clara: quedarse en 5.
+- **Mejores 3 (visitas)**: "si Vinted te manda este aviso, para 🚫" (1.642, 1 com.), "3 estafas a vendedores en Vinted 🚩" (1.314, 0), "me abrieron una devolución y la gané (así)" (1.186, 0). **Por comentarios**: "¿quién paga el envío?" (5,2 por 1.000), "tu primera venta no te hará rico" (3,4) y "20 favoritos y nadie compra" (3,0).
+- **Peores 3 (visitas)**: "lo que compro a menos de 15€…" (92 en 20 h, 0), "¿cuenta nueva en Vinted? lee esto antes" (231 en 23 h, 0), "proveedores de zapatillas (parte 2)" (245, 0). Los dos primeros aún pueden subir (ver devolución), pero empiezan muy por debajo.
+- **Por formato** (media / mediana de visitas): **riesgo 843 / 584 (5; los concretos 1.642 y 1.314, los genéricos/repetidos 446 y 231)**, **confesión + solución 1.186 (1)**, error→solución 448 / 338 (5), listas 379-412, dinero en Vinted 378 (2), reflexión/memes de noche 347 / 328 (6, estables), confesión sin solución/plan 310-333, **serie proveedores 266 (3, la peor junto a compra→venta 233)**.
+- **Por franja** (media / mediana): **09:30 → 674 / 412**, **17:30 → 571 / 436 (recuperada gracias a la devolución)**, 20:30 → 347 / 322, 23:30 → 347 / 328, **12:30 → 320 / 311 (la peor ahora)**. Franja y formato siguen mezclados.
+- **Nº de diapositivas**: 5 diap. media 529 / mediana 370 (21); **6 diap. 279 / 310 (5)**; 4 diap. (noche) 328. Quedarse en 5.
 - **Guía del CTA**: siempre "proveedores" (pack), no se puede comparar.
-- **Datos limitados**: 33 carruseles y dos virales mueven las medias. Son pistas, no reglas firmes.
+- **Datos limitados**: 32 carruseles y tres que pasan de 1.000 mueven las medias. Además los carruseles pueden despegar a las 36-48 h. Son pistas, no reglas firmes.
 
-**Reglas (basadas en 33 carruseles)**
-1. **Repite más el riesgo/aviso CONCRETO con número + 🚩/🚫 a las 09:30** ("3 estafas a vendedores en Vinted 🚩", "si Vinted te manda este aviso, para 🚫"). Nombra la estafa, el aviso o el mensaje exacto. Evita la amenaza genérica ("esto puede costarte la cuenta", 442).
-2. **A las 17:30, error→solución solo con culpa directa y giro** ("por esto tu precio espanta (y no es que sea caro)", 804). Evita portadas suaves o de consejo ("nadie encuentra tu prenda", "la 1ª foto decide", "me abrieron una devolución y la gané"): gustan pero no frenan (≤340).
-3. **Cierre con pregunta cerrada de opciones** ("¿cuál hacías tú? 1, 2 o 3", "¿qué tamaño pones tú? S, M o L", "¿te han pedido Bizum? sí o no"). Evita "¿te ha pasado alguna?", "¿lo sabías?", "¿a ti te ha pasado?": 0 comentarios en los 8 últimos.
-4. **20:30 sigue siendo la peor franja y la serie proveedores la peor**: no programes la parte 7 después de las ya programadas (5 y 6). A las 20:30 mejor una lista negativa ("3 cosas que NO compraría…", 473, la mejor de esa hora).
-5. **Noche (23:30): reflexión/meme de 4 diap. es estable (~350)**; mantener, sin gastar ahí ganchos fuertes. No repetir en 7 días un tema ya publicado/programado (estafas: 5 nov; avisos: 2 nov; favoritos: 3 nov). Siguen fuera Navidad y "primera venta/primer mes".
+**Reglas (basadas en 32 carruseles)**
+1. **Repite más el riesgo/aviso CONCRETO con número + 🚩/🚫 a las 09:30** (molde de 1.642 y 1.314). Nombra la estafa, el aviso o el mensaje exacto. **Evita repetir un tema de riesgo en menos de 7 días** ("cuenta nueva" repetido: 231) y la amenaza genérica.
+2. **A las 17:30, historia propia de un problema de Vinted + cómo lo resolví** ("me abrieron una devolución y la gané (así)", 1.186) **o culpa directa con giro** ("por esto tu precio espanta (y no es que sea caro)", 812). Evita el consejo plano sin historia ni culpa ("nadie encuentra tu prenda", "la 1ª foto decide": ≤300).
+3. **12:30: deja la compra→venta/listas de precios** (233 de media, 92 el último). Pon ahí "dinero en Vinted" con pregunta cerrada ("¿quién paga el envío?", 385 y el que más comenta) o un riesgo concreto secundario (584 a las 12:30).
+4. **Siempre 5 diapositivas** (6 diap. rinden la mitad). Cierre con pregunta cerrada de opciones ("¿cuál hacías tú? 1, 2 o 3", "¿S, M o L?", "¿sí o no?"). Evita "¿te ha pasado alguna?", "¿te han abierto alguna?", "¿lo sabías?": 0 comentarios incluso con más de 1.000 visitas.
+5. **No juzgar un carrusel antes de 36-48 h** ni copiar/descartar un molde solo por las primeras horas. Serie proveedores sigue siendo la peor (266): no programar la parte 7. A las 23:30, reflexión/meme de 4 diap. (estable ~330). Siguen fuera Navidad y "primera venta/primer mes".
 
 **Temas/ganchos a priorizar los próximos días** (no están en lo ya programado hasta el 8 nov)
-1. "si Vinted te oculta un artículo, haz esto 🚫" (aviso concreto, molde del de 1.625; 09:30).
-2. "3 mensajes de «Vinted» que son falsos 🚩" (estafas por correo/WhatsApp, molde del de 1.036; 09:30, a partir del 12 nov).
-3. "4 frases que te hacen perder ventas en Vinted 💸" (lista negativa de frases, molde del viral de 2.166; 17:30).
-4. "por esto te regatean (y no es tu precio) 💸" (culpa directa + giro, molde del de 804; 17:30). Cierre: "¿cuánto te suelen ofrecer? ¿la mitad, un 30% o un 10%?".
-5. "las marcas que menos se venden en Vinted (y cuáles sí)" (12:30, cierre "¿cuál vendes tú? 1, 2 o 3").
+1. "si Vinted te oculta un artículo, haz esto 🚫" (aviso concreto, molde del de 1.642; 09:30).
+2. "3 mensajes de «Vinted» que son falsos 🚩" (estafas por correo/WhatsApp, molde del de 1.314; 09:30, a partir del 12 nov).
+3. "me retuvieron un pago en Vinted y lo recuperé (así) 💸" (historia + solución, molde del de 1.186; 17:30). Cierre: "¿te ha tardado más de 3 días? sí o no".
+4. "por esto te regatean (y no es tu precio) 💸" (culpa directa + giro, molde del de 812; 17:30). Cierre: "¿cuánto te suelen ofrecer? ¿la mitad, un 30% o un 10%?".
+5. "¿quién paga si el paquete llega roto? 📦" (dinero en Vinted con opciones, molde de "¿quién paga el envío?"; 12:30). Cierre: "¿tú, el comprador o Vinted?".
