@@ -115,61 +115,55 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 10 nov 2026** (Metricool, 3 nov 08:42 - 10 nov 08:42 Madrid, solo carruseles PHOTO con más de 12 h; hora de Metricool en UTC +1 = Madrid). **27 carruseles medibles: 14.585 visitas, 113 me gusta (7,7 por 1.000), 8 comentarios (0,55 por 1.000), 6 compartidos.** (Los del 2 nov ya salen de la ventana.)
-- 🚨 **No se ha publicado nada desde el 8 nov 12:35**: en Metricool no aparecen los del 8 nov 17:30, 20:40 y 23:35, no hay ninguno del 9 ni del 10 nov, y **no hay nada programado** hasta el 17 nov. historial.json acaba el 8 nov 23:35 (el plan semanal llegaba solo hasta ahí). `salida/2026-11-08_2040` está vacía y `salida/2026-11-08_2335` no existe. **Hay que generar y programar la semana nueva ya.**
-- ⚠️ **Corrección de ayer**: "3 cosas que Vinted no te deja vender 🚫" tenía 163 visitas en 23 h y lo llamé el peor; **ahora tiene 2.401 y es el mejor de la semana**. Los carruseles siguen creciendo 2-4 días (devolución 1.580→1.770, "3 frases" 403→635, domingo →675). **No juzgues nada con menos de 48 h.**
-- **Patrón que se mantiene**: todo lo que pasa de 1.000 es **riesgo de Vinted con cosas CONCRETAS en lista a las 09:30** ("3 cosas que no te deja vender" 2.401, "3 estafas a vendedores" 1.463) o **historia propia + cómo lo resolví a las 17:30** ("me abrieron una devolución y la gané" 1.770). El resto se queda en 300-680.
-- **El riesgo vago sigue sin funcionar**: "esto puede costarte la cuenta" 452, "¿cuenta nueva? lee esto antes" 306. La diferencia es "3 + cosas concretas" frente a "cuidado en general".
-- **Comentarios**: solo 8 en 27. El único con 2 es "3 frases que hacen que te compren" → cierre "¿cuál pones tú?" (3,1 por 1.000). Los de 1.400-2.400 visitas sacan 0-1 comentario con "¿lo sabías?" / "¿te ha pasado alguna?" / "¿te han abierto alguna?".
+**Actualizado: 11 nov 2026** (Metricool, 4 nov 08:42 - 11 nov 08:42 Madrid, solo carruseles PHOTO con más de 12 h; hora de Metricool en UTC +1 = Madrid). **22 carruseles medibles: 13.316 visitas, 95 me gusta (7,1 por 1.000), 6 comentarios (0,45 por 1.000), 6 compartidos.** (Los del 3 nov ya salen de la ventana.)
+- 🚨 **Tercer día sin publicar: lo último que salió es del 8 nov 12:35.** Ayer (10 nov) = **0 visitas nuevas**. No hay nada programado en Metricool del 11 al 20 nov y historial.json acaba el 8 nov 23:35 (17:30, 20:40 y 23:35 del 8 nov nunca salieron). **Prioridad absoluta del agente: generar y programar la semana nueva antes que cualquier otra cosa.**
+- **Los carruseles siguen creciendo días después**: "3 cosas que Vinted no te deja vender" 2.401→2.521, "devolución" 1.770→1.893, "domingo" 675→732, "3 frases" 635→693. Confirmado: no juzgues nada con menos de 48 h.
+- **El patrón se mantiene sin cambios** (no hay datos nuevos): lo que pasa de 1.000 es **riesgo de Vinted en lista CONCRETA a las 09:30** o **historia propia + cómo lo resolví a las 17:30**. Todo lo demás se queda en 270-730.
+- **Comentarios**: 6 en 22. Solo "3 frases que hacen que te compren" ("¿cuál pones tú?") saca 2 (2,9 por 1.000). Los grandes (1.500-2.500 visitas) sacan 0-1 con "¿lo sabías?" / "¿te han abierto alguna?" / "¿te ha pasado alguna?".
 
 | Carrusel (portada) | Formato | Hora | Diap. | Visitas | Com. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|---|
-| 3 cosas que Vinted no te deja vender 🚫 | riesgo concreto (lista) | 8 nov 09:40 | 5 | 2.401 | 1 | 0,4 | 1,2 |
-| me abrieron una devolución y la gané | historia + solución | 5 nov 17:25 | 5 | 1.770 | 0 | 0 | 8,5 |
-| 3 estafas a vendedores en Vinted 🚩 | riesgo concreto (lista) | 5 nov 09:35 | 5 | 1.463 | 0 | 0 | 4,8 |
-| el domingo es el mejor día para subir | lista (qué subir) | 8 nov 12:35 | 5 | 675 | 1 | 1,5 | 13,3 |
-| 3 frases que hacen que te compren | lista | 7 nov 17:20 | 5 | 635 | 2 | 3,1 | 6,3 |
+| 3 cosas que Vinted no te deja vender 🚫 | riesgo concreto (lista) | 8 nov 09:40 | 5 | 2.521 | 1 | 0,4 | 1,2 |
+| me abrieron una devolución y la gané | historia + solución | 5 nov 17:25 | 5 | 1.893 | 0 | 0 | 7,9 |
+| 3 estafas a vendedores en Vinted 🚩 | riesgo concreto (lista) | 5 nov 09:35 | 5 | 1.491 | 0 | 0 | 4,7 |
+| el domingo es el mejor día para subir | lista (qué subir) | 8 nov 12:35 | 5 | 732 | 1 | 1,4 | 12,3 |
+| 3 frases que hacen que te compren | lista con frases exactas | 7 nov 17:20 | 5 | 693 | 2 | 2,9 | 5,8 |
 | cosas que nadie te dice de revender | aprendizajes | 5 nov 20:35 | 6 | 482 | 1 | 2,1 | 8,3 |
-| esto puede costarte la cuenta de Vinted 🚫 | riesgo genérico | 3 nov 09:40 | 5 | 452 | 1 | 2,2 | 4,4 |
-| ¿cuándo te paga Vinted de verdad? | dinero en Vinted | 7 nov 09:35 | 5 | 404 | 0 | 0 | 2,5 |
+| ¿cuándo te paga Vinted de verdad? | dinero en Vinted | 7 nov 09:35 | 5 | 406 | 0 | 0 | 2,5 |
 | mitad de semana. ¿cuántas has subido? | reflexión | 4 nov 23:25 | 4 | 404 | 0 | 0 | 7,4 |
-| ¿cuánto te quita Vinted de cada venta? | dinero en Vinted | 4 nov 09:30 | 5 | 383 | 0 | 0 | 18,3 |
-| si tuviera 100€ y un mes, haría esto | plan | 7 nov 20:35 | 6 | 359 | 0 | 0 | 8,4 |
-| Vinted o Wallapop: dónde vendo cada cosa | comparación | 7 nov 12:40 | 5 | 355 | 0 | 0 | 2,8 |
-| viernes noche (meme) | relatable | 6 nov 23:40 | 4 | 352 | 0 | 0 | 11,4 |
-| ¿haces las fotos por la noche? ojo | error→solución | 6 nov 17:25 | 5 | 348 | 0 | 0 | 5,7 |
-| 20 favoritos y nadie compra 😩 | error→solución | 3 nov 17:20 | 5 | 346 | 1 | 2,9 | 23,1 |
+| ¿cuánto te quita Vinted de cada venta? | dinero en Vinted | 4 nov 09:30 | 5 | 386 | 0 | 0 | 18,1 |
+| si tuviera 100€ y un mes, haría esto | plan | 7 nov 20:35 | 6 | 373 | 0 | 0 | 8,0 |
+| Vinted o Wallapop: dónde vendo cada cosa | comparación | 7 nov 12:40 | 5 | 369 | 0 | 0 | 2,7 |
+| viernes noche (meme) | relatable | 6 nov 23:40 | 4 | 357 | 0 | 0 | 11,2 |
+| ¿haces las fotos por la noche? ojo | error→solución | 6 nov 17:25 | 5 | 352 | 0 | 0 | 5,7 |
 | mi primer pedido a un proveedor salió mal | confesión | 4 nov 20:40 | 5 | 345 | 0 | 0 | 5,8 |
-| marcas que suben de precio en invierno | lista de marcas | 4 nov 12:35 | 6 | 338 | 0 | 0 | 14,8 |
-| tu primera venta no te hará rico | reflexión | 5 nov 23:30 | 4 | 336 | 1 | 3,0 | 3,0 |
-| lo que compro a menos de 15€ y se vende rápido | compra→venta | 6 nov 12:45 | 6 | 328 | 0 | 0 | 21,3 |
-| 2023 vs 2026 (meme) | antes/ahora | 3 nov 23:35 | 4 | 325 | 0 | 0 | 9,2 |
-| lo que más se mueve cuando llega el frío | compra→venta | 3 nov 12:45 | 5 | 318 | 0 | 0 | 12,6 |
-| sábado noche y sigues pensando en tu negocio | reflexión | 7 nov 23:30 | 4 | 314 | 0 | 0 | 0 |
+| marcas que suben de precio en invierno | lista de marcas | 4 nov 12:35 | 6 | 339 | 0 | 0 | 14,7 |
+| tu primera venta no te hará rico | reflexión | 5 nov 23:30 | 4 | 337 | 1 | 3,0 | 3,0 |
+| lo que compro a menos de 15€ y se vende rápido | compra→venta | 6 nov 12:45 | 6 | 331 | 0 | 0 | 21,1 |
+| sábado noche y sigues pensando en tu negocio | reflexión | 7 nov 23:30 | 4 | 319 | 0 | 0 | 0 |
 | nadie encuentra tu prenda (y es por el título) | error→solución | 4 nov 17:30 | 5 | 307 | 0 | 0 | 22,8 |
 | ¿cuenta nueva en Vinted? lee esto antes 🚫 | riesgo genérico | 6 nov 09:40 | 5 | 306 | 0 | 0 | 13,1 |
-| qué vender la semana del Black Friday | compra→venta | 5 nov 12:40 | 5 | 305 | 0 | 0 | 19,7 |
-| proveedores de belleza (parte 4) | serie proveedores | 3 nov 20:30 | 5 | 268 | 0 | 0 | 3,7 |
-| proveedores de tecnología (parte 5) | serie proveedores | 6 nov 20:30 | 5 | 266 | 0 | 0 | 0 |
+| qué vender la semana del Black Friday | compra→venta | 5 nov 12:40 | 5 | 306 | 0 | 0 | 19,6 |
+| proveedores de tecnología (parte 5) | serie proveedores | 6 nov 20:30 | 5 | 267 | 0 | 0 | 0 |
 
-- **Mejores 3 (visitas)**: "3 cosas que Vinted no te deja vender 🚫" (2.401, 1 com.), "me abrieron una devolución y la gané" (1.770, 0 com., 15 me gusta, 2 compartidos), "3 estafas a vendedores en Vinted 🚩" (1.463, 0). **Por comentarios**: "3 frases que hacen que te compren" (2, 3,1 por 1.000).
-- **Peores 3 (visitas)**: "proveedores de tecnología (parte 5)" (266, 0 com., 0 me gusta), "proveedores de belleza (parte 4)" (268, 0), "qué vender la semana del Black Friday" (305, 0).
-- **Por formato** (media): riesgo concreto en lista 1.932 (2) vs **riesgo genérico 379 (2)**; historia + solución 1.770 (1); listas útiles 635-675 (2); aprendizajes 482; dinero en Vinted 394 (2); reflexión/memes de noche 346 (5); error→solución plano 334 (3); compra→venta 317 (3); **serie proveedores 267 (2, la peor)**.
-- **Por franja** (media / mediana): 09:30 → 902 / 428; 17:30 → 681 / 348; 12:30 → 386 / 333; 23:30 → 346 / 336; 20:30 → 344 / 345 (la peor esta semana, la de la serie de proveedores).
-- **Nº de diapositivas**: 5 diap. (18) media 630 / mediana 352; 6 diap. (4) 377; 4 diap. (5, noche) 346. Seguir en 5.
+- **Mejores 3 (visitas)**: "3 cosas que Vinted no te deja vender 🚫" (2.521, 1 com.), "me abrieron una devolución y la gané" (1.893, 0 com., 15 me gusta, 2 compartidos), "3 estafas a vendedores en Vinted 🚩" (1.491, 0). **Por comentarios**: "3 frases que hacen que te compren" (2, 2,9 por 1.000).
+- **Peores 3 (visitas)**: "proveedores de tecnología (parte 5)" (267, 0 com., 0 me gusta), "qué vender la semana del Black Friday" (306, 0), "¿cuenta nueva en Vinted? lee esto antes" (306, 0).
+- **Por formato** (media): riesgo concreto en lista 2.006 (2) vs riesgo genérico 306 (1); historia + solución 1.893 (1); listas útiles 693-732 (2); aprendizajes 482; dinero en Vinted 396 (2); reflexión/memes de noche 354 (4); error→solución plano 330 (2); compra→venta 319 (2); serie proveedores 267 (1, la peor).
+- **Por franja** (media / mediana): 09:30 → 1.022 / 406; 17:30 → 811 / 523; 12:30 → 415 / 339; 20:30 → 367 / 359; 23:30 → 354 / 347.
+- **Nº de diapositivas**: 5 diap. (14) media 741 / mediana 378; 6 diap. (4) 381; 4 diap. (4, noche) 354. Seguir en 5.
 - **Guía del CTA**: siempre "proveedores" (pack), no se puede comparar.
-- **Datos limitados**: 27 carruseles y tres grandes mueven las medias. Pistas, no leyes; pero el patrón 09:30 riesgo concreto / 17:30 historia se repite cuatro días seguidos.
+- **Datos limitados**: 22 carruseles, sin datos nuevos desde el 8 nov, y tres grandes mueven las medias. Pistas, no leyes.
 
-**Reglas (basadas en 27 carruseles)**
-1. **09:30 = riesgo de Vinted en lista CONCRETA**: "3 cosas/3 estafas/3 avisos" con cada cosa nombrada (molde de 2.401 y 1.463) + 🚫/🚩. Prohibido el riesgo vago sin lista ("esto puede costarte la cuenta" 452, "cuenta nueva" 306) y repetir un riesgo de los últimos 7 días.
-2. **17:30 = historia propia de un problema + cómo lo resolví** ("me abrieron una devolución y la gané", 1.770). El consejo plano (título, fotos de noche, favoritos) se queda en ~330; si es consejo, que sea lista con frases exactas ("3 frases que hacen que te compren", 635).
-3. **Cierra con "¿cuál/qué ___ pones tú?" o con 2-3 opciones para elegir** (el único con 2 comentarios). Prohibido "¿lo sabías?", "¿te ha pasado alguna?", "¿te han abierto alguna?", "¿con cuál empezarías?".
-4. **Fuera la serie de proveedores como catálogo** (267 de media, la peor). A las 20:30: aprendizajes propios ("lo que nadie te dice", 482) o lista negativa ("lo que NO compraría").
-5. **No juzgues un carrusel antes de 48 h** (crecen 2-4 días) y **mantén la cola programada**: si en Metricool no hay nada para mañana, genera y programa antes de cualquier otra cosa.
+**Reglas (basadas en 22 carruseles)**
+1. **Mantén la cola programada**: si en Metricool no hay nada para hoy y mañana, genera y programa antes que cualquier otra cosa. Llevamos 3 días sin publicar.
+2. **09:30 = riesgo de Vinted en lista CONCRETA** ("3 cosas/3 estafas/3 avisos" con cada cosa nombrada + 🚫/🚩). Evita el riesgo vago ("cuenta nueva, lee esto", 306) y repetir un riesgo de los últimos 7 días.
+3. **17:30 = historia propia de un problema + cómo lo resolví** (molde de la devolución, 1.893). Si es consejo, que sea lista con frases exactas ("3 frases", 693), nunca consejo plano (~330).
+4. **Cierra con "¿cuál/qué ___ pones tú?" o con 2-3 opciones para elegir** (único con 2 comentarios). Evita "¿lo sabías?", "¿te ha pasado alguna?", "¿te han abierto alguna?", "¿con cuál empezarías?".
+5. **Fuera la serie de proveedores como catálogo** (267, la peor). A las 20:30: aprendizajes propios ("lo que nadie te dice", 482) o lista negativa ("lo que NO compraría").
 
 **Temas/ganchos a priorizar los próximos días** (ninguno está en historial.json)
-1. "3 mensajes de «Vinted» que son falsos 🚩" (estafas por correo/WhatsApp con el texto real; 09:30). Cierre: "¿cuál te ha llegado: 1, 2 o 3?".
-2. "3 cosas que hacen que Vinted te oculte un artículo 🚫" (riesgo concreto en lista; 09:30). Cierre: "¿cuál haces tú: 1, 2 o 3?".
-3. "me retuvieron un pago en Vinted y lo recuperé (así) 💸" (historia + solución; 17:30). Cierre: "¿cuántos días te ha tardado a ti?".
-4. "un comprador dijo que no le llegó y gané igual (así) 📦" (historia + solución; 17:30). Cierre: "¿envías con Correos, InPost o Seur?".
-5. "3 cosas que pongo en la descripción para que no me devuelvan nada ✍️" (lista con frases exactas, el molde de "3 frases"; 12:30 o 20:30). Cierre: "¿cuál pones tú?".
+1. "3 mensajes de «Vinted» que son falsos 🚩" (09:30). Cierre: "¿cuál te ha llegado: 1, 2 o 3?".
+2. "3 cosas que hacen que Vinted te oculte un artículo 🚫" (09:30). Cierre: "¿cuál haces tú: 1, 2 o 3?".
+3. "me retuvieron un pago en Vinted y lo recuperé (así) 💸" (17:30). Cierre: "¿cuántos días te ha tardado a ti?".
+4. "un comprador dijo que no le llegó y gané igual (así) 📦" (17:30). Cierre: "¿envías con Correos, InPost o Seur?".
+5. "3 cosas que pongo en la descripción para que no me devuelvan nada ✍️" (12:30 o 20:30). Cierre: "¿cuál pones tú?".
