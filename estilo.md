@@ -115,11 +115,11 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 13 nov 2026** (Metricool, 6 nov 08:42 - 13 nov 08:42 Madrid, solo carruseles PHOTO con más de 12 h; hora de Metricool en UTC +1 = Madrid). **12 carruseles medibles: 7.220 visitas, 41 me gusta (5,7 por 1.000), 4 comentarios (0,55 por 1.000), 2 compartidos.** (Los del 5 nov, incluidos "devolución" 2.033 y "3 estafas" 1.523, ya salen de la ventana.)
-- 🚨 **Quinto día sin publicar: lo último que salió en TikTok es del 8 nov 12:35.** Ayer (12 nov) = **0 carruseles nuevos, 0 visitas nuevas**. Metricool no tiene NADA programado del 13 al 20 nov y historial.json sigue acabando el 8 nov 23:35 (los del 8 nov 17:30, 20:40 y 23:35 quedaron "TikTok pendiente (límite 30 programados)" y nunca salieron). El martes 17 la ventana de 7 días se queda vacía. **Prioridad absoluta del agente: generar y programar la semana nueva antes que cualquier otra cosa.**
-- **Los datos ya casi no se mueven**: "3 cosas que Vinted no te deja vender" 2.590→2.600, "domingo" 768→779, "3 frases" 711→713. No hay nada nuevo que aprender hasta que se publique.
-- **El patrón no cambia**: lo que pasa de 1.000 es **riesgo de Vinted en lista CONCRETA a las 09:30** (y, fuera ya de la ventana, **historia propia + cómo lo resolví a las 17:30**: devolución 2.033). Todo lo demás se queda en 270-780.
-- **Comentarios**: 4 en 12. "3 frases que hacen que te compren" ("¿cuál pones tú?") saca 2 (2,8 por 1.000); "domingo" y "3 cosas" 1 cada uno; el resto 0.
+**Actualizado: 14 nov 2026** (Metricool, 7 nov 08:41 - 14 nov 08:41 Madrid, solo carruseles PHOTO con más de 12 h; hora de Metricool en UTC +1 = Madrid). **7 carruseles medibles: 5.588 visitas, 23 me gusta (4,1 por 1.000), 4 comentarios (0,72 por 1.000), 2 compartidos.** (Los del 6 nov ya salen de la ventana.)
+- 🚨 **Sexto día sin publicar: lo último que salió en TikTok es del 8 nov 12:35.** Ayer (13 nov) = **0 carruseles nuevos, 0 visitas nuevas**. Metricool no tiene NADA programado del 13 al 21 nov y historial.json sigue acabando el 8 nov 23:35. El domingo 15 a esta hora la ventana de 7 días queda casi vacía y el lunes 16 vacía del todo. **Prioridad absoluta del agente: generar y programar carruseles HOY antes que cualquier otra cosa.**
+- **Los números están congelados** (mismos valores que ayer). No hay nada nuevo que aprender hasta que se publique.
+- **El patrón no cambia**: lo único que pasa de 1.000 es **riesgo de Vinted en lista CONCRETA a las 09:30** (2.600). Las listas útiles con frases/acciones concretas quedan segundas (713-779). Todo lo demás 320-410.
+- **Comentarios**: 4 en 7. "3 frases que hacen que te compren" ("¿cuál pones tú?") saca 2; "domingo" y "3 cosas" 1 cada uno; el resto 0.
 
 | Carrusel (portada) | Formato | Hora | Diap. | Visitas | Com. | Com/1000 | MG/1000 |
 |---|---|---|---|---|---|---|---|
@@ -129,27 +129,22 @@ Varía también:
 | ¿cuándo te paga Vinted de verdad? | dinero en Vinted | 7 nov 09:35 | 5 | 411 | 0 | 0 | 2,4 |
 | si tuviera 100€ y un mes, haría esto | plan | 7 nov 20:35 | 6 | 383 | 0 | 0 | 10,4 |
 | Vinted o Wallapop: dónde vendo cada cosa | comparación | 7 nov 12:40 | 5 | 380 | 0 | 0 | 2,6 |
-| viernes noche (meme) | relatable | 6 nov 23:40 | 4 | 359 | 0 | 0 | 11,1 |
-| ¿haces las fotos por la noche? ojo | error→solución | 6 nov 17:25 | 5 | 355 | 0 | 0 | 5,6 |
-| lo que compro a menos de 15€ y se vende rápido | compra→venta | 6 nov 12:45 | 6 | 337 | 0 | 0 | 20,8 |
 | sábado noche y sigues pensando en tu negocio | reflexión | 7 nov 23:30 | 4 | 322 | 0 | 0 | 0 |
-| ¿cuenta nueva en Vinted? lee esto antes 🚫 | riesgo genérico | 6 nov 09:40 | 5 | 311 | 0 | 0 | 12,9 |
-| proveedores de tecnología (parte 5) | serie proveedores | 6 nov 20:30 | 5 | 270 | 0 | 0 | 3,7 |
 
-- **Mejores 3 (visitas)**: "3 cosas que Vinted no te deja vender 🚫" (2.600, 1 com.), "el domingo es el mejor día para subir" (779, 1 com., 9 me gusta), "3 frases que hacen que te compren" (713, 2 com.). **Por comentarios**: "3 frases" (2).
-- **Peores 3 (visitas)**: "proveedores de tecnología (parte 5)" (270, 0 com.), "¿cuenta nueva en Vinted? lee esto antes" (311, 0), "sábado noche y sigues pensando en tu negocio" (322, 0, 0 me gusta).
-- **Por formato** (media): riesgo concreto en lista 2.600 (1) vs riesgo genérico 311 (1); listas útiles 713-779 (2); dinero en Vinted 411; plan 383; comparación 380; error→solución plano 355; reflexión/memes de noche 341 (2); compra→venta 337; serie proveedores 270 (la peor).
-- **Por franja** (media): 09:30 → 1.107 (3); 17:30 → 534 (2); 12:30 → 499 (3); 23:30 → 341 (2); 20:30 → 327 (2).
-- **Nº de diapositivas**: 5 diap. (8) media 727; 6 diap. (2) 360; 4 diap. (2, noche) 341. Seguir en 5.
+- **Mejores 3 (visitas)**: "3 cosas que Vinted no te deja vender 🚫" (2.600, 1 com.), "el domingo es el mejor día para subir" (779, 1 com.), "3 frases que hacen que te compren" (713, 2 com.).
+- **Peores 3 (visitas)**: "sábado noche y sigues pensando en tu negocio" (322, 0 com., 0 me gusta), "Vinted o Wallapop" (380, 0), "si tuviera 100€ y un mes" (383, 0).
+- **Por formato**: riesgo concreto en lista 2.600; listas útiles 713-779; dinero en Vinted 411; plan 383; comparación 380; reflexión de noche 322 (la peor). Fuera de ventana (días anteriores): serie proveedores 270 y riesgo genérico 311 también abajo; historia propia + cómo lo resolví (devolución, 2.033) arriba.
+- **Por franja** (media): 09:30 → 1.506 (2); 17:30 → 713 (1); 12:30 → 580 (2); 20:30 → 383 (1); 23:30 → 322 (1).
+- **Nº de diapositivas**: 5 diap. (5) media 977; 6 diap. (1) 383; 4 diap. (1) 322. Seguir en 5.
 - **Guía del CTA**: siempre "proveedores" (pack), no se puede comparar.
-- **Datos limitados**: 12 carruseles, sin datos nuevos desde el 8 nov, y uno solo (2.600) mueve las medias. Pistas, no leyes.
+- **Datos muy limitados**: 7 carruseles de solo 2 días, sin datos nuevos desde el 8 nov, y uno solo (2.600) mueve las medias. Pistas, no leyes.
 
-**Reglas (basadas en 12 carruseles + los del 5 nov)**
-1. **Mantén la cola programada**: si en Metricool no hay nada para hoy y mañana, genera y programa antes que cualquier otra cosa. Llevamos 5 días sin publicar. Si Metricool da "límite 30 programados", programa menos días por adelantado en vez de dejar carruseles "pendientes".
-2. **09:30 = riesgo de Vinted en lista CONCRETA** ("3 cosas/3 estafas/3 avisos" con cada cosa nombrada + 🚫/🚩). Evita el riesgo vago ("cuenta nueva, lee esto", 311).
-3. **17:30 = historia propia de un problema + cómo lo resolví** (molde de la devolución, 2.033). Si es consejo, que sea lista con frases exactas ("3 frases", 713), nunca consejo plano (355).
-4. **Cierra con "¿cuál/qué ___ pones tú?" o con 2-3 opciones para elegir** (único con 2 comentarios). Evita "¿lo sabías?", "¿con cuál empezarías?", "¿dónde vendes más tú?".
-5. **Fuera la serie de proveedores como catálogo y las reflexiones de noche sin consejo** (270 y 322). A las 20:30/23:30: aprendizajes propios o lista negativa ("lo que NO compraría").
+**Reglas (basadas en 7 carruseles + los de días anteriores)**
+1. **Mantén la cola programada**: si en Metricool no hay nada para hoy y mañana, genera y programa antes que cualquier otra cosa. Llevamos 6 días sin publicar. Si Metricool da "límite 30 programados", programa menos días por adelantado en vez de dejar carruseles "pendientes".
+2. **09:30 = riesgo de Vinted en lista CONCRETA** ("3 cosas/3 estafas/3 avisos" con cada cosa nombrada + 🚫/🚩). Evita el riesgo vago ("cuenta nueva, lee esto").
+3. **17:30 = historia propia de un problema + cómo lo resolví** (molde devolución, 2.033) o lista con frases exactas ("3 frases", 713); nunca consejo plano.
+4. **Cierra con "¿cuál/qué ___ pones tú?" o con 2-3 opciones para elegir** (único con 2 comentarios). Evita "¿lo sabías?", "¿con cuánto empezarías?", "¿dónde vendes más tú?".
+5. **Fuera reflexiones de noche sin consejo, comparaciones Vinted/Wallapop y serie de proveedores como catálogo**. A las 20:30/23:30: aprendizajes propios o lista negativa ("lo que NO compraría").
 
 **Temas/ganchos a priorizar los próximos días** (ninguno está en historial.json)
 1. "3 mensajes de «Vinted» que son falsos 🚩" (09:30). Cierre: "¿cuál te ha llegado: 1, 2 o 3?".
