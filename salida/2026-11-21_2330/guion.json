@@ -1,0 +1,31 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "¿a qué hora subo a Vinted? (te lo digo al final)",
+   "foto": "aritz927_02.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "por la mañana no",
+   "texto": "la gente está trabajando o en clase",
+   "foto": "aritz927_32.jpg"
+  },
+  {
+   "titulo": "por la noche y el domingo",
+   "texto": "cuando tu comprador está en el sofá con el móvil. a mí es lo que mejor me va",
+   "foto": "aritz927_11.jpg"
+  },
+  {
+   "titulo": "¿a qué hora subes tú?",
+   "texto": "si te falta stock: comenta “{azul:proveedores}”",
+   "foto": "aritz927_05.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "¿a qué hora subo a Vinted? 🌙\n¿a qué hora subes tú?\n\ncomenta “proveedores” y te paso el link\n\n#vinted #trucosvinted #reventa #proveedores #fyp",
+ "tema": "pregunta con respuesta: cuándo subir",
+ "formato": "pregunta con respuesta al final",
+ "hora_publicacion": "2026-11-21 23:30",
+ "audio": "Maybe You (Muspace Lofi) — tendencia España"
+}

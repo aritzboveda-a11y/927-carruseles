@@ -1,0 +1,37 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "3 cosas de tu perfil que hacen que no te compren 🚩",
+   "caja": true,
+   "foto": "aritz927_32.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "1. sin foto de perfil ni descripción",
+   "texto": "parece cuenta falsa",
+   "foto": "aritz927_11.jpg"
+  },
+  {
+   "titulo": "2. 0 valoraciones",
+   "texto": "vende 2-3 cosas baratas primero para tenerlas",
+   "foto": "aritz927_13.jpg"
+  },
+  {
+   "titulo": "3. tardar un día en contestar",
+   "texto": "en ese tiempo ya han comprado otra",
+   "foto": "aritz927_23.jpg"
+  },
+  {
+   "titulo": "¿cuál te falta?",
+   "texto": "y si quieres stock: comenta “{verde:proveedores}”",
+   "foto": "aritz927_04.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "3 cosas de tu perfil de Vinted que hacen que no te compren 🚩\n¿cuál te falta?\n\nescribe “proveedores” y te digo cuáles uso 📦\n👉 Guías en el link de mi bio\n\n#vinted #perfilvinted #trucosvinted #proveedores #revenderropa",
+ "tema": "riesgo: perfil que da desconfianza",
+ "formato": "riesgo concreto (lista)",
+ "hora_publicacion": "2026-11-22 09:40",
+ "audio": "Neon Nights (Adrian Rover) — tendencia España"
+}

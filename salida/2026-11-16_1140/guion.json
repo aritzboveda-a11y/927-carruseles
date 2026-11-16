@@ -1,0 +1,37 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "3 mensajes de «Vinted» que son falsos 🚩",
+   "caja": true,
+   "foto": "aritz927_11.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "1. «verifica tu cuenta en este link»",
+   "texto": "Vinted no te manda links por WhatsApp ni SMS. nunca lo abras",
+   "foto": "aritz927_32.jpg"
+  },
+  {
+   "titulo": "2. «el comprador ya ha pagado, mete tu tarjeta»",
+   "texto": "para cobrar no tienes que meter nada. el dinero llega solo al monedero",
+   "foto": "aritz927_23.jpg"
+  },
+  {
+   "titulo": "3. «paga el seguro de envío para recibir el dinero»",
+   "texto": "eso no existe. si te lo piden, es estafa",
+   "foto": "aritz927_21.jpg"
+  },
+  {
+   "titulo": "¿cuál te ha llegado? 1, 2 o 3",
+   "texto": "y si quieres stock sin líos: comenta “{verde:proveedores}”",
+   "foto": "aritz927_05.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "3 mensajes de «Vinted» que son falsos 🚩\n¿cuál te ha llegado a ti? 1, 2 o 3\n\ncomenta “proveedores” y te digo cuáles uso 👇\n👉 Guías en el link de mi bio\n\n#vinted #estafasvinted #cuentavinted #proveedores #fyp",
+ "tema": "riesgo: mensajes falsos de Vinted",
+ "formato": "riesgo concreto (lista)",
+ "hora_publicacion": "2026-11-16 11:40",
+ "audio": "Neon Nights (Adrian Rover) — tendencia España"
+}

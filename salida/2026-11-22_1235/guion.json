@@ -1,0 +1,46 @@
+{
+ "plantilla": "pinterest",
+ "slides": [
+  {
+   "titulo": "lo que hago cada domingo en Vinted (10 min) 📲",
+   "sub": "(guárdalo)",
+   "foto": "aritz927_32.jpg",
+   "vinted": true
+  },
+  {
+   "titulo": "1. subo lo mejor de la semana",
+   "texto": "el domingo hay más gente mirando",
+   "foto": "aritz927_18.jpg"
+  },
+  {
+   "titulo": "2. mando ofertas a los favoritos",
+   "texto": "un 10 % menos. les llega aviso",
+   "foto": "aritz927_11.jpg"
+  },
+  {
+   "titulo": "3. cambio la 1ª foto de lo que no se mueve",
+   "foto": "aritz927_17.jpg"
+  },
+  {
+   "titulo": "4. preparo los envíos del lunes",
+   "texto": "bolsas y etiquetas listas",
+   "foto": "aritz927_34.jpg"
+  },
+  {
+   "titulo": "5. apunto qué se ha vendido",
+   "texto": "eso es lo que vuelvo a comprar",
+   "foto": "aritz927_09.jpg"
+  },
+  {
+   "titulo": "¿cuál haces ya?",
+   "texto": "dónde lo compro: comenta “{amarillo:proveedores}”",
+   "foto": "aritz927_05.jpg",
+   "guia": "pack"
+  }
+ ],
+ "caption": "lo que hago cada domingo en Vinted (10 min) 📲\n¿cuál haces ya?\n\ncomenta “proveedores” y te paso el link 👇\n👉 Guías en el link de mi bio\n\n#vinted #domingo #trucosvinted #proveedores #reventa",
+ "tema": "lista: checklist del domingo",
+ "formato": "lista qué hacer",
+ "hora_publicacion": "2026-11-22 12:35",
+ "audio": "Did It First instrumental (Ice Spice)"
+}
