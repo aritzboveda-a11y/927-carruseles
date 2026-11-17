@@ -115,22 +115,22 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 16 nov 2026** (Metricool, 9 nov 08:41 - 16 nov 08:42 Madrid, solo carruseles PHOTO con más de 12 h). **La ventana está VACÍA: 0 carruseles publicados en TikTok en los últimos 7 días, 0 visitas, 0 comentarios.** Los 2 últimos (8 nov) ya han salido de la ventana.
-- 🚨 **Octavo día sin publicar en TikTok: lo último es del 8 nov 12:35.** Ayer (15 nov) = 0 carruseles, 0 visitas. Metricool no tiene NADA programado del 16 al 23 nov y historial.json sigue acabando el 8 nov 23:35. **Prioridad absoluta del agente: generar y programar carruseles HOY antes que cualquier otra cosa.**
+**Actualizado: 17 nov 2026** (Metricool, 10 nov 08:42 - 17 nov 08:42 Madrid, solo carruseles PHOTO con más de 12 h). **La ventana está VACÍA: 0 carruseles publicados en TikTok en los últimos 7 días, 0 visitas, 0 comentarios.**
+- 🚨 **Noveno día sin publicar en TikTok: lo último es del 8 nov 12:35.** Ayer (16 nov) = 0 publicaciones, 0 visitas. Los 35 carruseles de la semana 16-22 nov están hechos (historial.json: "listo, sin programar (Aritz lo programa a mano)"), con instrucciones para Jarvis en `salida/JARVIS_programar_semana_2026-11-16.md`, pero Metricool no tiene NADA programado del 15 al 23 nov y TikTok no muestra ninguna publicación nueva. Los 5 del 16 nov ya pasaron sin salir.
 - **Mejores / peores**: no hay ningún carrusel medible esta semana, así que no hay top 3 ni peor 3. No se sacan conclusiones nuevas.
-- **Última referencia (ya fuera de ventana)**: mejores "cosas que Vinted no te deja vender 🚫" (2.615 visitas, 1 com.), "3 frases que hacen que te compren" (713, 2 com.), "lo que subo a Vinted los domingos" (806, 1 com., 12,4 MG/1000). Peores: "sábado noche y sigues pensando en tu negocio" 322, "Vinted o Wallapop" 380, "si tuviera 100€ y un mes" 383, todos con 0 com.
-- **Franja, nº de diapositivas y guía del CTA**: sin datos nuevos. Se mantienen las pistas anteriores (09:30 la mejor franja, 5 diapositivas, guía "pack").
+- **Última referencia (ya fuera de ventana, 25 oct - 8 nov)**: mejores "cosas que Vinted no te deja vender 🚫" (2.630 visitas, 1 com.), riesgo 16:20 del 29 oct (2.187, 0 com.), devoluciones 5 nov 16:25 (2.042, 0 com.), mensajes/estafas 09:30 (1.673 y 1.542). Peores: serie de proveedores "parte 3-6" (249-296, 0 com.) y reflexiones de noche (296-364, 0 com.).
+- **Franja, nº de diapositivas y guía del CTA**: sin datos nuevos. Se mantienen las pistas anteriores (09:30 y 16:30-17:30 las mejores franjas, 5 diapositivas, guía "pack").
 
 **Reglas (sin cambios: no hay datos nuevos)**
-1. **Mantén la cola programada**: si en Metricool no hay nada para hoy y mañana, genera y programa antes que cualquier otra cosa. Si Metricool da "límite 30 programados", programa menos días por adelantado (TikTok antes que Instagram) en vez de dejar carruseles "pendientes".
+1. **Publicar es lo primero**: un carrusel "listo, sin programar" no cuenta. Si en TikTok no ha salido nada en 24 h, el agente avisa a Aritz y, si él lo permite, programa en Metricool (TikTok antes que Instagram; si da "límite 30 programados", programa menos días por adelantado).
 2. **09:30 = riesgo de Vinted en lista CONCRETA** ("3 cosas/3 estafas/3 avisos" con cada cosa nombrada + 🚫/🚩). Evita el riesgo vago.
-3. **17:30 = historia propia de un problema + cómo lo resolví** o lista con frases exactas ("3 frases", 713); nunca consejo plano.
+3. **16:30-17:30 = historia propia de un problema + cómo lo resolví** (devoluciones, pagos, paquetes) o lista con frases exactas; nunca consejo plano.
 4. **Cierra con "¿cuál/qué ___ pones tú?" o con 2-3 opciones para elegir**. Evita "¿lo sabías?".
 5. **Fuera reflexiones de noche sin consejo, comparaciones Vinted/Wallapop y serie de proveedores como catálogo**. A las 20:30/23:30: aprendizajes propios o lista negativa ("lo que NO compraría").
 
-**Temas/ganchos a priorizar los próximos días** (ninguno está en historial.json)
-1. "3 mensajes de «Vinted» que son falsos 🚩" (09:30). Cierre: "¿cuál te ha llegado: 1, 2 o 3?".
-2. "3 cosas que hacen que Vinted te oculte un artículo 🚫" (09:30). Cierre: "¿cuál haces tú: 1, 2 o 3?".
-3. "me retuvieron un pago en Vinted y lo recuperé (así) 💸" (17:30). Cierre: "¿cuántos días te ha tardado a ti?".
-4. "un comprador dijo que no le llegó y gané igual (así) 📦" (17:30). Cierre: "¿envías con Correos, InPost o Seur?".
-5. "qué vender en Vinted antes del Black Friday (27 nov) 🛍️" (12:30). Cierre: "¿tú qué vas a subir?".
+**Temas/ganchos a priorizar los próximos días** (ya están hechos en la semana 16-22 nov: publicar estos primero)
+1. "3 mensajes de «Vinted» que son falsos 🚩" (salida/2026-11-16_1140).
+2. "3 cosas que hacen que Vinted oculte tu artículo 🚫" (salida/2026-11-17_0935).
+3. "el comprador no confirmaba y mi dinero no llegaba 😩" (salida/2026-11-16_1730).
+4. "me dijeron que no les llegó el paquete (y no perdí nada) 📦" (salida/2026-11-17_1720).
+5. "lo que subiría a Vinted antes del Black Friday 🛍️" (salida/2026-11-20_1235) — adelantarlo si se puede, el Black Friday es el 27 nov.
