@@ -115,8 +115,8 @@ Varía también:
 - Señales de un proveedor estafa
 
 ## Aprendizajes de los datos (se actualiza cada día)
-**Actualizado: 27 nov 2026** (Metricool, 20 nov - 27 nov Madrid, solo carruseles PHOTO con más de 12 h). **La ventana sigue VACÍA: 0 carruseles publicados en TikTok en los últimos 7 días, 0 visitas, 0 comentarios.**
-- 🚨 **Decimonoveno día sin publicar en TikTok: lo último es del 8 nov 12:35.** Ayer (26 nov) = 0 publicaciones, 0 visitas, y no se generó ningún carrusel nuevo (el último del historial sigue siendo del 22 nov 23:35). Metricool no tiene NADA programado del 20 nov al 6 dic. Los 35 carruseles de la semana 16-22 nov siguen "listo, sin programar" (instrucciones en `salida/JARVIS_programar_semana_2026-11-16.md`).
+**Actualizado: 28 nov 2026** (Metricool, 21 nov - 28 nov Madrid, solo carruseles PHOTO con más de 12 h). **La ventana sigue VACÍA: 0 carruseles publicados en TikTok en los últimos 7 días, 0 visitas, 0 comentarios.**
+- 🚨 **Vigésimo día sin publicar en TikTok: lo último es del 8 nov 12:35.** Ayer (27 nov, Black Friday) = 0 publicaciones, 0 visitas, y no se generó ningún carrusel nuevo (el último del historial sigue siendo del 22 nov 23:35). Metricool no tiene NADA programado del 27 nov al 8 dic. Los 35 carruseles de la semana 16-22 nov siguen "listo, sin programar" (instrucciones en `salida/JARVIS_programar_semana_2026-11-16.md`).
 - **Mejores / peores**: no hay ningún carrusel medible esta semana, así que no hay top 3 ni peor 3. No se sacan conclusiones nuevas.
 - **Última referencia (ya fuera de ventana, 25 oct - 8 nov)**: mejores "cosas que Vinted no te deja vender 🚫" (2.642 visitas, 1 com.), "¿cuál decías tú?" 29 oct 16:20 (2.187, 0 com.), devoluciones 5 nov 16:25 (2.045, 0 com.), mensajes/estafas 09:35 (1.673 y 1.542, 1 y 0 com.). Peores: serie de proveedores "parte 3-6" (249-297, 0 com.) y reflexiones/mentalidad de noche (296-365, 0 com.).
 - **Franja, nº de diapositivas y guía del CTA**: sin datos nuevos. Se mantienen las pistas anteriores (08:30-09:30 y 16:20-17:30 las mejores franjas, 5 diapositivas, guía "pack").
@@ -129,7 +129,7 @@ Varía también:
 5. **Fuera reflexiones de noche sin consejo, comparaciones Vinted/Wallapop y serie de proveedores como catálogo**. A las 20:30/23:30: aprendizajes propios o lista negativa ("lo que NO compraría").
 
 **Temas/ganchos a priorizar los próximos días** (ya están hechos: publicar estos primero, aunque su fecha haya pasado)
-- ❌ **Descartados**: los dos de Black Friday ("lo que subiría a Vinted antes del Black Friday", salida/2026-11-20_1235, y "POV: llega el Black Friday", salida/2026-11-20_2340): el Black Friday es HOY 27 nov y ya llegan tarde. No publicarlos.
+- ❌ **Descartados**: los dos de Black Friday (salida/2026-11-20_1235 y salida/2026-11-20_2340): el Black Friday ya pasó (27 nov). No publicarlos. Con diciembre al llegar, "lo que NO compraría para revender en Navidad 🚫🎄" (salida/2026-11-18_2040) gana actualidad: publicarlo esta semana a las 20:30.
 1. "3 cosas que nunca debes aceptar como vendedor en Vinted 🚫" (salida/2026-11-21_0935) — riesgo en lista concreta, el formato que mejor iba. Publicar a las 09:30.
 2. "3 cosas de tu perfil de Vinted que hacen que no te compren 🚩" (salida/2026-11-22_0940) — riesgo en lista concreta.
 3. "me devolvieron una prenda manchada que no estaba así 😤" (salida/2026-11-19_1730) — historia de devolución, la 2ª mejor franja/tema. Publicar a las 17:00-17:30.
